@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Notes</title>
+        <style>
+            div.note {
+                border: 1px solid #eaeaea;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="timeline">
+            {% for note in notes %}
+                <div class="note">
+                    <p>{{ note.text }}</p>
+                    <time>{{ note.timestamp }}</time>
+                </div>
+            {% endfor %}
+        </div>
+    </body>
+</html>
