@@ -8,12 +8,26 @@
             div.note {
                 border: 1px solid #eaeaea;
             }
+            blockquote:before {
+                content: "“";
+            }
+            blockquote:after {
+                content: "”";
+            }
         </style>
     </head>
     <body>
         <div class="timeline">
-            {% for note in notes %}
+            {% for note in notes | sort(reverse=True, attribute='timestamp') %}
                 <div class="note">
+                    {% if 'in_reply_to' in note %}
+                        <p>
+                            In reply to {{ note.in_reply_to.toot.user }}'s post
+                            on
+                            <time>{{ note.in_reply_to.toot.timestamp }}</time>:
+                        </p>
+                        <blockquote>{{ note.in_reply_to.text }}</blockquote>
+                    {% endif %}
                     <p>{{ note.text }}</p>
                     <time>{{ note.timestamp }}</time>
                 </div>
