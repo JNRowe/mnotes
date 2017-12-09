@@ -14,7 +14,7 @@ ABBREVS = {re.compile(fr'\b{_ABBRREVISE(s)}\b'):
            for s in ABBREVS}
 ENV = jinja2.Environment(loader=jinja2.FileSystemLoader('templates/'))
 HTML_FILTERS = {
-    re.compile(r'(#\w+)'): r'<b>\1</b>',
+    re.compile(r'(#\w+(?=[^\d\S]))', re.IGNORECASE): r'<b>\1</b>',
     re.compile(r'(https?://[\w\.?=\+/_-]+)', re.IGNORECASE):
         r'<a href="\1">\1</a>',
     re.compile(r'(@\w+(?:@\w+)*)'): r'<em>\1</em>',
