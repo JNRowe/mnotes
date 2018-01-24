@@ -25,5 +25,9 @@
     {
         "text": "TFW you realise it will be quicker to fix build failures for old emacs version than update your old configuration for new emacs version",
         "timestamp": "2018-01-09T20:18:39+00:00"
+    },
+    {
+        "text": "TIL you can use #typescript to make #gnome shell extensions.  Far, far nicer experience AFAIC.",
+        "timestamp": "2018-01-24T07:32:46+00:00"
     }
 ]
