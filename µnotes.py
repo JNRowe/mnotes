@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+import html
 import json
 import re
 
@@ -10,7 +11,7 @@ with open('data/abbrevs.dat') as f:
     ABBREVS = [l.strip() for l in f]
 _ABBRREVISE = lambda s: ''.join([s[0] for s in s.split()])  # NOQA
 ABBREVS = {re.compile(fr'\b{_ABBRREVISE(s)}\b'):
-           f'<abbr title="{s}">{_ABBRREVISE(s)}</abbr>'
+           f'<abbr title="{html.escape(s, True)}">{_ABBRREVISE(s)}</abbr>'
            for s in ABBREVS}
 ENV = jinja2.Environment(loader=jinja2.FileSystemLoader('templates/'))
 HTML_FILTERS = {
@@ -23,6 +24,7 @@ HTML_FILTERS = {
 
 def htmlise(dct):
     if 'text' in dct:
+        dct['text'] = html.escape(dct['text'])
         for pat, repl in HTML_FILTERS.items():
             dct['text'] = pat.sub(repl, dct['text'])
         for pat, repl in ABBREVS.items():
