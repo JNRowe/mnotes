@@ -21,12 +21,21 @@
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
                 <div class="note">
                     {% if 'in_reply_to' in note %}
-                        <p>
-                            In reply to {{ note.in_reply_to.toot.user }}'s post
-                            on
-                            <time>{{ note.in_reply_to.toot.timestamp }}</time>:
-                        </p>
-                        <blockquote>{{ note.in_reply_to.text }}</blockquote>
+                        {% if 'url' in note.in_reply_to %}
+                            <p>
+                                In response to
+                                <a href="{{ note.in_reply_to.url }}">
+                                    {{ note.in_reply_to.title }}
+                                </a>:
+                            </p>
+                        {% else %}
+                            <p>
+                                In reply to {{ note.in_reply_to.toot.user }}'s post
+                                on
+                                <time>{{ note.in_reply_to.toot.timestamp }}</time>:
+                            </p>
+                            <blockquote>{{ note.in_reply_to.text }}</blockquote>
+                        {% endif %}
                     {% endif %}
                     <p>{{ note.text }}</p>
                     <time>{{ note.timestamp }}</time>
