@@ -37,5 +37,13 @@
     {
         "text": "Love python f-strings\u2026 however, I just saw a lambda defined *in* one.  Like finding a piece of mouse tail in your fourth pakora",
         "timestamp": "2018-05-24T05:16:20+01:00"
+    },
+    {
+        "in_reply_to": {
+            "title": "Shimano Synchro for Triathlon",
+            "url": "https://www.slowtwitch.com/Products/Components/Shimano_Synchro_for_Triathlon_6879.html"
+        },
+        "text": "Things I never thought I\u2019d say: \u201cWonder if someone has reverse engineered Shimano\u2019s new gear config system yet?\u201d  (Not on GitHub FWIW)",
+        "timestamp": "2018-06-09T01:52:17+01:00"
     }
 ]
