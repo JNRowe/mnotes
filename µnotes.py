@@ -20,6 +20,7 @@ HTML_FILTERS = {
         r'<a href="\1">\1</a>',
     re.compile(r'(@\w+(?:@\w+)*)'): r'<em>\1</em>',
     re.compile(r'\*(\w+)\*'): r'<strong>\1</strong>',
+    re.compile(r'``(.*?)``'): r'<code>\1</code>',
 }
 
 

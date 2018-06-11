@@ -13,6 +13,7 @@ except FileNotFoundError:
 
 parser = argparse.ArgumentParser()
 group = parser.add_mutually_exclusive_group()
+group.add_argument('-s', '--reply-self')
 group.add_argument('-u', '--reply-url')
 parser.add_argument('-U', '--reply-title')
 group.add_argument('-r', '--reply-to')
@@ -32,7 +33,11 @@ note = {
     'text': args.text,
     'timestamp': ts,
 }
-if args.reply_url:
+if args.reply_self:
+    note['in_reply_url'] = {
+        'self': args.reply_self,
+    }
+elif args.reply_url:
     note['in_reply_url'] = {
         'title': args.reply_title,
         'url': args.reply_url

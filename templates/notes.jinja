@@ -19,7 +19,7 @@
     <body>
         <div class="timeline">
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
-                <div class="note">
+                <div class="note" id="{{ note.timestamp }}">
                     {% if 'in_reply_to' in note %}
                         {% if 'url' in note.in_reply_to %}
                             <p>
@@ -27,6 +27,12 @@
                                 <a href="{{ note.in_reply_to.url }}">
                                     {{ note.in_reply_to.title }}
                                 </a>:
+                            </p>
+                        {% elif 'self' in note.in_reply_to %}
+                            <p>
+                                In reply to
+                                <a href="#{{ note.in_reply_to.self }}">my post</a>
+                                on <time>{{ note.in_reply_to.self }}</time>:
                             </p>
                         {% else %}
                             <p>
