@@ -53,5 +53,12 @@
         },
         "text": "Dropped my #zsh startup from 1.2s to 0.4s by just thinking about it.  Well, that and noticing I was burning nearly a second on a spinlock",
         "timestamp": "2018-06-11T02:40:18+01:00"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-06-11T02:40:18+01:00"
+        },
+        "text": "\u2026 and 0.13s by fixing my ``~/build.ninja`` to prefer ``zcompile``'ing whole directories instead of individual files",
+        "timestamp": "2018-06-11T03:01:07+01:00"
     }
 ]
