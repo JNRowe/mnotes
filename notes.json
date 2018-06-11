@@ -45,5 +45,13 @@
         },
         "text": "Things I never thought I\u2019d say: \u201cWonder if someone has reverse engineered Shimano\u2019s new gear config system yet?\u201d  (Not on GitHub FWIW)",
         "timestamp": "2018-06-09T01:52:17+01:00"
+    },
+    {
+        "in_reply_to": {
+            "title": "Speeding up zsh and Oh-My-Zsh",
+            "url": "https://blog.jonlu.ca/posts/speeding-up-zsh"
+        },
+        "text": "Dropped my #zsh startup from 1.2s to 0.4s by just thinking about it.  Well, that and noticing I was burning nearly a second on a spinlock",
+        "timestamp": "2018-06-11T02:40:18+01:00"
     }
 ]
