@@ -60,5 +60,14 @@
         },
         "text": "\u2026 and 0.13s by fixing my ``~/build.ninja`` to prefer ``zcompile``'ing whole directories instead of individual files",
         "timestamp": "2018-06-11T03:01:07+01:00"
+    },
+    {
+        "media": {
+            "comment": "Screenshot from Missions bug fixing session",
+            "file": "missions_scap.jpg",
+            "link": "https://en.m.wikipedia.org/wiki/Missions_(TV_series)"
+        },
+        "text": "Travelling to Mars seems cool, right?  Maybe not; have to fix go code, and people won\u2019t use ``:syntax on``.  #Missions has been fun though",
+        "timestamp": "2018-07-07T22:52:01+01:00"
     }
 ]
