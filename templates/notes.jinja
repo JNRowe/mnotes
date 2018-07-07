@@ -43,6 +43,13 @@
                             <blockquote>{{ note.in_reply_to.text }}</blockquote>
                         {% endif %}
                     {% endif %}
+                    {% if 'media' in note %}
+                        <a href="{{ note.media.link }}">
+                            <img src="media/{{ note.media.file }}"
+                                 alt="{{ note.media.comment }}"
+                                 width="33%" />
+                        </a>
+                    {% endif %}
                     <p>{{ note.text }}</p>
                     <time>{{ note.timestamp }}</time>
                 </div>

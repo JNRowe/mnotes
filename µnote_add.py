@@ -12,6 +12,9 @@ except FileNotFoundError:
     notes = []
 
 parser = argparse.ArgumentParser()
+parser.add_argument('-c', '--media-comment')
+parser.add_argument('-l', '--media-link')
+parser.add_argument('-f', '--media-file')
 group = parser.add_mutually_exclusive_group()
 group.add_argument('-s', '--reply-self')
 group.add_argument('-u', '--reply-url')
@@ -21,6 +24,9 @@ parser.add_argument('-t', '--reply-quote')
 parser.add_argument('-i', '--reply-time')
 parser.add_argument('text')
 args = parser.parse_args()
+if any([args.media_comment, args.media_link, args.media_file]) and not \
+   all([args.media_comment, args.media_link, args.media_file]):
+    raise argparse.ArgumentTypeError('Media posts require -c, -l and -f')
 if any([args.reply_url, args.reply_title]) and not \
    all([args.reply_url, args.reply_title]):
     raise argparse.ArgumentTypeError('URL replies require -u and -U')
@@ -33,6 +39,12 @@ note = {
     'text': args.text,
     'timestamp': ts,
 }
+if args.media_comment:
+    note['media'] = {
+        'comment': args.media_comment,
+        'link': args.media_link,
+        'file': args.media_file,
+    }
 if args.reply_self:
     note['in_reply_url'] = {
         'self': args.reply_self,
