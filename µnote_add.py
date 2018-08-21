@@ -15,6 +15,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--media-comment')
 parser.add_argument('-l', '--media-link')
 parser.add_argument('-f', '--media-file')
+parser.add_argument('-e', '--reference-url', action='append')
+parser.add_argument('-E', '--reference-title', action='append')
 group = parser.add_mutually_exclusive_group()
 group.add_argument('-s', '--reply-self')
 group.add_argument('-u', '--reply-url')
@@ -27,6 +29,12 @@ args = parser.parse_args()
 if any([args.media_comment, args.media_link, args.media_file]) and not \
    all([args.media_comment, args.media_link, args.media_file]):
     raise argparse.ArgumentTypeError('Media posts require -c, -l and -f')
+if any([args.reference_url, args.reference_title]) and not \
+   all([args.reference_url, args.reference_title]):
+    raise argparse.ArgumentTypeError('References require -e and -E')
+if args.reference_url and \
+   len(args.reference_url) != len(args.reference_title):
+    raise argparse.ArgumentTypeError("Inconsistent number of -e and -E")
 if any([args.reply_url, args.reply_title]) and not \
    all([args.reply_url, args.reply_title]):
     raise argparse.ArgumentTypeError('URL replies require -u and -U')
@@ -45,6 +53,10 @@ if args.media_comment:
         'link': args.media_link,
         'file': args.media_file,
     }
+if args.reference_url:
+    note['references'] = [{'title': t, 'url': u}
+                          for t, u in zip(args.reference_title,
+                                          args.reference_url)]
 if args.reply_self:
     note['in_reply_url'] = {
         'self': args.reply_self,

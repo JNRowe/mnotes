@@ -51,6 +51,17 @@
                         </a>
                     {% endif %}
                     <p>{{ note.text }}</p>
+                    {% if 'references' in note %}
+                        <ul>
+                            {% for ref in note.references %}
+                                <li>
+                                    <a href="{{ ref.url }}">
+                                        <cite>{{ ref.title }}</cite>
+                                    </a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
                     <time>{{ note.timestamp }}</time>
                 </div>
             {% endfor %}
