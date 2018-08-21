@@ -85,5 +85,19 @@
     {
         "text": "Work friend: \u201dIt is nice that you\u2019re learning Russian, not so much that I need to merge to \u043c\u0430\u0441\u0442\u0435\u0440\u201d",
         "timestamp": "2018-07-27T07:14:41+01:00"
+    },
+    {
+        "references": [
+            {
+                "title": "The Handmaid's Tale",
+                "url": "https://www.hulu.com/the-handmaids-tale"
+            },
+            {
+                "title": "Channel 4 description and run",
+                "url": "https://www.channel4.com/programmes/the-handmaids-tale"
+            }
+        ],
+        "text": "Just finished watching The Handmaid\u2019s Tale season 2; \u2606\u2606\u2606\u2606\u2606. I\u2026 words have failed me",
+        "timestamp": "2018-08-21T21:29:47+01:00"
     }
 ]
