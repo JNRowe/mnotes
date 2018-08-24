@@ -99,5 +99,15 @@
         ],
         "text": "Just finished watching The Handmaid\u2019s Tale season 2; \u2606\u2606\u2606\u2606\u2606. I\u2026 words have failed me",
         "timestamp": "2018-08-21T21:29:47+01:00"
+    },
+    {
+        "references": [
+            {
+                "title": "Modern Vim - Craft Your Development Environment with Vim 8 and Neovim",
+                "url": "https://pragprog.com/book/modvim/modern-vim"
+            }
+        ],
+        "text": "Reading \u201cModern Vim\u201d.  Absolutely fantastic, loads of \u2018TIL\u2019 moments even after literally decades of vim use.",
+        "timestamp": "2018-08-24T18:04:56+01:00"
     }
 ]
