@@ -127,5 +127,9 @@
         },
         "text": "@rafe@eads_cs So, at some point I\u2019m going to realise you\u2019re a character in *my* Truman Show and you\u2019re helping me find the exit?",
         "timestamp": "2018-08-26T17:38:23+01:00"
+    },
+    {
+        "text": "Thought: If #vim performed a ``<C-g>u`` equivalent on typing ``[\\.!?\u00bf:;]``, the undo tree when writing prose would be vastly improved.  Let\u2019s see\u2026",
+        "timestamp": "2018-08-28T09:18:28+01:00"
     }
 ]
