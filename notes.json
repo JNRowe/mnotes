@@ -131,5 +131,15 @@
     {
         "text": "Thought: If #vim performed a ``<C-g>u`` equivalent on typing ``[\\.!?\u00bf:;]``, the undo tree when writing prose would be vastly improved.  Let\u2019s see\u2026",
         "timestamp": "2018-08-28T09:18:28+01:00"
+    },
+    {
+        "references": [
+            {
+                "title": "pygal - SVG charts generator",
+                "url": "http://pygal.org"
+            }
+        ],
+        "text": "The instant gratification with pygal is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.",
+        "timestamp": "2018-09-14T16:16:30+01:00"
     }
 ]
