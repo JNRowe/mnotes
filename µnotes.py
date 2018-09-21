@@ -19,6 +19,7 @@ HTML_FILTERS = {
     re.compile(r'(https?://[\w\.?=\+/_-]+)', re.IGNORECASE):
         r'<a href="\1">\1</a>',
     re.compile(r'(@\w+(?:@\w+)*)'): r'<em>\1</em>',
+    re.compile(r'\*(\w+)\*'): r'<strong>\1</strong>',
 }
 
 
