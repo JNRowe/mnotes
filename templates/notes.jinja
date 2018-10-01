@@ -44,11 +44,15 @@
                         {% endif %}
                     {% endif %}
                     {% if 'media' in note %}
-                        <a href="{{ note.media.link }}">
-                            <img src="media/{{ note.media.file }}"
-                                 alt="{{ note.media.comment }}"
-                                 width="33%" />
-                        </a>
+                        {% if 'link' in note.media %}
+                            <a href="{{ note.media.link }}">
+                        {% endif %}
+                        <img src="media/{{ note.media.file }}"
+                             alt="{{ note.media.comment }}"
+                             width="33%" />
+                        {% if 'link' in note.media %}
+                            </a>
+                        {% endif %}
                     {% endif %}
                     <p>{{ note.text }}</p>
                     {% if 'references' in note %}
