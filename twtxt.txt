@@ -1,0 +1,38 @@
+2017-12-06T18:00:34+00:00	#POSSE my #mastodon interactions (https://indieweb.org/POSSE)
+2017-12-06T18:00:49+00:00	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt> Thanks for the nudge, couple of minutes in to a solution now.
+2017-12-07T17:40:14+00:00	Just finished my 1º #guile #make extension… TIL none of our CI servers have #make with #guile support, and many devs have pre-GPL3 make.
+2017-12-09T05:22:29+00:00	Got myself on the #aoc leaderboard this morning(#91)… now back to sleep as its 5am 😪  http://adventofcode.com/2017/leaderboard/day/9
+2018-01-09T20:18:39+00:00	TFW you realise it will be quicker to fix build failures for old emacs version than update your old configuration for new emacs version
+2018-01-24T07:32:46+00:00	TIL you can use #typescript to make #gnome shell extensions.  Far, far nicer experience AFAIC.
+2018-04-26T10:12:53+01:00	Proof you work with strange nerds #0: Your *favourite* co-worker has added “<nav class='reclamantes'>” to your project’s documentation
+2018-05-24T05:16:20+01:00	Love python f-strings… however, I just saw a lambda defined *in* one.  Like finding a piece of mouse tail in your fourth pakora
+2018-06-09T01:52:17+01:00	Things I never thought I’d say: “Wonder if someone has reverse engineered Shimano’s new gear config system yet?”  (Not on GitHub FWIW)
+2018-06-11T02:40:18+01:00	Dropped my #zsh startup from 1.2s to 0.4s by just thinking about it.  Well, that and noticing I was running burning nearly a second on a
+2018-06-11T02:40:18+01:00	…spinlock
+2018-06-11T03:01:07+01:00	… and 0.13s by fixing my ``~/build.ninja`` to prefer ``zcompile``'ing whole directories instead of individual files
+2018-07-07T22:52:01+01:00	Travelling to Mars seems cool, right?  Maybe not; have to fix go code, and people won’t use ``:syntax on``.  #Missions has been fun though
+2018-07-13T09:37:40+01:00	So was Microsoft Surface a really clever Bait & Switch?  A search reveals people gushing over the table, and links to buy the table*t*
+2018-07-17T17:52:23+01:00	Stranger on train: “Mind if a eat this sandwich?” Me: “‘course not… assuming it isn’t tuna.” Other random passenger: “Sadly, people who eat
+2018-07-17T17:52:23+01:00	…tuna or egg don’t ask”
+2018-07-18T15:29:56+01:00	OH: You use the word “logic” in a way which, er… proves you don’t know what it means and is simultaneously utterly devoid of it
+2018-07-27T07:14:41+01:00	Work friend: ”It is nice that you’re learning Russian, not so much that I need to merge to мастер”
+2018-08-21T21:29:47+01:00	Just finished watching The Handmaid’s Tale season 2; ☆☆☆☆☆. I… words have failed me
+2018-08-24T18:04:56+01:00	Reading “Modern Vim”.  Absolutely fantastic, loads of ‘TIL’ moments even after literally decades of vim use.
+2018-08-24T18:05:45+01:00	Eddy looks *disturbingly* poised for action too.  All in all, excellent tip jar gift.  Thanks @<mickey
+2018-08-24T18:05:45+01:00	…https://mastodon.eads_cs/mickey/twtxt.txt>!
+2018-08-26T17:38:23+01:00	@<rafe https://mastodon.eads_cs/rafe/twtxt.txt> So, at some point I’m going to realise you’re a character in *my* Truman Show and you’re
+2018-08-26T17:38:23+01:00	…helping me find the exit?
+2018-08-28T09:18:28+01:00	Thought: If #vim performed a ``<C-g>u`` equivalent on typing ``[\.!?¿:;]``, the undo tree when writing prose would be vastly improved.
+2018-08-28T09:18:28+01:00	…Let’s see…
+2018-09-14T16:16:30+01:00	The instant gratification with `pygal <http://pygal.org/>`__ is huge.  Truly beautiful output in a matter of minutes from popping open the
+2018-09-14T16:16:30+01:00	…docs.  Just. Use. It.
+2018-09-15T06:41:29+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Posted “Vim with day/night colourschemes” especially for you, not promising I’ll bring
+2018-09-15T06:41:29+01:00	…back the frequent tips though
+2018-09-15T10:32:20+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Really enjoyed churning it out actually; more so now I’ve seen Mickey’s golf.  I’m at
+2018-09-15T10:32:20+01:00	…L440 on Tuesday, I’ll drop in for coffee prize!
+2018-10-01T15:16:52+01:00	Prepping my talk for Space Saturday(yep, this Saturday).  Realise I’m largely trying to decide whether to make bear jokes or political
+2018-10-01T15:16:52+01:00	…commentary.
+2018-10-01T15:23:45+01:00	Oh, and I have guest tickets for the 11’up event if — like me — you want to visit the yard and haven’t been allowed in before.  @ or mail
+2018-10-01T15:23:45+01:00	…me.
+2018-10-05T13:33:58+01:00	Friend tells story of co-worker who explains /everything/ in story form using ST:TNG’s *amazing* Darmok episode as a device… without ever
+2018-10-05T13:33:58+01:00	…seeing the loop. 🤯
