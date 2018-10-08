@@ -24,7 +24,7 @@ for note, post in list(zip(reversed(notes),
     title = note.text
     content = html.tostring(post, True).decode()
     content = content.strip().replace('\n', '')
-    time = parse_datetime(post.find('time').text)
+    time = parse_datetime(post.cssselect('p time')[0].text)
     feed.add(title=title,
              content=content,
              content_type='html',
