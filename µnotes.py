@@ -6,6 +6,8 @@ import re
 
 import jinja2
 
+from jnrbase.attrdict import AttrDict
+
 
 with open('data/abbrevs.dat') as f:
     ABBREVS = [l.strip() for l in f]
@@ -37,6 +39,9 @@ def htmlise(dct):
 with open('data/notes.json') as f:
     notes = json.load(f, object_hook=htmlise)
 
+with open('data/config.json') as f:
+    config = json.load(f, object_hook=AttrDict)
+
 tmpl = ENV.get_template('notes.jinja')
 
-print(tmpl.render(notes=notes))
+print(tmpl.render(notes=notes, **config))

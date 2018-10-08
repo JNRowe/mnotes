@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
-        <title>Notes</title>
+        <title>{{ title }}</title>
         <style>
             div.note {
                 border: 1px solid #eaeaea;
@@ -15,6 +15,8 @@
                 content: "”";
             }
         </style>
+        <link href="{{ url }}atom.xml" rel="alternate" title="Notes"
+              type="application/atom+xml" />
     </head>
     <body>
         <div class="timeline">
@@ -54,7 +56,7 @@
                             </a>
                         {% endif %}
                     {% endif %}
-                    <p>{{ note.text }}</p>
+                    <p class="text">{{ note.text }}</p>
                     {% if 'references' in note %}
                         <ul>
                             {% for ref in note.references %}
