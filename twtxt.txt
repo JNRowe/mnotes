@@ -36,3 +36,4 @@
 2018-10-01T15:23:45+01:00	…me.
 2018-10-05T13:33:58+01:00	Friend tells story of co-worker who explains /everything/ in story form using ST:TNG’s *amazing* Darmok episode as a device… without ever
 2018-10-05T13:33:58+01:00	…seeing the loop. 🤯
+2018-10-08T08:39:24+01:00	Playing around with GitHub issue replies for @<Nathan https://mastodon.eads_cs/Nathan/twtxt.txt>
