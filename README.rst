@@ -31,14 +31,19 @@ what it feels like, try the following:
 
 .. code-block:: console
 
-   $ git clone https://github.com/JNRowe/µnotes
+   $ git clone https://github.com/JNRowe/mnotes µnotes
+   $ cd !$
    $ # Try out my data repo…
-   $ git clone https://github.com/JNRowe/µnotes-data data
+   $ git clone https://github.com/JNRowe/mnotes-data data
    $ ./µnotes.py > output.html
    $ xdg-open !$
 
 Other than that you’re on your own!
 
+.. note::
+
+   This project should be µnotes, but GitHub won’t accept µ in the repo name.
+
 .. _mail: jnrowe@gmail.com
-.. _data: https://github.com/JNRowe/µnotes-data
-.. _issue: https://github.com/JNRowe/µnotes/issues
+.. _data: https://github.com/JNRowe/mnotes-data
+.. _issue: https://github.com/JNRowe/mnotes/issues
