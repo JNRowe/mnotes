@@ -1,3 +1,8 @@
+{%- macro dt_elem(ts) -%}
+    <time datetime="{{ ts.isoformat() }}">
+        {{- ts.strftime('%b %d, %H:%M') -}}
+    </time>
+{%- endmacro -%}
 <!DOCTYPE html>
 <html>
     <head>
@@ -23,7 +28,8 @@
     <body>
         <div class="timeline">
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
-                <div class="note" id="TS{{ note.timestamp }}">
+                <div class="note"
+                     id="TS{{ note.timestamp.isoformat() }}">
                     {% if 'in_reply_to' in note %}
                         {% if 'url' in note.in_reply_to %}
                             <p>
@@ -36,13 +42,14 @@
                             <p>
                                 In reply to
                                 <a href="#TS{{ note.in_reply_to.self }}">my post</a>
-                                on <time>{{ note.in_reply_to.self }}</time>:
+                                on
+                                {{ dt_elem(note.in_reply_to.self) }}:
                             </p>
                         {% else %}
                             <p>
                                 In reply to {{ note.in_reply_to.toot.user }}'s post
                                 on
-                                <time>{{ note.in_reply_to.toot.timestamp }}</time>:
+                                {{ dt_elem(note.in_reply_to.toot.timestamp) }}:
                             </p>
                             <blockquote>{{ note.in_reply_to.text }}</blockquote>
                         {% endif %}
@@ -71,7 +78,7 @@
                         </ul>
                     {% endif %}
                     <p>
-                        <time>{{ note.timestamp }}</time>
+                        {{ dt_elem(note.timestamp) }}
                         ·
                         <a href="https://github.com/{{ github_repo }}/
                             {%- if note.issue -%}

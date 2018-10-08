@@ -6,6 +6,7 @@ import re
 
 import jinja2
 
+from ciso8601 import parse_datetime
 from jnrbase.attrdict import AttrDict
 
 
@@ -26,18 +27,23 @@ HTML_FILTERS = {
 }
 
 
-def htmlise(dct):
+def munge(dct):
+    dct = AttrDict(**dct)
     if 'text' in dct:
-        dct['text'] = html.escape(dct['text'])
+        dct.text = html.escape(dct.text)
         for pat, repl in HTML_FILTERS.items():
-            dct['text'] = pat.sub(repl, dct['text'])
+            dct.text = pat.sub(repl, dct.text)
         for pat, repl in ABBREVS.items():
-            dct['text'] = pat.sub(repl, dct['text'])
+            dct.text = pat.sub(repl, dct.text)
+    if 'timestamp' in dct:
+        dct.timestamp = parse_datetime(dct.timestamp)
+    if 'self' in dct:
+        dct.self = parse_datetime(dct.self)
     return dct
 
 
 with open('data/notes.json') as f:
-    notes = json.load(f, object_hook=htmlise)
+    notes = json.load(f, object_hook=munge)
 
 with open('data/config.json') as f:
     config = json.load(f, object_hook=AttrDict)
