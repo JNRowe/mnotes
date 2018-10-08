@@ -1,0 +1,13 @@
+{
+    "title": "@JNRowe notes",
+    "url": "https://jnrowe.github.io/mnotes/",
+    "feed_url": "https://jnrowe.github.io/mnotes/atom.xml",
+    "author": {
+        "email": "jnrowe@gmail.com",
+        "name": "James Rowe",
+        "uri": "https://jnrowe.github.io/"
+    },
+    "logo": "https://jnrowe.github.io/_images/pavatar.png",
+    "subtitle": "Public ramblings of @JNRowe",
+    "generator": ["µnotes", "https://github.io/JNRowe/mnotes", null]
+}
