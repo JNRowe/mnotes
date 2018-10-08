@@ -7,6 +7,7 @@
         "name": "James Rowe",
         "uri": "https://jnrowe.github.io/"
     },
+    "github_repo": "JNRowe/mnotes",
     "logo": "https://jnrowe.github.io/_images/pavatar.png",
     "subtitle": "Public ramblings of @JNRowe",
     "generator": ["µnotes", "https://github.io/JNRowe/mnotes", null]
