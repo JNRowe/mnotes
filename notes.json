@@ -201,5 +201,16 @@
         },
         "text": "@MissLB@eads_cs Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me immediately.",
         "timestamp": "2018-10-20T14:46:26+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs DaveJ linked me to the CamTech network, and they push down to Hertford.  *All* pre-screened recruiters.",
+            "toot": {
+                "timestamp": "2018-10-20T15:55:18+01:00",
+                "user": "@leon@gwr"
+            }
+        },
+        "text": "@leon@gwr Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold call.",
+        "timestamp": "2018-10-20T16:35:40+0100"
     }
 ]
