@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-10-20T14:38:23+01:00</updated>
+  <updated>2018-10-20T15:55:18+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@leon@gwr Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold call.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00</id>
+    <updated>2018-10-20T15:55:18+01:00</updated>
+    <published>2018-10-20T15:55:18+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-20T16:35:40+01:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to @leon@gwr's post                                on                                &lt;time datetime=&quot;2018-10-20T15:55:18+01:00&quot;&gt;Oct 20, 15:55&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; DaveJ linked me to the CamTech network, and they push down to Hertford.  &lt;strong&gt;All&lt;/strong&gt; pre-screened recruiters.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@leon@gwr&lt;/em&gt; Thanks, that&amp;#8217;ll help.  Can&amp;#8217;t believe how slimy some of the &amp;#8220;top&amp;#8221; companies seemed on a cold call.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-20T16:35:40+01:00&quot;&gt;Oct 20, 16:35&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@MissLB@eads_cs Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me immediately.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00</id>
@@ -124,14 +132,6 @@
     <published>2018-08-21T21:29:47+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-08-21T21:29:47+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-08-21T21:29:47+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Just finished watching The Handmaid&amp;#8217;s Tale season 2; &amp;#9734;&amp;#9734;&amp;#9734;&amp;#9734;&amp;#9734;. I&amp;#8230; words have failed me&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.hulu.com/the-handmaids-tale&quot;&gt;                                        &lt;cite&gt;The Handmaid's Tale&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.channel4.com/programmes/the-handmaids-tale&quot;&gt;                                        &lt;cite&gt;Channel 4 description and run&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-08-21T21:29:47+01:00&quot;&gt;Aug 21, 21:29&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Work friend: ”It is nice that you’re learning Russian, not so much that I need to merge to мастер”</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-07-27T07:14:41+01:00</id>
-    <updated>2018-07-27T07:14:41+01:00</updated>
-    <published>2018-07-27T07:14:41+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-07-27T07:14:41+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-07-27T07:14:41+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Work friend: &amp;#8221;It is nice that you&amp;#8217;re learning Russian, not so much that I need to merge to &amp;#1084;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#8221;&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-07-27T07:14:41+01:00&quot;&gt;Jul 27, 07:14&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
