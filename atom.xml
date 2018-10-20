@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-10-08T08:39:24+01:00</updated>
+  <updated>2018-10-20T14:36:36+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00</id>
+    <updated>2018-10-20T14:36:36+01:00</updated>
+    <published>2018-10-20T14:36:36+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-20T14:36:36+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-20T14:36:36+01:00&quot;&gt;Oct 20, 14:36&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Playing around with GitHub issue replies for @Nathan@eads_cs</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-08T08:39:24+01:00</id>
@@ -124,14 +132,6 @@
     <published>2018-07-18T15:29:56+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-07-18T15:29:56+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-07-18T15:29:56+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;OH: You use the word &amp;#8220;logic&amp;#8221; in a way which, er&amp;#8230; proves you don&amp;#8217;t know what it means and is simultaneously utterly devoid of it&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-07-18T15:29:56+01:00&quot;&gt;Jul 18, 15:29&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Stranger on train: “Mind if a eat this sandwich?” Me: “‘course not… assuming it isn’t tuna.” Other random passenger: “Sadly, people who eat tuna or egg don’t ask”</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-07-17T17:52:23+01:00</id>
-    <updated>2018-07-17T17:52:23+01:00</updated>
-    <published>2018-07-17T17:52:23+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-07-17T17:52:23+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-07-17T17:52:23+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Stranger on train: &amp;#8220;Mind if a eat this sandwich?&amp;#8221; Me: &amp;#8220;&amp;#8216;course not&amp;#8230; assuming it isn&amp;#8217;t tuna.&amp;#8221; Other random passenger: &amp;#8220;Sadly, people who eat tuna or egg don&amp;#8217;t ask&amp;#8221;&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-07-17T17:52:23+01:00&quot;&gt;Jul 17, 17:52&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
