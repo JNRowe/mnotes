@@ -38,3 +38,5 @@
 2018-10-05T13:33:58+01:00	…seeing the loop. 🤯
 2018-10-08T08:39:24+01:00	Playing around with GitHub issue replies for @<Nathan https://mastodon.eads_cs/Nathan/twtxt.txt>
 2018-10-20T14:36:36+0100	So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.
+2018-10-20T14:46:26+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me
+2018-10-20T14:46:26+0100	…immediately.

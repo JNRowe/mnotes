@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-10-20T14:36:36+01:00</updated>
+  <updated>2018-10-20T14:38:23+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@MissLB@eads_cs Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me immediately.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00</id>
+    <updated>2018-10-20T14:38:23+01:00</updated>
+    <published>2018-10-20T14:38:23+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-20T14:46:26+01:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2018-10-20T14:38:23+01:00&quot;&gt;Oct 20, 14:38&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; BAE Tony hooked up hubby, and sister-in-law with connects.  Good people, knew env and area&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Ah, good call.  For ref: &lt;abbr title=&quot;Out of Band&quot;&gt;OoB&lt;/abbr&gt; Mickey suggested the BTC meet up, and they got back to me immediately.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-20T14:46:26+01:00&quot;&gt;Oct 20, 14:46&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00</id>
@@ -124,14 +132,6 @@
     <published>2018-07-27T07:14:41+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-07-27T07:14:41+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-07-27T07:14:41+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Work friend: &amp;#8221;It is nice that you&amp;#8217;re learning Russian, not so much that I need to merge to &amp;#1084;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1088;&amp;#8221;&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-07-27T07:14:41+01:00&quot;&gt;Jul 27, 07:14&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">OH: You use the word “logic” in a way which, er… proves you don’t know what it means and is simultaneously utterly devoid of it</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-07-18T15:29:56+01:00</id>
-    <updated>2018-07-18T15:29:56+01:00</updated>
-    <published>2018-07-18T15:29:56+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-07-18T15:29:56+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-07-18T15:29:56+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;OH: You use the word &amp;#8220;logic&amp;#8221; in a way which, er&amp;#8230; proves you don&amp;#8217;t know what it means and is simultaneously utterly devoid of it&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-07-18T15:29:56+01:00&quot;&gt;Jul 18, 15:29&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
