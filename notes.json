@@ -212,5 +212,22 @@
         },
         "text": "@leon@gwr Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold call.",
         "timestamp": "2018-10-20T16:35:40+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Text is good, but what does the tiling layout *look* like? Give a talk at hackday for us newbs?",
+            "toot": {
+                "timestamp": "2018-10-22T17:48:41+01:00",
+                "user": "@Kat@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Tiling vs tabbing",
+                "url": "https://jnrowe.github.com/articles/tiling_vs_tabbing.html"
+            }
+        ],
+        "text": "@Kat@eads_cs Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so maybe…",
+        "timestamp": "2018-10-22T19:37:40+0100"
     }
 ]
