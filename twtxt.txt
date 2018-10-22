@@ -42,3 +42,5 @@
 2018-10-20T14:46:26+0100	…immediately.
 2018-10-20T16:35:40+0100	@<leon https://mastodon.gwr/leon/twtxt.txt> Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold
 2018-10-20T16:35:40+0100	…call.
+2018-10-22T19:37:40+0100	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt> Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so
+2018-10-22T19:37:40+0100	…maybe…

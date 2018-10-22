@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-10-20T15:55:18+01:00</updated>
+  <updated>2018-10-22T17:48:41+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@Kat@eads_cs Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so maybe…</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-10-22T19:37:40+01:00</id>
+    <updated>2018-10-22T17:48:41+01:00</updated>
+    <published>2018-10-22T17:48:41+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-22T19:37:40+01:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-22T19:37:40+01:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to @Kat@eads_cs's post                                on                                &lt;time datetime=&quot;2018-10-22T17:48:41+01:00&quot;&gt;Oct 22, 17:48&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Text is good, but what does the tiling layout &lt;strong&gt;look&lt;/strong&gt; like? Give a talk at hackday for us newbs?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@Kat@eads_cs&lt;/em&gt; Added an image, HTH.  I&amp;#8217;ve been thinking about an &lt;b&gt;#awesomewm&lt;/b&gt; talk for a little while now, so maybe&amp;#8230;&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://jnrowe.github.com/articles/tiling_vs_tabbing.html&quot;&gt;                                        &lt;cite&gt;Tiling vs tabbing&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-22T19:37:40+01:00&quot;&gt;Oct 22, 19:37&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@leon@gwr Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold call.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00</id>
@@ -124,14 +132,6 @@
     <published>2018-08-24T18:04:56+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-08-24T18:04:56+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-08-24T18:04:56+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Reading &amp;#8220;Modern Vim&amp;#8221;.  Absolutely fantastic, loads of &amp;#8216;&lt;abbr title=&quot;Today I Learned&quot;&gt;TIL&lt;/abbr&gt;&amp;#8217; moments even after literally decades of vim use.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://pragprog.com/book/modvim/modern-vim&quot;&gt;                                        &lt;cite&gt;Modern Vim - Craft Your Development Environment with Vim 8 and Neovim&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-08-24T18:04:56+01:00&quot;&gt;Aug 24, 18:04&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Just finished watching The Handmaid’s Tale season 2; ☆☆☆☆☆. I… words have failed me</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-08-21T21:29:47+01:00</id>
-    <updated>2018-08-21T21:29:47+01:00</updated>
-    <published>2018-08-21T21:29:47+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-08-21T21:29:47+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-08-21T21:29:47+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Just finished watching The Handmaid&amp;#8217;s Tale season 2; &amp;#9734;&amp;#9734;&amp;#9734;&amp;#9734;&amp;#9734;. I&amp;#8230; words have failed me&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.hulu.com/the-handmaids-tale&quot;&gt;                                        &lt;cite&gt;The Handmaid's Tale&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.channel4.com/programmes/the-handmaids-tale&quot;&gt;                                        &lt;cite&gt;Channel 4 description and run&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-08-21T21:29:47+01:00&quot;&gt;Aug 21, 21:29&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
