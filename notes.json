@@ -229,5 +229,15 @@
         ],
         "text": "@Kat@eads_cs Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so maybe…",
         "timestamp": "2018-10-22T19:37:40+0100"
+    },
+    {
+        "references": [
+            {
+                "title": "GNU Kind Communications Guidelines",
+                "url": "https://www.gnu.org/philosophy/kind-communication.html"
+            }
+        ],
+        "text": "GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?",
+        "timestamp": "2018-10-23T21:19:43+0100"
     }
 ]
