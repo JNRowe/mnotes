@@ -243,5 +243,12 @@
     {
         "text": "So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.",
         "timestamp": "2018-10-30T13:11:44+0000"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-10-30T13:11:44+0000"
+        },
+        "text": "And I guess bonus points for using ``set stal=0``.  Probably easy to get lost though.",
+        "timestamp": "2018-10-30T13:15:14+0000"
     }
 ]
