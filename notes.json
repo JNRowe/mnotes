@@ -239,5 +239,9 @@
         ],
         "text": "GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?",
         "timestamp": "2018-10-23T21:19:43+0100"
+    },
+    {
+        "text": "So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.",
+        "timestamp": "2018-10-30T13:11:44+0000"
     }
 ]
