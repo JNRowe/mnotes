@@ -1,0 +1,99 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "James Rowe",
+    "icon": "https://micro.blog/JNRowe/avatar.jpg",
+    "home_page_url": "https://jnrowe.github.com/mnotes/",
+    "feed_url": "https://jnrowe.github.com/mnotes/feed.json",
+    "items": [
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-30T13:11:44+00:00\">                                                            <p class=\"text\">So&#8230; there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `&lt;C-w&gt;c` out.</p>                                        <p>                        <time datetime=\"2018-10-30T13:11:44+00:00\">Oct 30, 13:11</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00",
+            "date_published": "2018-10-30T13:11:44+00:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-28T13:15:14+00:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-28T13:15:14+00:00\">                                                                        <p>                                In reply to                                <a href=\"#TS2018-10-30%2013:11:44+00:00\">my post</a>                                on                                <time datetime=\"2018-10-30T13:11:44+00:00\">Oct 30, 13:11</time>:                            </p>                                                                                    <p class=\"text\">And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.</p>                                        <p>                        <time datetime=\"2018-10-28T13:15:14+00:00\">Oct 28, 13:15</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-28T13:15:14+00:00",
+            "date_published": "2018-10-30T13:11:44+00:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-23T21:19:43+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-23T21:19:43+01:00\">                                                            <p class=\"text\"><abbr title=\"Gnu&#8217;s Not Unix\">GNU</abbr>&#8217;s take on a <abbr title=\"Code of Conduct\">CoC</abbr>-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?</p>                                            <ul>                                                            <li>                                    <a href=\"https://www.gnu.org/philosophy/kind-communication.html\">                                        <cite>GNU Kind Communications Guidelines</cite>                                    </a>                                </li>                                                    </ul>                                        <p>                        <time datetime=\"2018-10-23T21:19:43+01:00\">Oct 23, 21:19</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-23T21:19:43+01:00",
+            "date_published": "2018-10-23T21:19:43+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-22T19:37:40+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-22T19:37:40+01:00\">                                                                        <p>                                In reply to @Kat@eads_cs's post                                on                                <time datetime=\"2018-10-22T17:48:41+01:00\">Oct 22, 17:48</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Text is good, but what does the tiling layout <strong>look</strong> like? Give a talk at hackday for us newbs?</blockquote>                                                                                    <p class=\"text\"><em>@Kat@eads_cs</em> Added an image, HTH.  I&#8217;ve been thinking about an <b>#awesomewm</b> talk for a little while now, so maybe&#8230;</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.com/articles/tiling_vs_tabbing.html\">                                        <cite>Tiling vs tabbing</cite>                                    </a>                                </li>                                                    </ul>                                        <p>                        <time datetime=\"2018-10-22T19:37:40+01:00\">Oct 22, 19:37</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-22T19:37:40+01:00",
+            "date_published": "2018-10-22T17:48:41+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-20T16:35:40+01:00\">                                                                        <p>                                In reply to @leon@gwr's post                                on                                <time datetime=\"2018-10-20T15:55:18+01:00\">Oct 20, 15:55</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> DaveJ linked me to the CamTech network, and they push down to Hertford.  <strong>All</strong> pre-screened recruiters.</blockquote>                                                                                    <p class=\"text\"><em>@leon@gwr</em> Thanks, that&#8217;ll help.  Can&#8217;t believe how slimy some of the &#8220;top&#8221; companies seemed on a cold call.</p>                                        <p>                        <time datetime=\"2018-10-20T16:35:40+01:00\">Oct 20, 16:35</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00",
+            "date_published": "2018-10-20T15:55:18+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-20T14:46:26+01:00\">                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2018-10-20T14:38:23+01:00\">Oct 20, 14:38</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> BAE Tony hooked up hubby, and sister-in-law with connects.  Good people, knew env and area</blockquote>                                                                                    <p class=\"text\"><em>@MissLB@eads_cs</em> Ah, good call.  For ref: <abbr title=\"Out of Band\">OoB</abbr> Mickey suggested the BTC meet up, and they got back to me immediately.</p>                                        <p>                        <time datetime=\"2018-10-20T14:46:26+01:00\">Oct 20, 14:46</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00",
+            "date_published": "2018-10-20T14:38:23+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-20T14:36:36+01:00\">                                                            <p class=\"text\">So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.</p>                                        <p>                        <time datetime=\"2018-10-20T14:36:36+01:00\">Oct 20, 14:36</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00",
+            "date_published": "2018-10-20T14:36:36+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-08T08:39:24+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-08T08:39:24+01:00\">                                                            <p class=\"text\">Playing around with GitHub issue replies for <em>@Nathan@eads_cs</em></p>                                        <p>                        <time datetime=\"2018-10-08T08:39:24+01:00\">Oct 08, 08:39</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issue/1\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-08T08:39:24+01:00",
+            "date_published": "2018-10-08T08:39:24+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-05T13:33:58+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-05T13:33:58+01:00\">                                                            <p class=\"text\">Friend tells story of co-worker who explains <em>everything</em> in story form using ST:TNG&#8217;s <strong>amazing</strong> Darmok episode as a device&#8230; without ever seeing the loop. &#129327;</p>                                            <ul>                                                            <li>                                    <a href=\"https://en.m.wikipedia.org/wiki/Darmok\">                                        <cite>Darmok</cite>                                    </a>                                </li>                                                    </ul>                                        <p>                        <time datetime=\"2018-10-05T13:33:58+01:00\">Oct 05, 13:33</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-05T13:33:58+01:00",
+            "date_published": "2018-10-05T13:33:58+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:23:45+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-01T15:23:45+01:00\">                                                                        <p>                                In reply to                                <a href=\"#TS2018-10-01%2015:16:52+01:00\">my post</a>                                on                                <time datetime=\"2018-10-01T15:16:52+01:00\">Oct 01, 15:16</time>:                            </p>                                                                                    <p class=\"text\">Oh, and I have guest tickets for the 11&#8217;up event if &#8212; like me &#8212; you want to visit the yard and haven&#8217;t been allowed in before.  @ or mail me.</p>                                        <p>                        <time datetime=\"2018-10-01T15:23:45+01:00\">Oct 01, 15:23</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:23:45+01:00",
+            "date_published": "2018-10-01T15:16:52+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:16:52+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-10-01T15:16:52+01:00\">                                                                                        <img src=\"media/gnss_galileo_talk.png\" alt=\"First cut of foils\" width=\"33%\">                                                                <p class=\"text\">Prepping my talk for Space Saturday(yep, this Saturday).  Realise I&#8217;m largely trying to decide whether to make bear jokes or political commentary.</p>                                        <p>                        <time datetime=\"2018-10-01T15:16:52+01:00\">Oct 01, 15:16</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:16:52+01:00",
+            "date_published": "2018-10-01T15:16:52+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-09-15T10:32:20+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-09-15T10:32:20+01:00\">                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2018-09-15T08:38:18+01:00\">Sep 15, 08:38</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Wow, <strong>that</strong> is what I'm talking about.  Make. Tips. Great. Again.</blockquote>                                                                                    <p class=\"text\"><em>@MissLB@eads_cs</em> Really enjoyed churning it out actually; more so now I&#8217;ve seen Mickey&#8217;s golf.  I&#8217;m at L440 on Tuesday, I&#8217;ll drop in for coffee prize!</p>                                        <p>                        <time datetime=\"2018-09-15T10:32:20+01:00\">Sep 15, 10:32</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-09-15T10:32:20+01:00",
+            "date_published": "2018-09-15T08:38:18+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-09-15T06:41:29+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-09-15T06:41:29+01:00\">                                                            <p class=\"text\"><em>@MissLB@eads_cs</em> Posted &#8220;Vim with day/night colourschemes&#8221; especially for you, not promising I&#8217;ll bring back the frequent tips though</p>                                        <p>                        <time datetime=\"2018-09-15T06:41:29+01:00\">Sep 15, 06:41</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-09-15T06:41:29+01:00",
+            "date_published": "2018-09-15T06:41:29+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-09-14T16:16:30+01:00\">                                                            <p class=\"text\">The instant gratification with `pygal &lt;<a href=\"http://pygal.org/\">http://pygal.org/</a>&gt;`__ is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.</p>                                        <p>                        <time datetime=\"2018-09-14T16:16:30+01:00\">Sep 14, 16:16</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00",
+            "date_published": "2018-09-14T16:16:30+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-08-28T09:18:28+01:00\">                                                            <p class=\"text\">Thought: If <b>#vim</b> performed a <code>&lt;C-g&gt;u</code> equivalent on typing ``[\\.!?&#191;:;]``, the undo tree when writing prose would be vastly improved.  Let&#8217;s see&#8230;</p>                                        <p>                        <time datetime=\"2018-08-28T09:18:28+01:00\">Aug 28, 09:18</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00",
+            "date_published": "2018-08-28T09:18:28+01:00"
+        }
+    ]
+}
