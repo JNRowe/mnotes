@@ -100,14 +100,16 @@
                     {% endif %}
                     <p class="meta">
                         {{ dt_elem(note.timestamp, True) }}
-                        ·
-                        <a href="https://github.com/{{ github_repo }}/
-                            {%- if note.issue -%}
-                                issue/{{ note.issue }}
-                            {%- else -%}
-                                issues/new
-                            {%- endif -%}
-                            ">Reply</a>
+                        {% if comments %}
+                            ·
+                            <a href="https://github.com/{{ github_repo }}/
+                                {%- if note.issue -%}
+                                    issue/{{ note.issue }}
+                                {%- else -%}
+                                    issues/new
+                                {%- endif -%}
+                                ">Reply</a>
+                        {% endif %}
                     </p>
                 </div>
             {% endfor %}
