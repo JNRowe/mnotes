@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-10-30T13:11:44+00:00</updated>
+  <updated>2018-11-07T12:21:48+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@dev_b@eads_cs Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.  Hope you’re enjoying it nonetheless.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-11-07T12:21:48+00:00</id>
+    <updated>2018-11-07T12:21:48+00:00</updated>
+    <published>2018-11-07T12:21:48+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-11-07T12:21:48+00:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-11-07T12:21:48+00:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@dev_b@eads_cs&lt;/em&gt; Remembering it is Diwali is &lt;strong&gt;not&lt;/strong&gt; the same when Milly isn&amp;#8217;t around to send me laddu.  Hope you&amp;#8217;re enjoying it nonetheless.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-11-07T12:21:48+00:00&quot;&gt;Nov 07, 12:21&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00</id>
@@ -124,14 +132,6 @@
     <published>2018-09-14T16:16:30+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-09-14T16:16:30+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;The instant gratification with `pygal &amp;lt;&lt;a href=&quot;http://pygal.org/&quot;&gt;http://pygal.org/&lt;/a&gt;&amp;gt;`__ is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-09-14T16:16:30+01:00&quot;&gt;Sep 14, 16:16&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Thought: If #vim performed a ``&lt;C-g&gt;u`` equivalent on typing ``[\.!?¿:;]``, the undo tree when writing prose would be vastly improved.  Let’s see…</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00</id>
-    <updated>2018-08-28T09:18:28+01:00</updated>
-    <published>2018-08-28T09:18:28+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-08-28T09:18:28+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Thought: If &lt;b&gt;#vim&lt;/b&gt; performed a &lt;code&gt;&amp;lt;C-g&amp;gt;u&lt;/code&gt; equivalent on typing ``[\.!?&amp;#191;:;]``, the undo tree when writing prose would be vastly improved.  Let&amp;#8217;s see&amp;#8230;&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-08-28T09:18:28+01:00&quot;&gt;Aug 28, 09:18&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 

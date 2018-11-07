@@ -6,6 +6,12 @@
     "feed_url": "https://jnrowe.github.com/mnotes/feed.json",
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-11-07T12:21:48+00:00",
+            "content_html": "<div class=\"note\" id=\"TS2018-11-07T12:21:48+00:00\">                                                            <p class=\"text\"><em>@dev_b@eads_cs</em> Remembering it is Diwali is <strong>not</strong> the same when Milly isn&#8217;t around to send me laddu.  Hope you&#8217;re enjoying it nonetheless.</p>                                        <p>                        <time datetime=\"2018-11-07T12:21:48+00:00\">Nov 07, 12:21</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-11-07T12:21:48+00:00",
+            "date_published": "2018-11-07T12:21:48+00:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00",
             "content_html": "<div class=\"note\" id=\"TS2018-10-30T13:11:44+00:00\">                                                            <p class=\"text\">So&#8230; there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `&lt;C-w&gt;c` out.</p>                                        <p>                        <time datetime=\"2018-10-30T13:11:44+00:00\">Oct 30, 13:11</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
             "url": "https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00",
@@ -88,12 +94,6 @@
             "content_html": "<div class=\"note\" id=\"TS2018-09-14T16:16:30+01:00\">                                                            <p class=\"text\">The instant gratification with `pygal &lt;<a href=\"http://pygal.org/\">http://pygal.org/</a>&gt;`__ is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.</p>                                        <p>                        <time datetime=\"2018-09-14T16:16:30+01:00\">Sep 14, 16:16</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
             "url": "https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00",
             "date_published": "2018-09-14T16:16:30+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00",
-            "content_html": "<div class=\"note\" id=\"TS2018-08-28T09:18:28+01:00\">                                                            <p class=\"text\">Thought: If <b>#vim</b> performed a <code>&lt;C-g&gt;u</code> equivalent on typing ``[\\.!?&#191;:;]``, the undo tree when writing prose would be vastly improved.  Let&#8217;s see&#8230;</p>                                        <p>                        <time datetime=\"2018-08-28T09:18:28+01:00\">Aug 28, 09:18</time>                        &#183;                        <a href=\"https://github.com/JNRowe/mnotes/issues/new\">Reply</a>                    </p>                </div>",
-            "url": "https://jnrowe.github.io/mnotes/#TS2018-08-28T09:18:28+01:00",
-            "date_published": "2018-08-28T09:18:28+01:00"
         }
     ]
 }

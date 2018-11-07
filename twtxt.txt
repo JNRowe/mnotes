@@ -47,3 +47,5 @@
 2018-10-23T21:19:43+0100	GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?
 2018-10-30T13:11:44+0000	So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `<C-w>c` out.
 2018-10-28T13:15:14+0000	And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.
+2018-11-07T12:21:48+0000	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt> Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.  Hope
+2018-11-07T12:21:48+0000	…you’re enjoying it nonetheless.
