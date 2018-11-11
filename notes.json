@@ -268,5 +268,18 @@
         ],
         "text": "Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1\u00ba ep reveals it is “Team America” as a period drama",
         "timestamp": "2018-11-11T21:13:10+0000"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-11-11T21:13:10+0000"
+        },
+        "references": [
+            {
+                "title": "Florence Pugh",
+                "url": "https://en.m.wikipedia.org/wiki/Florence_Pugh"
+            }
+        ],
+        "text": "… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.",
+        "timestamp": "2018-11-11T21:13:21+0000"
     }
 ]
