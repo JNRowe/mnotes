@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-11-07T12:21:48+00:00</updated>
+  <updated>2018-11-11T21:13:10+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -14,6 +14,22 @@
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:21+00:00</id>
+    <updated>2018-11-11T21:13:10+00:00</updated>
+    <published>2018-11-11T21:13:10+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:21+00:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-11-11T21:13:21+00:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&quot;#TS2018-11-11%2021:13:10+00:00&quot;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&quot;2018-11-11T21:13:10+00:00&quot;&gt;Nov 11, 21:13&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&amp;#8230; wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Florence_Pugh&quot;&gt;                                        &lt;cite&gt;Florence Pugh&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-11-11T21:13:21+00:00&quot;&gt;Nov 11, 21:13&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1º ep reveals it is “Team America” as a period drama</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:10+00:00</id>
+    <updated>2018-11-11T21:13:10+00:00</updated>
+    <published>2018-11-11T21:13:10+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:10+00:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-11-11T21:13:10+00:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Timeline is full of people recommending &amp;#8220;Little Drummer Girl&amp;#8221;; iPlayer catchup of 1&amp;#186; ep reveals it is &amp;#8220;Team America&amp;#8221; as a period drama&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/The_Little_Drummer_Girl_(miniseries)&quot;&gt;                                        &lt;cite&gt;The Little Drummer Girl&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Team_America:_World_Police&quot;&gt;                                        &lt;cite&gt;Team America: World Police&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-11-11T21:13:10+00:00&quot;&gt;Nov 11, 21:13&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@dev_b@eads_cs Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.  Hope you’re enjoying it nonetheless.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-11-07T12:21:48+00:00</id>
     <updated>2018-11-07T12:21:48+00:00</updated>
@@ -23,19 +39,19 @@
   </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-10-30T13:15:14+00:00</id>
+    <updated>2018-10-30T13:11:44+00:00</updated>
+    <published>2018-10-30T13:11:44+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-30T13:15:14+00:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-30T13:15:14+00:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&quot;#TS2018-10-30%2013:11:44+00:00&quot;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&quot;2018-10-30T13:11:44+00:00&quot;&gt;Oct 30, 13:11&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-30T13:15:14+00:00&quot;&gt;Oct 30, 13:15&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `&lt;C-w&gt;c` out.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00</id>
     <updated>2018-10-30T13:11:44+00:00</updated>
     <published>2018-10-30T13:11:44+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-10-30T13:11:44+00:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-30T13:11:44+00:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;So&amp;#8230; there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `&amp;lt;C-w&amp;gt;c` out.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-30T13:11:44+00:00&quot;&gt;Oct 30, 13:11&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `&lt;C-w&gt;c` out.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-10-28T13:15:14+00:00</id>
-    <updated>2018-10-30T13:11:44+00:00</updated>
-    <published>2018-10-30T13:11:44+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-28T13:15:14+00:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-28T13:15:14+00:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&quot;#TS2018-10-30%2013:11:44+00:00&quot;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&quot;2018-10-30T13:11:44+00:00&quot;&gt;Oct 30, 13:11&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-28T13:15:14+00:00&quot;&gt;Oct 28, 13:15&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?</title>
@@ -116,22 +132,6 @@
     <published>2018-09-15T08:38:18+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-09-15T10:32:20+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-09-15T10:32:20+01:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2018-09-15T08:38:18+01:00&quot;&gt;Sep 15, 08:38&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Wow, &lt;strong&gt;that&lt;/strong&gt; is what I'm talking about.  Make. Tips. Great. Again.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Really enjoyed churning it out actually; more so now I&amp;#8217;ve seen Mickey&amp;#8217;s golf.  I&amp;#8217;m at L440 on Tuesday, I&amp;#8217;ll drop in for coffee prize!&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-09-15T10:32:20+01:00&quot;&gt;Sep 15, 10:32&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@MissLB@eads_cs Posted “Vim with day/night colourschemes” especially for you, not promising I’ll bring back the frequent tips though</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-09-15T06:41:29+01:00</id>
-    <updated>2018-09-15T06:41:29+01:00</updated>
-    <published>2018-09-15T06:41:29+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-09-15T06:41:29+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-09-15T06:41:29+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Posted &amp;#8220;Vim with day/night colourschemes&amp;#8221; especially for you, not promising I&amp;#8217;ll bring back the frequent tips though&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-09-15T06:41:29+01:00&quot;&gt;Sep 15, 06:41&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">The instant gratification with `pygal &lt;http://pygal.org/&gt;`__ is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00</id>
-    <updated>2018-09-14T16:16:30+01:00</updated>
-    <published>2018-09-14T16:16:30+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-09-14T16:16:30+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-09-14T16:16:30+01:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;The instant gratification with `pygal &amp;lt;&lt;a href=&quot;http://pygal.org/&quot;&gt;http://pygal.org/&lt;/a&gt;&amp;gt;`__ is huge.  Truly beautiful output in a matter of minutes from popping open the docs.  Just. Use. It.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-09-14T16:16:30+01:00&quot;&gt;Sep 14, 16:16&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
