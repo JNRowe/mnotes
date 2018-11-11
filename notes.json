@@ -254,5 +254,19 @@
     {
         "text": "@dev_b@eads_cs Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.  Hope you’re enjoying it nonetheless.",
         "timestamp": "2018-11-07T12:21:48+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "The Little Drummer Girl",
+                "url": "https://en.m.wikipedia.org/wiki/The_Little_Drummer_Girl_(miniseries)"
+            },
+            {
+                "title": "Team America: World Police",
+                "url": "https://en.m.wikipedia.org/wiki/Team_America:_World_Police"
+            }
+        ],
+        "text": "Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1\u00ba ep reveals it is “Team America” as a period drama",
+        "timestamp": "2018-11-11T21:13:10+0000"
     }
 ]
