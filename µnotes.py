@@ -18,7 +18,10 @@ def tag(name, attribs=None, text=r'\1'):
                                  for k, v in attribs.items())
     else:
         attribs = ''
-    return f'\N{STX}{name}{attribs}\N{ETX}{text}\N{STX}/{name}\N{ETX}'
+    res = f'\N{STX}{name}{attribs}\N{ETX}'
+    if text:
+        res += f'{text}\N{STX}/{name}\N{ETX}'
+    return res
 
 
 with open('data/abbrevs.dat') as f:
@@ -37,6 +40,7 @@ HTML_FILTERS = {
     re.compile(r'\B/(\w+)/\B'): tag('em'),
     re.compile(r'\*(\w+)\*'): tag('strong'),
     re.compile(r'``(.*?)``'): tag('code'),
+    re.compile(r'\n'): tag('br', text=None),
 }
 
 
