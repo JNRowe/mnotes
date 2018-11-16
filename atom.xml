@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-11-11T21:13:10+00:00</updated>
+  <updated>2018-11-16T05:48:25+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript.  /cc @blaze@eads_cs</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2018-11-16T05:48:25+00:00</id>
+    <updated>2018-11-16T05:48:25+00:00</updated>
+    <published>2018-11-16T05:48:25+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2018-11-16T05:48:25+00:00" />
+    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-11-16T05:48:25+00:00&quot;&gt;                                                            &lt;p class=&quot;text&quot;&gt;Very smart looking project hosting. &amp;#8226; AGPL-3. &amp;#8226; Fast and light. &amp;#8226; Works without javascript.  /cc &lt;em&gt;@blaze@eads_cs&lt;/em&gt;&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://drewdevault.com/2018/11/15/sr.ht-general-availability.html&quot;&gt;                                        &lt;cite&gt;sr.ht, the hacker's forge, now open for public alpha&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://meta.sr.ht/&quot;&gt;                                        &lt;cite&gt;software hosting for hackers&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-11-16T05:48:25+00:00&quot;&gt;Nov 16, 05:48&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:21+00:00</id>
@@ -124,14 +132,6 @@
     <published>2018-10-01T15:16:52+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-10-01T15:16:52+01:00" />
     <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-10-01T15:16:52+01:00&quot;&gt;                                                                                        &lt;img src=&quot;media/gnss_galileo_talk.png&quot; alt=&quot;First cut of foils&quot; width=&quot;33%&quot;&gt;                                                                &lt;p class=&quot;text&quot;&gt;Prepping my talk for Space Saturday(yep, this Saturday).  Realise I&amp;#8217;m largely trying to decide whether to make bear jokes or political commentary.&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-10-01T15:16:52+01:00&quot;&gt;Oct 01, 15:16&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@MissLB@eads_cs Really enjoyed churning it out actually; more so now I’ve seen Mickey’s golf.  I’m at L440 on Tuesday, I’ll drop in for coffee prize!</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-09-15T10:32:20+01:00</id>
-    <updated>2018-09-15T08:38:18+01:00</updated>
-    <published>2018-09-15T08:38:18+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-09-15T10:32:20+01:00" />
-    <content type="html">&lt;div class=&quot;note&quot; id=&quot;TS2018-09-15T10:32:20+01:00&quot;&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2018-09-15T08:38:18+01:00&quot;&gt;Sep 15, 08:38&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Wow, &lt;strong&gt;that&lt;/strong&gt; is what I'm talking about.  Make. Tips. Great. Again.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;text&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Really enjoyed churning it out actually; more so now I&amp;#8217;ve seen Mickey&amp;#8217;s golf.  I&amp;#8217;m at L440 on Tuesday, I&amp;#8217;ll drop in for coffee prize!&lt;/p&gt;                                        &lt;p&gt;                        &lt;time datetime=&quot;2018-09-15T10:32:20+01:00&quot;&gt;Sep 15, 10:32&lt;/time&gt;                        &amp;#183;                        &lt;a href=&quot;https://github.com/JNRowe/mnotes/issues/new&quot;&gt;Reply&lt;/a&gt;                    &lt;/p&gt;                &lt;/div&gt;</content>
   </entry>
 </feed>
 
