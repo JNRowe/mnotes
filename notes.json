@@ -281,5 +281,19 @@
         ],
         "text": "… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.",
         "timestamp": "2018-11-11T21:13:21+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "sr.ht, the hacker's forge, now open for public alpha",
+                "url": "https://drewdevault.com/2018/11/15/sr.ht-general-availability.html"
+            },
+            {
+                "title": "software hosting for hackers",
+                "url": "https://meta.sr.ht/"
+            }
+        ],
+        "text": "Very smart looking project hosting.\n• AGPL-3.\n• Fast and light.\n• Works without javascript.\n/cc @blaze@eads_cs",
+        "timestamp": "2018-11-16T05:48:25+0000"
     }
 ]
