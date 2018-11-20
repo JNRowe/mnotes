@@ -19,6 +19,10 @@
             blockquote:after {
                 content: "”";
             }
+            p.meta {
+                font-size: small;
+                text-align: right;
+            }
         </style>
         <link href="{{ url }}atom.xml" rel="alternate" title="Notes"
               type="application/atom+xml" />
@@ -79,7 +83,7 @@
                             {% endfor %}
                         </ul>
                     {% endif %}
-                    <p>
+                    <p class="meta">
                         {{ dt_elem(note.timestamp) }}
                         ·
                         <a href="https://github.com/{{ github_repo }}/
