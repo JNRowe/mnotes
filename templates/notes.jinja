@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width" />
         <title>{{ title }}</title>
         <style>
-            div.note {
+            article.note {
                 border: 1px solid #eaeaea;
             }
             blockquote:before {
@@ -43,8 +43,8 @@
     <body>
         <div class="timeline">
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
-                <div class="note h-entry"
-                     id="TS{{ note.timestamp.isoformat() }}">
+                <article class="note h-entry"
+                         id="TS{{ note.timestamp.isoformat() }}">
                     <a class="p-author h-card" href="{{ url }}">
                         <img alt="{{ author.nick }}" src="{{ logo }}"/>
                     </a>
@@ -111,7 +111,7 @@
                                 ">Reply</a>
                         {% endif %}
                     </p>
-                </div>
+                </article>
             {% endfor %}
         </div>
     </body>
