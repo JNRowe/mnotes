@@ -4,28 +4,39 @@ import html
 import json
 import re
 
+from xml.sax.saxutils import quoteattr
+
 import jinja2
 
 from ciso8601 import parse_datetime
 from jnrbase.attrdict import AttrDict
 
 
+def tag(name, attribs=None, text=r'\1'):
+    if attribs:
+        attribs = ' ' + ' '.join(f'{k}={quoteattr(v)}'
+                                 for k, v in attribs.items())
+    else:
+        attribs = ''
+    return f'\N{STX}{name}{attribs}\N{ETX}{text}\N{STX}/{name}\N{ETX}'
+
+
 with open('data/abbrevs.dat') as f:
     ABBREVS = [l.strip() for l in f]
 _ABBRREVISE = lambda s: ''.join([s[0] for s in s.split()])  # NOQA
 ABBREVS = {re.compile(fr'\b{_ABBRREVISE(s)}\b'):
-           f'<abbr title="{html.escape(s, True)}">{_ABBRREVISE(s)}</abbr>'
+           tag('abbr', {'title': html.escape(s, True)}, _ABBRREVISE(s))
            for s in ABBREVS}
 ENV = jinja2.Environment(loader=jinja2.FileSystemLoader('templates/'))
 HTML_FILTERS = {
     re.compile(r'(?<!&)(#[a-zA-Z_]\w+(?=[^\d\S]|\W))', re.IGNORECASE):
-        r'<b>\1</b>',
+        tag('b'),
     re.compile(r'(https?://[\w\.?=\+/_-]+)', re.IGNORECASE):
-        r'<a href="\1">\1</a>',
-    re.compile(r'(@\w+(?:@\w+)*)'): r'<em>\1</em>',
-    re.compile(r'\B/(\w+)/\B'): r'<em>\1</em>',
-    re.compile(r'\*(\w+)\*'): r'<strong>\1</strong>',
-    re.compile(r'``(.*?)``'): r'<code>\1</code>',
+        tag('a', {'href': r'\1'}),
+    re.compile(r'\B(@\w+(?:@\w+)*)'): tag('em'),
+    re.compile(r'\B/(\w+)/\B'): tag('em'),
+    re.compile(r'\*(\w+)\*'): tag('strong'),
+    re.compile(r'``(.*?)``'): tag('code'),
 }
 
 
@@ -37,6 +48,7 @@ def munge(dct):
             dct.text = pat.sub(repl, dct.text)
         for pat, repl in ABBREVS.items():
             dct.text = pat.sub(repl, dct.text)
+        dct.text = dct.text.replace('\N{STX}', '<').replace('\N{ETX}', '>')
     if 'timestamp' in dct:
         dct.timestamp = parse_datetime(dct.timestamp)
     if 'self' in dct:
