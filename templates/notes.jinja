@@ -1,5 +1,6 @@
-{%- macro dt_elem(ts) -%}
-    <time datetime="{{ ts.isoformat() }}">
+{%- macro dt_elem(ts, published=False) -%}
+    <time {% if published %}class="dt-published" {% endif -%}
+        datetime="{{ ts.isoformat() }}">
         {{- ts.strftime('%b %d, %H:%M') -}}
     </time>
 {%- endmacro -%}
@@ -19,7 +20,15 @@
             blockquote:after {
                 content: "”";
             }
+            a.p-author img {
+                border-radius: 50%;
+                float: right;
+                height: 80px;
+                margin-left: 30px;
+                width: 80px;
+            }
             p.meta {
+                clear: both;
                 font-size: small;
                 text-align: right;
             }
@@ -34,20 +43,25 @@
     <body>
         <div class="timeline">
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
-                <div class="note"
+                <div class="note h-entry"
                      id="TS{{ note.timestamp.isoformat() }}">
+                    <a class="p-author h-card" href="{{ url }}">
+                        <img alt="{{ author.nick }}" src="{{ logo }}"/>
+                    </a>
                     {% if 'in_reply_to' in note %}
                         {% if 'url' in note.in_reply_to %}
                             <p>
                                 In response to
-                                <a href="{{ note.in_reply_to.url }}">
+                                <a href="{{ note.in_reply_to.url }}"
+                                   class="u-in-reply-to">
                                     {{ note.in_reply_to.title }}
                                 </a>:
                             </p>
                         {% elif 'self' in note.in_reply_to %}
                             <p>
                                 In reply to
-                                <a href="#TS{{ note.in_reply_to.self }}">my post</a>
+                                <a href="#TS{{ note.in_reply_to.self }}"
+                                   class="u-in-reply-to">my post</a>
                                 on
                                 {{ dt_elem(note.in_reply_to.self) }}:
                             </p>
@@ -65,13 +79,14 @@
                             <a href="{{ note.media.link }}">
                         {% endif %}
                         <img src="media/{{ note.media.file }}"
+                             class="u-photo"
                              alt="{{ note.media.comment }}"
                              width="33%" />
                         {% if 'link' in note.media %}
                             </a>
                         {% endif %}
                     {% endif %}
-                    <p class="text">{{ note.text }}</p>
+                    <p class="e-content">{{ note.text }}</p>
                     {% if 'references' in note %}
                         <ul>
                             {% for ref in note.references %}
@@ -84,7 +99,7 @@
                         </ul>
                     {% endif %}
                     <p class="meta">
-                        {{ dt_elem(note.timestamp) }}
+                        {{ dt_elem(note.timestamp, True) }}
                         ·
                         <a href="https://github.com/{{ github_repo }}/
                             {%- if note.issue -%}
