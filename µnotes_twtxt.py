@@ -15,8 +15,17 @@ for note in notes:
     note.text = re.sub(r'@([@\w]+)@(\w+)',
                        '@<\\1\N{US}https://mastodon.\\2/\\1/twtxt.txt>',
                        note.text)
+    if note.text.startswith(('.@', '@')):
+        at = note.text[:note.text.find('>') + 1].replace('\N{US}', ' ')
+    else:
+        at = ''
     first = True
-    for chunk in textwrap.wrap(note.text, 140):
-        chunk.replace('\N{US}', ' ')
-        print(f'{note.timestamp}	{"" if first else "…"}{chunk}')
+    for chunk in textwrap.wrap(note.text, 140 - len(at)):
+        print(f'{note.timestamp}\t', end='')
+        if not first:
+            if at:
+                print(f'{at}… ', end='')
+            else:
+                print('… ', end='')
+        print(chunk.replace('\N{US}', ' '))
         first = False
