@@ -1,9 +1,14 @@
 #! /usr/bin/python3
 
 import json
+import sys
 
 from jnrbase.attrdict import AttrDict
+from lxml import html
 
+
+with open(sys.argv[1]) as f:
+    page = html.parse(f)
 
 with open('data/notes.json') as f:
     notes = json.load(f, object_hook=AttrDict)
@@ -25,10 +30,14 @@ feed = AttrDict(
     items=[]
 )
 
-for note in reversed(notes):
+for note, post in list(zip(reversed(notes),
+                           page.getroot().cssselect('.note')))[:15]:
     loc = f'{config.url}#TS{note.timestamp}'
+    content = html.tostring(post, True).decode()
+    content = content.strip().replace('\n', '')
     item = AttrDict(
         id=loc,
+        content_html=content,
         content_text=note.text,
         date_published=note.timestamp,
         url=loc,
