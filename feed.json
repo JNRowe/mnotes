@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-11-30T05:35:15+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2018-11-30T05:35:15+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><b>#aoc</b> 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see&#8230;</p>                                            <ul>                                                            <li>                                    <a href=\"https://adventofcode.com/2018\">                                        <cite>Advent of Code 2018</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-11-30T05:35:15+00:00\">Nov 30, 05:35</time>                                            </p>                </article>",
+            "content_text": "#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see\u2026",
+            "date_published": "2018-11-30T05:35:15+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-11-30T05:35:15+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2018-11-16T05:48:25+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2018-11-16T05:48:25+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Very smart looking project hosting. &#8226; AGPL-3. &#8226; Fast and light. &#8226; Works without javascript.  /cc <em>@blaze@eads_cs</em></p>                                            <ul>                                                            <li>                                    <a href=\"https://drewdevault.com/2018/11/15/sr.ht-general-availability.html\">                                        <cite>sr.ht, the hacker's forge, now open for public alpha</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://meta.sr.ht/\">                                        <cite>software hosting for hackers</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-11-16T05:48:25+00:00\">Nov 16, 05:48</time>                                            </p>                </article>",
             "content_text": "Very smart looking project hosting. \u2022 AGPL-3. \u2022 Fast and light. \u2022 Works without javascript.  /cc @blaze@eads_cs",
@@ -107,14 +114,6 @@
             "content_text": "Oh, and I have guest tickets for the 11\u2019up event if \u2014 like me \u2014 you want to visit the yard and haven\u2019t been allowed in before.  @ or mail me.",
             "date_published": "2018-10-01T15:23:45+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:23:45+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:16:52+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2018-10-01T15:16:52+01:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                                        <img src=\"media/gnss_galileo_talk.png\" class=\"u-photo\" alt=\"First cut of foils\" width=\"33%\">                                                                <p class=\"e-content\">Prepping my talk for Space Saturday(yep, this Saturday).  Realise I&#8217;m largely trying to decide whether to make bear jokes or political commentary.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-10-01T15:16:52+01:00\">Oct 01, 15:16</time>                                            </p>                </article>",
-            "content_text": "Prepping my talk for Space Saturday(yep, this Saturday).  Realise I\u2019m largely trying to decide whether to make bear jokes or political commentary.",
-            "date_published": "2018-10-01T15:16:52+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:16:52+01:00",
-            "image": "https://jnrowe.github.io/mnotes/media/gnss_galileo_talk.png"
         }
     ]
 }

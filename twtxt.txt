@@ -54,3 +54,4 @@
 2018-11-11T21:13:21+0000	… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.
 2018-11-16T05:48:25+0000	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript.  /cc
 2018-11-16T05:48:25+0000	… @<blaze https://mastodon.eads_cs/blaze/twtxt.txt>
+2018-11-30T05:35:15+0000	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
