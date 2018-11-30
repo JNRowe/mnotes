@@ -295,5 +295,15 @@
         ],
         "text": "Very smart looking project hosting.\n• AGPL-3.\n• Fast and light.\n• Works without javascript.\n/cc @blaze@eads_cs",
         "timestamp": "2018-11-16T05:48:25+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "Advent of Code 2018",
+                "url": "https://adventofcode.com/2018"
+            }
+        ],
+        "text": "#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…",
+        "timestamp": "2018-11-30T05:35:15+0000"
     }
 ]
