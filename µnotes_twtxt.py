@@ -17,15 +17,12 @@ for note in notes:
                        note.text)
     if note.text.startswith(('.@', '@')):
         at = note.text[:note.text.find('>') + 1].replace('\N{US}', ' ')
+        text = note.text[note.text.find('>') + 1:]
     else:
         at = ''
+        text = note.text
     first = True
-    for chunk in textwrap.wrap(note.text, 140 - len(at)):
-        print(f'{note.timestamp}\t', end='')
-        if not first:
-            if at:
-                print(f'{at}… ', end='')
-            else:
-                print('… ', end='')
-        print(chunk.replace('\N{US}', ' '))
+    for chunk in textwrap.wrap(text, 139 - len(at)):
+        print(note.timestamp, '\t', at, '' if first else '… ',
+              chunk.replace('\N{US}', ' '), sep='')
         first = False
