@@ -53,3 +53,4 @@
 2018-11-16T05:48:25+0000	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript.  /cc
 2018-11-16T05:48:25+0000	… @<blaze https://mastodon.eads_cs/blaze/twtxt.txt>
 2018-11-30T05:35:15+0000	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
+2018-12-04T08:51:05+0000	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?

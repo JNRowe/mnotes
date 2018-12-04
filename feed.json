@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-12-04T08:51:05+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2018-12-04T08:51:05+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><abbr title=\"That Feeling When\">TFW</abbr> you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.io/articles/new_love_giddiness.html\">                                        <cite>Giddy new project love</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-12-04T08:51:05+00:00\">Dec 04, 08:51</time>                                            </p>                </article>",
+            "content_text": "TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?",
+            "date_published": "2018-12-04T08:51:05+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-12-04T08:51:05+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2018-11-30T05:35:15+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2018-11-30T05:35:15+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><b>#aoc</b> 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see&#8230;</p>                                            <ul>                                                            <li>                                    <a href=\"https://adventofcode.com/2018\">                                        <cite>Advent of Code 2018</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-11-30T05:35:15+00:00\">Nov 30, 05:35</time>                                            </p>                </article>",
             "content_text": "#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see\u2026",
@@ -107,13 +114,6 @@
             "content_text": "Friend tells story of co-worker who explains /everything/ in story form using ST:TNG\u2019s *amazing* Darmok episode as a device\u2026 without ever seeing the loop. \ud83e\udd2f",
             "date_published": "2018-10-05T13:33:58+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2018-10-05T13:33:58+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:23:45+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2018-10-01T15:23:45+01:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to                                <a href=\"#TS2018-10-01%2015:16:52+01:00\" class=\"u-in-reply-to\">my post</a>                                on                                <time datetime=\"2018-10-01T15:16:52+01:00\">Oct 01, 15:16</time>:                            </p>                                                                                    <p class=\"e-content\">Oh, and I have guest tickets for the 11&#8217;up event if &#8212; like me &#8212; you want to visit the yard and haven&#8217;t been allowed in before.  @ or mail me.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-10-01T15:23:45+01:00\">Oct 01, 15:23</time>                                            </p>                </article>",
-            "content_text": "Oh, and I have guest tickets for the 11\u2019up event if \u2014 like me \u2014 you want to visit the yard and haven\u2019t been allowed in before.  @ or mail me.",
-            "date_published": "2018-10-01T15:23:45+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-01T15:23:45+01:00"
         }
     ]
 }
