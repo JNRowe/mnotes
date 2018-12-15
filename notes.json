@@ -315,5 +315,22 @@
         ],
         "text": "TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?",
         "timestamp": "2018-12-04T08:51:05+0000"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-11-30T05:35:15+0000"
+        },
+        "references": [
+            {
+                "title": "My first few days of AoC 2018",
+                "url": "https://jnrowe.github.io/articles/advent_of_code_2018.html"
+            },
+            {
+                "title": "Advent of Code 2018",
+                "url": "https://adventofcode.com/2018"
+            }
+        ],
+        "text": "I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?",
+        "timestamp": "2018-12-15T18:43:39+0000"
     }
 ]
