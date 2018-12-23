@@ -332,5 +332,19 @@
         ],
         "text": "I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?",
         "timestamp": "2018-12-15T18:43:39+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "Office Hours",
+                "url": "https://jnrowe.github.io/office_hours.html"
+            },
+            {
+                "title": "/office-hours",
+                "url": "https://robertheaton.com/2018/10/22/slash-office-hours/"
+            }
+        ],
+        "text": "Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.",
+        "timestamp": "2018-12-23T08:54:28+0000"
     }
 ]
