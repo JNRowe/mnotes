@@ -55,3 +55,4 @@
 2018-11-30T05:35:15+0000	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
 2018-12-04T08:51:05+0000	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?
 2018-12-15T18:43:39+0000	I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?
+2018-12-23T08:54:28+0000	Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.

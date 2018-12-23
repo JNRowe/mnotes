@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2018-12-23T08:54:28+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2018-12-23T08:54:28+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Making an attempt at /office-hours, we&#8217;ll see how it pans out.  I encourage <strong>you</strong> to try the same.</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.io/office_hours.html\">                                        <cite>Office Hours</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://robertheaton.com/2018/10/22/slash-office-hours/\">                                        <cite>/office-hours</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-12-23T08:54:28+00:00\">Dec 23, 08:54</time>                                            </p>                </article>",
+            "content_text": "Making an attempt at /office-hours, we\u2019ll see how it pans out.  I encourage *you* to try the same.",
+            "date_published": "2018-12-23T08:54:28+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2018-12-23T08:54:28+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2018-12-15T18:43:39+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2018-12-15T18:43:39+00:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to                                <a href=\"#TS2018-11-30%2005:35:15+00:00\" class=\"u-in-reply-to\">my post</a>                                on                                <time datetime=\"2018-11-30T05:35:15+00:00\">Nov 30, 05:35</time>:                            </p>                                                                                    <p class=\"e-content\">I&#8217;ve retired from our <b>#aoc</b> 2018 competition, who will steal my fourth place on our leaderboard?</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.io/articles/advent_of_code_2018.html\">                                        <cite>My first few days of AoC 2018</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://adventofcode.com/2018\">                                        <cite>Advent of Code 2018</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-12-15T18:43:39+00:00\">Dec 15, 18:43</time>                                            </p>                </article>",
             "content_text": "I\u2019ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?",
@@ -107,13 +114,6 @@
             "content_text": "So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.",
             "date_published": "2018-10-20T14:36:36+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2018-10-08T08:39:24+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2018-10-08T08:39:24+01:00\">                    <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Playing around with GitHub issue replies for <em>@Nathan@eads_cs</em></p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2018-10-08T08:39:24+01:00\">Oct 08, 08:39</time>                                            </p>                </article>",
-            "content_text": "Playing around with GitHub issue replies for @Nathan@eads_cs",
-            "date_published": "2018-10-08T08:39:24+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2018-10-08T08:39:24+01:00"
         }
     ]
 }
