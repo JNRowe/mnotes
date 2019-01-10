@@ -56,3 +56,5 @@
 2018-12-04T08:51:05+0000	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?
 2018-12-15T18:43:39+0000	I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?
 2018-12-23T08:54:28+0000	Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.
+2019-01-02T21:36:07+0000	Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.
+2019-01-10T11:02:34+0000	As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.

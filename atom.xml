@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2018-12-23T08:54:28+00:00</updated>
+  <updated>2019-01-10T11:02:34+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,22 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-01-10T11:02:34+00:00</id>
+    <updated>2019-01-10T11:02:34+00:00</updated>
+    <published>2019-01-10T11:02:34+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-01-10T11:02:34+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-01-10T11:02:34+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;As someone who &lt;strong&gt;still&lt;/strong&gt; has to fix rollover bugs(&amp;#8216;16 1-byte &amp;#8220;fix&amp;#8221;, GPS 10-bit in April) Y2038 felt distant, not now.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.jwz.org/blog/2019/01/we-are-now-closer-to-the-y2038-bug-than-the-y2k-bug/&quot;&gt;                                        &lt;cite&gt;We are now closer to the Y2038 bug than the Y2K bug&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-01-10T11:02:34+00:00&quot;&gt;Jan 10, 11:02&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-01-02T21:36:07+00:00</id>
+    <updated>2019-01-02T21:36:07+00:00</updated>
+    <published>2019-01-02T21:36:07+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-01-02T21:36:07+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-01-02T21:36:07+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Catching a &amp;#8220;Tea Peter&amp;#8221; re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.wikipedia.org/wiki/Tea_Peter&quot;&gt;                                        &lt;cite&gt;Tea Peter&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-01-02T21:36:07+00:00&quot;&gt;Jan 02, 21:36&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2018-12-23T08:54:28+00:00</id>
@@ -116,22 +132,6 @@
     <published>2018-10-20T15:55:18+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T16:35:40+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2018-10-20T16:35:40+01:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @leon@gwr's post                                on                                &lt;time datetime=&quot;2018-10-20T15:55:18+01:00&quot;&gt;Oct 20, 15:55&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; DaveJ linked me to the CamTech network, and they push down to Hertford.  &lt;strong&gt;All&lt;/strong&gt; pre-screened recruiters.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@leon@gwr&lt;/em&gt; Thanks, that&amp;#8217;ll help.  Can&amp;#8217;t believe how slimy some of the &amp;#8220;top&amp;#8221; companies seemed on a cold call.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2018-10-20T16:35:40+01:00&quot;&gt;Oct 20, 16:35&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@MissLB@eads_cs Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me immediately.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00</id>
-    <updated>2018-10-20T14:38:23+01:00</updated>
-    <published>2018-10-20T14:38:23+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T14:46:26+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2018-10-20T14:46:26+01:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2018-10-20T14:38:23+01:00&quot;&gt;Oct 20, 14:38&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; BAE Tony hooked up hubby, and sister-in-law with connects.  Good people, knew env and area&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Ah, good call.  For ref: &lt;abbr title=&quot;Out of Band&quot;&gt;OoB&lt;/abbr&gt; Mickey suggested the BTC meet up, and they got back to me immediately.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2018-10-20T14:46:26+01:00&quot;&gt;Oct 20, 14:46&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00</id>
-    <updated>2018-10-20T14:36:36+01:00</updated>
-    <published>2018-10-20T14:36:36+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-10-20T14:36:36+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2018-10-20T14:36:36+01:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2018-10-20T14:36:36+01:00&quot;&gt;Oct 20, 14:36&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
