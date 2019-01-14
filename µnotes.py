@@ -14,20 +14,20 @@ from jnrbase.attrdict import AttrDict
 
 def tag(name, attribs=None, text=r'\1'):
     if attribs:
-        attribs = ' ' + ' '.join(f'{k}={quoteattr(v)}'
+        attribs = ' ' + ' '.join('%s=%s' % (k, quoteattr(v))
                                  for k, v in attribs.items())
     else:
         attribs = ''
-    res = f'\N{STX}{name}{attribs}\N{ETX}'
+    res = '\N{STX}%s%s\N{ETX}' % (name, attribs)
     if text:
-        res += f'{text}\N{STX}/{name}\N{ETX}'
+        res += '%s\N{STX}/%s\N{ETX}' % (text, name)
     return res
 
 
 with open('data/abbrevs.dat') as f:
     ABBREVS = [l.strip() for l in f]
 _ABBRREVISE = lambda s: ''.join([s[0] for s in s.split()])  # NOQA
-ABBREVS = {re.compile(fr'\b{_ABBRREVISE(s)}\b'):
+ABBREVS = {re.compile(r'\b%s\b' % _ABBRREVISE(s)):
            tag('abbr', {'title': html.escape(s, True)}, _ABBRREVISE(s))
            for s in ABBREVS}
 ENV = jinja2.Environment(loader=jinja2.FileSystemLoader('templates/'))

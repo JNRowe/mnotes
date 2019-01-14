@@ -32,7 +32,7 @@ feed = AttrDict(
 
 for note, post in list(zip(reversed(notes),
                            page.getroot().cssselect('.note')))[:15]:
-    loc = f'{config.url}#TS{note.timestamp}'
+    loc = '%s#TS%s' % (config.url, note.timestamp)
     content = html.tostring(post, True).decode()
     content = content.strip().replace('\n', '')
     item = AttrDict(
@@ -43,7 +43,7 @@ for note, post in list(zip(reversed(notes),
         url=loc,
     )
     if 'media' in note:
-        item.image = f'{config.url}media/{note.media.file}'
+        item.image = '%smedia/%s' % (config.url, note.media.file)
     feed['items'].append(item)
 
 

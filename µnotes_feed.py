@@ -28,7 +28,7 @@ for note, post in list(zip(reversed(notes),
     feed.add(title=title,
              content=content,
              content_type='html',
-             url=f'{config.url}#{post.get("id")}',
+             url='%s#%s' % (config.url, post.get("id")),
              updated=time,
              published=time,
              xml_base=config.url)
