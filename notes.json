@@ -366,5 +366,16 @@
         ],
         "text": "As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.",
         "timestamp": "2019-01-10T11:02:34+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs I get the point, but what is the alternative?  We’ve proved we can’t do better, nobody pays for correct.",
+            "toot": {
+                "timestamp": "2019-01-10T22:09:37+0000",
+                "user": "@mickey@eads_cs"
+            }
+        },
+        "text": "@mickey@eads_cs I meant “still” in the “catching up with old problems” sense, but…",
+        "timestamp": "2019-01-15T06:12:46+0000"
     }
 ]
