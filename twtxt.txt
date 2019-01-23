@@ -43,13 +43,13 @@
 2018-10-22T19:37:40+0100	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt> Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so
 2018-10-22T19:37:40+0100	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt>… maybe…
 2018-10-23T21:19:43+0100	GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?
-2018-10-30T13:11:44+0000	So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  `tabedit %` in, then `<C-w>c` out.
-2018-10-30T13:15:14+0000	And I guess bonus points for using `set stal=0`.  Probably easy to get lost though.
+2018-10-30T13:11:44+0000	So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.
+2018-10-30T13:15:14+0000	And I guess bonus points for using ``set stal=0``.  Probably easy to get lost though.
 2018-11-07T12:21:48+0000	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt> Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.
 2018-11-07T12:21:48+0000	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt>… Hope you’re enjoying it nonetheless.
 2018-11-11T21:13:10+0000	Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1º ep reveals it is “Team America” as a period drama
 2018-11-11T21:13:21+0000	… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.
-2018-11-16T05:48:25+0000	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript.  /cc
+2018-11-16T05:48:25+0000	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript. /cc
 2018-11-16T05:48:25+0000	… @<blaze https://mastodon.eads_cs/blaze/twtxt.txt>
 2018-11-30T05:35:15+0000	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
 2018-12-04T08:51:05+0000	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?
@@ -61,3 +61,5 @@
 2019-01-15T06:12:53+0000	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt> I see no alternative, wishful thinking won’t get us anywhere.  In agreement; nihilism
 2019-01-15T06:12:53+0000	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt>… wins, we lose.
 2019-01-23T14:14:39+0000	Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)
+2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate
+2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… *valuable* hunks, and ignore rest.
