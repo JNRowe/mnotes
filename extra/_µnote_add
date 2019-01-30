@@ -1,0 +1,15 @@
+#compdef µnote_add µnote_add.py
+
+_arguments \
+    '--help[show this message and exit]' \
+    '--media-comment=[comment for media element]' \
+    '--media-link=[link for media element]' \
+    '--media-file=[file for media element]:select file:_files -W $PWD/data/media' \
+    '--reference-url=[link for reference]' \
+    '--reference-title=[title for reference]' \
+    '--reply-self=[timestamp of referenced note]' \
+    '--reply-url=[link for referenced URL]' \
+    '--reply-title=[title for reply]' \
+    '--reply-to user=[user for reply]' \
+    '--reply-quote=[referenced note’s content]' \
+    '--reply-time=[timestamp of referenced note]'
