@@ -5,11 +5,20 @@ import json
 import os
 import subprocess
 
+import ciso8601
+
 
 def existing_file(string):
     path = 'data/media/%s' % string
     if not os.path.exists(path):
         raise argparse.ArgumentTypeError('Missing file %r' % path)
+    return string
+
+def valid_timestamp(string):
+    try:
+        ciso8601.parse_datetime(string)
+    except ValueError as e:
+        raise argparse.ArgumentTypeError(e.args[0])
     return string
 
 
@@ -31,8 +40,8 @@ parser.add_argument('-e', '--reference-url', action='append',
 parser.add_argument('-E', '--reference-title', action='append',
                     help='title for reference', metavar='text')
 group = parser.add_mutually_exclusive_group()
-group.add_argument('-s', '--reply-self', help='timestamp of referenced note',
-                   metavar='timestamp')
+group.add_argument('-s', '--reply-self', type=valid_timestamp,
+                   help='timestamp of referenced note', metavar='timestamp')
 group.add_argument('-u', '--reply-url', help='link for referenced URL',
                    metavar='url')
 parser.add_argument('-U', '--reply-title', help='title for reply',
@@ -40,8 +49,8 @@ parser.add_argument('-U', '--reply-title', help='title for reply',
 group.add_argument('-r', '--reply-to', help='user for reply', metavar='user')
 parser.add_argument('-t', '--reply-quote', help='referenced note’s content',
                     metavar='text')
-parser.add_argument('-i', '--reply-time', help='timestamp of referenced note',
-                    metavar='timestamp')
+parser.add_argument('-i', '--reply-time', type=valid_timestamp,
+                    help='timestamp of referenced note', metavar='timestamp')
 parser.add_argument('text', help="content of note to post")
 args = parser.parse_args()
 if any([args.media_comment, args.media_link, args.media_file]) and not \
