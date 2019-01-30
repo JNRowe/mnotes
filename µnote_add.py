@@ -12,19 +12,29 @@ except FileNotFoundError:
     notes = []
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-c', '--media-comment')
-parser.add_argument('-l', '--media-link')
-parser.add_argument('-f', '--media-file')
-parser.add_argument('-e', '--reference-url', action='append')
-parser.add_argument('-E', '--reference-title', action='append')
+parser.add_argument('-c', '--media-comment', help="comment for media element",
+                    metavar='text')
+parser.add_argument('-l', '--media-link', help="link for media element",
+                    metavar='url')
+parser.add_argument('-f', '--media-file', help="file for media element",
+                    metavar='file')
+parser.add_argument('-e', '--reference-url', action='append',
+                    help='link for reference', metavar='url')
+parser.add_argument('-E', '--reference-title', action='append',
+                    help='title for reference', metavar='text')
 group = parser.add_mutually_exclusive_group()
-group.add_argument('-s', '--reply-self')
-group.add_argument('-u', '--reply-url')
-parser.add_argument('-U', '--reply-title')
-group.add_argument('-r', '--reply-to')
-parser.add_argument('-t', '--reply-quote')
-parser.add_argument('-i', '--reply-time')
-parser.add_argument('text')
+group.add_argument('-s', '--reply-self', help='timestamp of referenced note',
+                   metavar='timestamp')
+group.add_argument('-u', '--reply-url', help='link for referenced URL',
+                   metavar='url')
+parser.add_argument('-U', '--reply-title', help='title for reply',
+                    metavar='text')
+group.add_argument('-r', '--reply-to', help='user for reply', metavar='user')
+parser.add_argument('-t', '--reply-quote', help='referenced note’s content',
+                    metavar='text')
+parser.add_argument('-i', '--reply-time', help='timestamp of referenced note',
+                    metavar='timestamp')
+parser.add_argument('text', help="content of note to post")
 args = parser.parse_args()
 if any([args.media_comment, args.media_link, args.media_file]) and not \
    all([args.media_comment, args.media_link, args.media_file]):
