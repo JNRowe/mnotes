@@ -2,7 +2,15 @@
 
 import argparse
 import json
+import os
 import subprocess
+
+
+def existing_file(string):
+    path = 'data/media/%s' % string
+    if not os.path.exists(path):
+        raise argparse.ArgumentTypeError('Missing file %r' % path)
+    return string
 
 
 try:
@@ -16,8 +24,8 @@ parser.add_argument('-c', '--media-comment', help="comment for media element",
                     metavar='text')
 parser.add_argument('-l', '--media-link', help="link for media element",
                     metavar='url')
-parser.add_argument('-f', '--media-file', help="file for media element",
-                    metavar='file')
+parser.add_argument('-f', '--media-file', type=existing_file,
+                    help="file for media element", metavar='file')
 parser.add_argument('-e', '--reference-url', action='append',
                     help='link for reference', metavar='url')
 parser.add_argument('-E', '--reference-title', action='append',
