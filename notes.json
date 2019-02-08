@@ -392,5 +392,16 @@
     {
         "text": "Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)",
         "timestamp": "2019-01-23T14:14:39+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "People, how do you store chromium configs in home VC?  It is just a horrific mess of JSON dumps with awful whitespace and sorting.",
+            "toot": {
+                "timestamp": "2019-02-07T12:45:46+0000",
+                "user": "@chewy@eads_cs"
+            }
+        },
+        "text": "@chewy@eads_cs سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate *valuable* hunks, and ignore rest.",
+        "timestamp": "2019-02-08T13:52:41+0000"
     }
 ]
