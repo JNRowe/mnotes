@@ -63,3 +63,5 @@
 2019-01-23T14:14:39+0000	Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)
 2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate
 2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… *valuable* hunks, and ignore rest.
+2019-02-11T17:13:25+0000	If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging
+2019-02-11T17:13:25+0000	… nightmare.
