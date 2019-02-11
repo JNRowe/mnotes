@@ -403,5 +403,15 @@
         },
         "text": "@chewy@eads_cs سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate *valuable* hunks, and ignore rest.",
         "timestamp": "2019-02-08T13:52:41+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "Can not install any poetry based project with pip from source distribution",
+                "url": "https://github.com/sdispater/poetry/issues/760"
+            }
+        ],
+        "text": "If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging nightmare.",
+        "timestamp": "2019-02-11T17:13:25+0000"
     }
 ]
