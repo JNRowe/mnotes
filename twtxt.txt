@@ -65,3 +65,5 @@
 2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… *valuable* hunks, and ignore rest.
 2019-02-11T17:13:25+0000	If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging
 2019-02-11T17:13:25+0000	… nightmare.
+2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do
+2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt>… the work, we’ll fix it.
