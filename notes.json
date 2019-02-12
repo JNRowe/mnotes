@@ -413,5 +413,16 @@
         ],
         "text": "If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging nightmare.",
         "timestamp": "2019-02-11T17:13:25+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs ick, problem is one of our upstreams uses poetry via pendulum.  I was just looking to package it.  What next?",
+            "toot": {
+                "timestamp": "2019-02-12T09:33:53+0000",
+                "user": "@pmitty@eads_cs"
+            }
+        },
+        "text": "@pmitty@eads_cs Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do the work, we’ll fix it.",
+        "timestamp": "2019-02-12T10:19:36+0000"
     }
 ]
