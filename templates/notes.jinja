@@ -1,7 +1,11 @@
 {%- macro dt_elem(ts, published=False) -%}
     <time {% if published %}class="dt-published" {% endif -%}
         datetime="{{ ts.isoformat() }}">
-        {{- ts.strftime('%b %d, %H:%M') -}}
+        {%- if ts.year == today.year -%}
+            {{ ts.strftime('%b %d, %H:%M') }}
+        {%- else -%}
+            {{ ts.strftime('%b %Y') }}
+        {%- endif -%}
     </time>
 {%- endmacro -%}
 <!DOCTYPE html>

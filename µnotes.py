@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+import datetime
 import html
 import json
 import re
@@ -68,4 +69,4 @@ with open('data/config.json') as f:
 
 tmpl = ENV.get_template('notes.jinja')
 
-print(tmpl.render(notes=notes, **config))
+print(tmpl.render(notes=notes, today=datetime.date.today(), **config))
