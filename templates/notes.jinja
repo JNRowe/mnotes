@@ -26,6 +26,14 @@
             blockquote:after {
                 content: "”";
             }
+            header {
+                background-color: #4a4a4a;
+                color: #eaeaea;
+                padding: 10px 20px;
+            }
+            header h1 {
+                font-family: Georgia, Times, "Times New Roman", serif;
+            }
             a.p-author img {
                 border-radius: 50%;
                 float: right;
@@ -47,6 +55,9 @@
               type="application/vnd.twtxt" />
     </head>
     <body>
+        <header>
+            <h1>{{ author.name }}</h1>
+        </header>
         <div class="timeline">
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
                 <article class="note h-entry"
