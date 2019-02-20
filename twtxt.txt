@@ -72,3 +72,5 @@
 2019-02-20T13:59:36+0000	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt>… final ERB project :/
 2019-02-20T14:22:43+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt> It doesn’t here either.  Nope, would’ve gone to *any* in an instant & even looked at SR
 2019-02-20T14:22:43+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… roles in 2016-12.
+2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt> Thought you knew.  In fact, I thought that was the *exact* conversation we had back in
+2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt>… July.
