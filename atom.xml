@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-02-12T09:33:53+00:00</updated>
+  <updated>2019-02-20T13:48:44+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-02-20T13:48:44+00:00</id>
+    <updated>2019-02-20T13:48:44+00:00</updated>
+    <published>2019-02-20T13:48:44+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-02-20T13:48:44+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-20T13:48:44+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Just finished my GGS probit.  Not sure what management expected, presume it is &amp;#8220;no change required; disinterested parties killed it&amp;#8221;.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-20T13:48:44+00:00&quot;&gt;Feb 20, 13:48&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@pmitty@eads_cs Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do the work, we’ll fix it.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-02-12T10:19:36+00:00</id>
@@ -128,14 +136,6 @@
     <published>2018-11-11T21:13:10+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:21+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2018-11-11T21:13:21+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&quot;#TS2018-11-11%2021:13:10+00:00&quot; class=&quot;u-in-reply-to&quot;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&quot;2018-11-11T21:13:10+00:00&quot;&gt;Nov 2018&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&amp;#8230; wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Florence_Pugh&quot;&gt;                                        &lt;cite&gt;Florence Pugh&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2018-11-11T21:13:21+00:00&quot;&gt;Nov 2018&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1º ep reveals it is “Team America” as a period drama</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:10+00:00</id>
-    <updated>2018-11-11T21:13:10+00:00</updated>
-    <published>2018-11-11T21:13:10+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2018-11-11T21:13:10+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2018-11-11T21:13:10+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Timeline is full of people recommending &amp;#8220;Little Drummer Girl&amp;#8221;; iPlayer catchup of 1&amp;#186; ep reveals it is &amp;#8220;Team America&amp;#8221; as a period drama&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/The_Little_Drummer_Girl_(miniseries)&quot;&gt;                                        &lt;cite&gt;The Little Drummer Girl&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Team_America:_World_Police&quot;&gt;                                        &lt;cite&gt;Team America: World Police&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2018-11-11T21:13:10+00:00&quot;&gt;Nov 2018&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 

@@ -67,3 +67,4 @@
 2019-02-11T17:13:25+0000	… nightmare.
 2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do
 2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt>… the work, we’ll fix it.
+2019-02-20T13:48:44+0000	Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.
