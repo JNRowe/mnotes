@@ -74,3 +74,5 @@
 2019-02-20T14:22:43+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… roles in 2016-12.
 2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt> Thought you knew.  In fact, I thought that was the *exact* conversation we had back in
 2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt>… July.
+2019-02-25T05:15:33+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> A nice stand *really* helps, you can borrow mine.  If it is rideable bring it GWR2 on
+2019-02-25T05:15:33+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Tuesday, and I'll have a pop.
