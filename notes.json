@@ -472,5 +472,22 @@
         },
         "text": "@charoug@eads_cs A stand *really* helps, you can borrow mine.  If it is rideable bring it GWR2 on Tuesday, and I’ll have a pop.",
         "timestamp": "2019-02-25T05:15:33+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "Loving Endeavour, even if the \"bad\" coppers feel a little pantomime villainous.  Slow but thoughtful, plodding yet melodic.",
+            "toot": {
+                "timestamp": "2019-02-24T22:02:03+0000",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Endeavour (TV series)",
+                "url": "https://en.m.wikipedia.org/wiki/Endeavour_(TV_series)"
+            }
+        ],
+        "text": "@MissLB@eads_cs Prime Suspect ‘73 was my fave origin story, but Endeavour sure is nice Sunday night decomp.  Agree on rhythm.",
+        "timestamp": "2019-02-25T05:17:42+0000"
     }
 ]
