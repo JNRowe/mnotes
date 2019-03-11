@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-03-07T20:06:32+00:00</updated>
+  <updated>2019-03-11T05:37:58+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Checking yr.no for week’s cycling clothes choice, found omen instead.  Wasn’t that how that 2004 palaeoclimatology documentary started?</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-03-11T05:37:58+00:00</id>
+    <updated>2019-03-11T05:37:58+00:00</updated>
+    <published>2019-03-11T05:37:58+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-03-11T05:37:58+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-03-11T05:37:58+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                                        &lt;img src=&quot;media/day_after_today.png&quot; class=&quot;u-photo&quot; alt=&quot;Day After Today&quot; width=&quot;33%&quot;&gt;                                                                &lt;p class=&quot;e-content&quot;&gt;Checking yr.no for week&amp;#8217;s cycling clothes choice, found omen instead.  Wasn&amp;#8217;t that how that 2004 palaeoclimatology documentary started?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-03-11T05:37:58+00:00&quot;&gt;Mar 11, 05:37&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@MissLB@eads_cs Thing is I *really* miss those; both new and full.  Are you wearing appropriate lenses?  *Huge* difference.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-03-07T20:06:32+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-01-10T11:02:34+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-01-10T11:02:34+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-01-10T11:02:34+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;As someone who &lt;strong&gt;still&lt;/strong&gt; has to fix rollover bugs(&amp;#8216;16 1-byte &amp;#8220;fix&amp;#8221;, GPS 10-bit in April) Y2038 felt distant, not now.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.jwz.org/blog/2019/01/we-are-now-closer-to-the-y2038-bug-than-the-y2k-bug/&quot;&gt;                                        &lt;cite&gt;We are now closer to the Y2038 bug than the Y2K bug&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-01-10T11:02:34+00:00&quot;&gt;Jan 10, 11:02&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-01-02T21:36:07+00:00</id>
-    <updated>2019-01-02T21:36:07+00:00</updated>
-    <published>2019-01-02T21:36:07+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-01-02T21:36:07+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-01-02T21:36:07+00:00&quot;&gt;                    &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Catching a &amp;#8220;Tea Peter&amp;#8221; re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.wikipedia.org/wiki/Tea_Peter&quot;&gt;                                        &lt;cite&gt;Tea Peter&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-01-02T21:36:07+00:00&quot;&gt;Jan 02, 21:36&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
