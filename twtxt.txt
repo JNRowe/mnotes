@@ -83,3 +83,4 @@
 2019-03-11T05:37:58+0000	Checking yr.no for week’s cycling clothes choice, found omen instead.  Wasn’t that how that 2004 palaeoclimatology documentary started?
 2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt> Post those toolbox articles to mastodon or at least an Atom feed somewhere.  Really
 2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… awesome, want to subscribe.
+2019-03-12T22:43:31+0000	I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.
