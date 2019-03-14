@@ -84,3 +84,5 @@
 2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt> Post those toolbox articles to mastodon or at least an Atom feed somewhere.  Really
 2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… awesome, want to subscribe.
 2019-03-12T22:43:31+0000	I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.
+2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said,
+2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… yes… but SMS is best method now.
