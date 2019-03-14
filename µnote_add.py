@@ -51,6 +51,11 @@ parser.add_argument('-t', '--reply-quote', help='referenced note’s content',
                     metavar='text')
 parser.add_argument('-i', '--reply-time', type=valid_timestamp,
                     help='timestamp of referenced note', metavar='timestamp')
+parser.add_argument('-m', '--importance',
+                    choices=['perhaps', 'should', 'must'],
+                    help='importance advice', metavar='importance')
+parser.add_argument('-g', '--urgency', choices=['whenever', 'soon' , 'now'],
+                    help='urgency advice', metavar='urgency')
 parser.add_argument('text', help="content of note to post")
 args = parser.parse_args()
 if any([args.media_comment, args.media_link, args.media_file]) and not \
@@ -68,6 +73,9 @@ if any([args.reply_url, args.reply_title]) and not \
 elif any([args.reply_to, args.reply_quote, args.reply_time]) and not \
    all([args.reply_to, args.reply_quote, args.reply_time]):
     raise argparse.ArgumentTypeError('Toot replies require -r, -t and -i')
+if any([args.importance, args.urgency]) and not \
+   all([args.importance, args.urgency]):
+    raise argparse.ArgumentTypeError('Advice information requires -m and -g')
 
 ts = subprocess.check_output(['date', '-Iseconds']).decode().strip()
 note = {
@@ -100,6 +108,11 @@ elif args.reply_to:
             'timestamp': args.reply_time,
             'user': args.reply_to,
         }
+    }
+if args.importance:
+    note['x-advice'] = {
+        'importance': args.importance,
+        'urgency': args.urgency,
     }
 notes.append(note)
 

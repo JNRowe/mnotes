@@ -12,4 +12,6 @@ _arguments \
     '--reply-title=[title for reply]' \
     '--reply-to user=[user for reply]' \
     '--reply-quote=[referenced note’s content]' \
-    '--reply-time=[timestamp of referenced note]'
+    '--reply-time=[timestamp of referenced note]' \
+    '--importance=[importance advice]' \
+    '--urgency=[urgency advice]'

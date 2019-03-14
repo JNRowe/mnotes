@@ -50,6 +50,12 @@
                 font-size: small;
                 text-align: right;
             }
+            img.importance {
+                float: left;
+                height: 80px;
+                margin-left: 30px;
+                width: 80px;
+            }
         </style>
         <link href="{{ url }}atom.xml" rel="alternate" title="Notes"
               type="application/atom+xml" />
@@ -66,6 +72,12 @@
             {% for note in notes | sort(reverse=True, attribute='timestamp') %}
                 <article class="note h-entry"
                          id="TS{{ note.timestamp.isoformat() }}">
+                    {% if 'x-advice' in note %}
+                        <img src="support/x-advice/{{ note['x-advice'].importance }}.png"
+                             class="importance"
+                             alt="{{ note['x-advice'].importance }} read {{ note['x-advice'].urgency }}"
+                             width="33%">
+                    {% endif %}
                     <a class="p-author h-card" href="{{ url }}">
                         <img alt="{{ author.nick }}" src="{{ logo }}"/>
                     </a>
