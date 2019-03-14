@@ -520,5 +520,16 @@
         },
         "text": "I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.",
         "timestamp": "2019-03-12T22:43:31+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Indexing is *really* tight now, big thanks!  Will you be about to take a look again when the stretch sets in?",
+            "toot": {
+                "timestamp": "2019-03-13T17:41:35+0000",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said, yes… but SMS is best method now.",
+        "timestamp": "2019-03-14T06:17:36+0000"
     }
 ]
