@@ -514,6 +514,10 @@
         "timestamp": "2019-03-11T05:38:44+0000"
     },
     {
+        "x-advice": {
+            "importance": "perhaps",
+            "urgency": "soon"
+        },
         "text": "I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.",
         "timestamp": "2019-03-12T22:43:31+0000"
     }
