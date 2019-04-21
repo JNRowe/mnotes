@@ -86,3 +86,4 @@
 2019-03-12T22:43:31+0000	I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.
 2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said,
 2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… yes… but SMS is best method now.
+2019-04-21T06:07:48+0100	I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.
