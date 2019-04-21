@@ -531,5 +531,19 @@
         },
         "text": "@charoug@eads_cs Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said, yes… but SMS is best method now.",
         "timestamp": "2019-03-14T06:17:36+0000"
+    },
+    {
+        "references": [
+            {
+                "title": "QuickCheck",
+                "url": "https://github.com/nick8325/quickcheck"
+            }
+        ],
+        "text": "I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.",
+        "timestamp": "2019-04-21T06:07:48+0100",
+        "x-advice": {
+            "importance": "perhaps",
+            "urgency": "soon"
+        }
     }
 ]
