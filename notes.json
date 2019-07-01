@@ -545,5 +545,16 @@
             "importance": "perhaps",
             "urgency": "soon"
         }
+    },
+    {
+        "in_reply_to": {
+            "text": "Interesting talk about a \"kite mark\" for science reports at BLiM. Obvious flaw being funding a body to do so.",
+            "toot": {
+                "timestamp": "2019-07-01T14:52:00+0100",
+                "user": "@chewy@eads_cs"
+            }
+        },
+        "text": "@chewy@eads_cs Obvious flaw is surely more likely to be people.  Fex if people are hearing “MMR terror” today, reputable sources don’t help",
+        "timestamp": "2019-07-01T18:12:08+0000"
     }
 ]
