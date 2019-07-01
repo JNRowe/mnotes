@@ -39,7 +39,7 @@ HTML_FILTERS = {
         tag('a', {'href': r'\1'}),
     re.compile(r'\B(@\w+(?:@\w+)*)'): tag('em'),
     re.compile(r'\B/(\w+)/\B'): tag('em'),
-    re.compile(r'\*([\w’]+)\*'): tag('strong'),
+    re.compile(r'\*((?:(?:[\w’]+)\W?)+)\*'): tag('strong'),
     re.compile(r'``(.*?)``'): tag('code'),
     re.compile(r'\n'): tag('br', text=None),
 }
