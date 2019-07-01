@@ -87,3 +87,9 @@
 2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said,
 2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… yes… but SMS is best method now.
 2019-04-21T06:07:48+0100	I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.
+2019-07-01T18:12:08+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Obvious flaw is surely more likely to be people.  Fex if people are hearing “MMR terror”
+2019-07-01T18:12:08+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… today, reputable sources don’t help
+2019-07-01T18:12:16+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Or try listening to a climate denialist.  “Science is wrong.  World got warmer before,
+2019-07-01T18:12:16+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… science proved it!”
+2019-02-08T19:01:25+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Well, offers of elucidation to people who think opinions are equally valid are almost *by
+2019-02-08T19:01:25+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… definition* worthless.
