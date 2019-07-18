@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-07-01T19:01:25+00:00</updated>
+  <updated>2019-07-18T22:32:19+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Have been priming a reboot of ``bfm`` this evening, mostly to please everyone's favourite child(but also me).  /cc @cass@eads_cs.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-07-18T22:32:19+01:00</id>
+    <updated>2019-07-18T22:32:19+01:00</updated>
+    <published>2019-07-18T22:32:19+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-07-18T22:32:19+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-18T22:32:19+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Have been priming a reboot of &lt;code&gt;bfm&lt;/code&gt; this evening, mostly to please everyone's favourite child(but also me).  /cc &lt;em&gt;@cass@eads_cs&lt;/em&gt;.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://github.com/JNRowe/bfm&quot;&gt;                                        &lt;cite&gt;bubblefishymon&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-18T22:32:19+01:00&quot;&gt;Jul 18, 22:32&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@chewy@eads_cs Well, offers of elucidation to people who think opinions are equally valid are almost *by definition* worthless.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-07-01T19:01:25+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-02-20T13:59:36+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-02-20T13:59:36+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-20T13:59:36+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @blaze@eads_cs's post                                on                                &lt;time datetime=&quot;2019-02-20T13:50:40+00:00&quot;&gt;Feb 20, 13:50&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Disinterested parties? Unexpected kindness. Were you not offered Bremen? My heartfelt sympathies if not.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@blaze@eads_cs&lt;/em&gt; Can&amp;#8217;t be offered, I obviously don&amp;#8217;t meet the minimum 4Y masters requirement.  Sadly, my final ERB project :/&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-20T13:59:36+00:00&quot;&gt;Feb 20, 13:59&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-02-20T13:48:44+00:00</id>
-    <updated>2019-02-20T13:48:44+00:00</updated>
-    <published>2019-02-20T13:48:44+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-02-20T13:48:44+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-20T13:48:44+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Just finished my GGS probit.  Not sure what management expected, presume it is &amp;#8220;no change required; disinterested parties killed it&amp;#8221;.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-20T13:48:44+00:00&quot;&gt;Feb 20, 13:48&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
