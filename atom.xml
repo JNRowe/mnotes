@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-07-23T19:01:20+01:00</updated>
+  <updated>2019-07-23T19:27:51+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@charoug@eads_cs Actually, yes.  I’ve planned for ~fifteen, but we’ll see what happens.  Drop in to AW1, if you miss breakfast.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+01:00</id>
+    <updated>2019-07-23T19:27:51+01:00</updated>
+    <published>2019-07-23T19:27:51+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-23T19:27:51+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @charoug@eads_cs's post                                on                                &lt;time datetime=&quot;2019-07-23T19:19:34+01:00&quot;&gt;Jul 23, 19:19&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; yum, is that for tomorrow? I'll take a kosher one &amp;#128540; How many will be there?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@charoug@eads_cs&lt;/em&gt; Actually, yes.  I&amp;#8217;ve planned for ~fifteen, but we&amp;#8217;ll see what happens.  Drop in to AW1, if you miss breakfast.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-23T19:27:51+01:00&quot;&gt;Jul 23, 19:27&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">”Cheat’s eggs Benedict”, where the apparent cheat is “6 tbsp hollandaise sauce”.  Worst. Recipe. Ever.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-07-23T19:01:20+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-02-20T14:25:46+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-02-20T14:25:46+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-20T14:25:46+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @ollie@eads_cs's post                                on                                &lt;time datetime=&quot;2019-02-20T15:25:09+01:00&quot;&gt;Feb 20, 15:25&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; &lt;em&gt;@xander@eads_cs&lt;/em&gt; I thought you&amp;#8217;d been saying no too &amp;#128544; You didn&amp;#8217;t mention that when I asked about Paris&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@ollie@eads_cs&lt;/em&gt; Thought you knew.  In fact, I thought that was the &lt;strong&gt;exact&lt;/strong&gt; conversation we had back in July.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-20T14:25:46+00:00&quot;&gt;Feb 20, 14:25&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@xander@eads_cs It doesn’t here either.  Nope, would’ve gone to *any* in an instant &amp; even looked at SR roles in 2016-12.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-02-20T14:22:43+00:00</id>
-    <updated>2019-02-20T14:22:43+00:00</updated>
-    <published>2019-02-20T14:22:43+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-02-20T14:22:43+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-20T14:22:43+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @xander@eads_cs's post                                on                                &lt;time datetime=&quot;2019-02-20T14:05:14+00:00&quot;&gt;Feb 20, 14:05&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Jeez, didn't know that. How come industry doesn't count? Had assumed you'd been saying no to that and {P,T}&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@xander@eads_cs&lt;/em&gt; It doesn&amp;#8217;t here either.  Nope, would&amp;#8217;ve gone to &lt;strong&gt;any&lt;/strong&gt; in an instant &amp;amp; even looked at SR roles in 2016-12.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-20T14:22:43+00:00&quot;&gt;Feb 20, 14:22&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
