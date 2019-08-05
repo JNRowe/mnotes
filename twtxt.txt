@@ -100,3 +100,4 @@
 2019-07-23T19:27:51+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… AW1, if you miss breakfast.
 2019-07-24T20:06:46+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> I was looking for the traditional names of the alternative types; veggie one, halal
 2019-07-24T20:06:46+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… one, etc.  Appreciate the confidence.
+2019-08-05T15:58:08+0100	OH: “Given Booker is dead, who is the new go-to example for ∞ denial?”  Arguably harsh as a statement, but *feels* like a valid question.
