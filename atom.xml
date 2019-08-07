@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-08-05T15:58:08+01:00</updated>
+  <updated>2019-08-07T12:59:32+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@MissLB@eads_cs … or in life at large?  “you can’t reason your way out” aso, but believing will fix that</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-08-07T12:59:32+01:00</id>
+    <updated>2019-08-07T12:59:32+01:00</updated>
+    <published>2019-08-07T12:59:32+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-07T12:59:32+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-07T12:59:32+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2019-08-06T11:52:47+01:00&quot;&gt;Aug 06, 11:52&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Jeez, that &quot;brexit mess&quot; op-ed linked in the obit is A-M-A-Z-I-N-G. Imagine if you could get away with that at work?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; &amp;#8230; or in life at large?  &amp;#8220;you can&amp;#8217;t reason your way out&amp;#8221; aso, but believing will fix that&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-07T12:59:32+01:00&quot;&gt;Aug 07, 12:59&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">OH: “Given Booker is dead, who is the new go-to example for ∞ denial?”  Arguably harsh as a statement, but *feels* like a valid question.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-08-05T15:58:08+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-03-07T20:06:32+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-03-07T20:06:32+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-03-07T20:06:32+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2019-03-07T18:50:19+00:00&quot;&gt;Mar 07, 18:50&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;New year cycling experiment is broken.  I don't like the dark nights without even a moon on commute.  Back to roads or car?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Thing is I &lt;strong&gt;really&lt;/strong&gt; miss those; both new and full.  Are you wearing appropriate lenses?  &lt;strong&gt;Huge&lt;/strong&gt; difference.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-03-07T20:06:32+00:00&quot;&gt;Mar 07, 20:06&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@MissLB@eads_cs Prime Suspect ‘73 was my fave origin story, but Endeavour sure is nice Sunday night decomp.  Agree on rhythm.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-02-25T05:17:42+00:00</id>
-    <updated>2019-02-25T05:17:42+00:00</updated>
-    <published>2019-02-25T05:17:42+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-02-25T05:17:42+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-02-25T05:17:42+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2019-02-24T22:02:03+00:00&quot;&gt;Feb 24, 22:02&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Loving Endeavour, even if the &quot;bad&quot; coppers feel a little pantomime villainous.  Slow but thoughtful, plodding yet melodic.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Prime Suspect &amp;#8216;73 was my fave origin story, but Endeavour sure is nice Sunday night decomp.  Agree on rhythm.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Endeavour_(TV_series)&quot;&gt;                                        &lt;cite&gt;Endeavour (TV series)&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-02-25T05:17:42+00:00&quot;&gt;Feb 25, 05:17&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
