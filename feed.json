@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-12T19:02:48+0100",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-12T19:02:48+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss</p>                                            <ul>                                                            <li>                                    <a href=\"https://www.newton.ac.uk/news/summer-maths-puzzles\">                                        <cite>Summer Maths Puzzles</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-12T19:02:48+01:00\">Aug 12, 19:02</time>                                            </p>                </article>",
+            "content_text": "Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss",
+            "date_published": "2019-08-12T19:02:48+0100",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-12T19:02:48+0100"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-08-07T12:59:32+0100",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-07T12:59:32+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2019-08-06T11:52:47+01:00\">Aug 06, 11:52</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, that \"brexit mess\" op-ed linked in the obit is A-M-A-Z-I-N-G. Imagine if you could get away with that at work?</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> &#8230; or in life at large?  &#8220;you can&#8217;t reason your way out&#8221; aso, but believing will fix that</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-07T12:59:32+01:00\">Aug 07, 12:59</time>                                            </p>                </article>",
             "content_text": "@MissLB@eads_cs \u2026 or in life at large?  \u201cyou can\u2019t reason your way out\u201d aso, but believing will fix that",
@@ -108,13 +115,6 @@
             "date_published": "2019-03-11T05:37:58+0000",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-03-11T05:37:58+0000",
             "image": "https://jnrowe.github.io/mnotes/media/day_after_today.png"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-03-07T20:06:32+0000",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-03-07T20:06:32+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2019-03-07T18:50:19+00:00\">Mar 07, 18:50</time>:                            </p>                            <blockquote>New year cycling experiment is broken.  I don't like the dark nights without even a moon on commute.  Back to roads or car?</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> Thing is I <strong>really</strong> miss those; both new and full.  Are you wearing appropriate lenses?  <strong>Huge</strong> difference.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-03-07T20:06:32+00:00\">Mar 07, 20:06</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs Thing is I *really* miss those; both new and full.  Are you wearing appropriate lenses?  *Huge* difference.",
-            "date_published": "2019-03-07T20:06:32+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-03-07T20:06:32+0000"
         }
     ]
 }
