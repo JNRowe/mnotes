@@ -651,5 +651,26 @@
         ],
         "text": "Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss",
         "timestamp": "2019-08-12T19:02:48+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs hmm, maybe I'm interviewing *too* much but the first couple are common interview questions reworded.",
+            "toot": {
+                "timestamp": "2019-08-12T20:02:27+0100",
+                "user": "@dan_man@eads_rpas"
+            }
+        },
+        "references": [
+            {
+                "title": "Wrong but Useful",
+                "url": "http://www.flyingcoloursmaths.co.uk/category/podcasts/"
+            },
+            {
+                "title": "Odds and Evenings",
+                "url": "http://www.oddsandevenings.com/"
+            }
+        ],
+        "text": "@dan_man@eads_rpas I’m sure I’ve heard a few on WbU or Odds & Evenings too; doesn’t mean there isn’t more fun to be had ;)",
+        "timestamp": "2019-08-12T23:33:42+0100"
     }
 ]
