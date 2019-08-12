@@ -641,5 +641,15 @@
         },
         "text": "@MissLB@eads_cs … or in life at large?  “you can’t reason your way out” aso, but believing will fix that",
         "timestamp": "2019-08-07T12:59:32+0100"
+    },
+    {
+        "references": [
+            {
+                "title": "Summer Maths Puzzles",
+                "url": "https://www.newton.ac.uk/news/summer-maths-puzzles"
+            }
+        ],
+        "text": "Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss",
+        "timestamp": "2019-08-12T19:02:48+0100"
     }
 ]
