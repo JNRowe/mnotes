@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+0100",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-16T20:22:25+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2019-08-16T20:09:40+01:00\">Aug 16, 20:09</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Love Fry's approachable presentations too.  Why emphasis on \"childrens\"?</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> Sadness at them often being marketed &#8220;for children&#8221;, they&#8217;re <em>always</em> interesting.  &#8220;RI Late&#8221; could be cool, though.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-16T20:22:25+01:00\">Aug 16, 20:22</time>                                            </p>                </article>",
+            "content_text": "@MissLB@eads_cs Sadness at them often being marketed \u201cfor children\u201d, they\u2019re /always/ interesting.  \u201cRI Late\u201d could be cool, though.",
+            "date_published": "2019-08-16T20:22:25+0100",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+0100"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-08-16T19:31:26+0100",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-16T19:31:26+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">&#8230; Also, another great pick for <em>childrens</em> xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me</p>                                            <ul>                                                            <li>                                    <a href=\"https://en.m.wikipedia.org/wiki/RI_Christmas_Lectures\">                                        <cite>Royal Institution Christmas Lectures</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-16T19:31:26+01:00\">Aug 16, 19:31</time>                                            </p>                </article>",
             "content_text": "\u2026 Also, another great pick for /childrens/ xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me",
@@ -107,13 +114,6 @@
             "content_text": "@chewy@eads_cs Obvious flaw is surely more likely to be people.  Fex if people are hearing \u201cMMR terror\u201d today, reputable sources don\u2019t help",
             "date_published": "2019-07-01T18:12:08+0000",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-07-01T18:12:08+0000"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-04-21T06:07:48+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-04-21T06:07:48+01:00\">                                            <img src=\"support/x-advice/perhaps.png\" class=\"importance\" alt=\"perhaps read soon\" width=\"33%\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">I&#8217;m giving a talk on quickcheck-type solutions for imperative languages at LoFu &#8216;19.  Drop in to whine about people needing &#8220;real FP&#8221;.</p>                                            <ul>                                                            <li>                                    <a href=\"https://github.com/nick8325/quickcheck\">                                        <cite>QuickCheck</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-04-21T06:07:48+01:00\">Apr 21, 06:07</time>                                            </p>                </article>",
-            "content_text": "I\u2019m giving a talk on quickcheck-type solutions for imperative languages at LoFu \u201819.  Drop in to whine about people needing \u201creal FP\u201d.",
-            "date_published": "2019-04-21T06:07:48+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-04-21T06:07:48+0100"
         }
     ]
 }

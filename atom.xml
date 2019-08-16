@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-08-16T19:31:26+01:00</updated>
+  <updated>2019-08-16T20:22:25+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@MissLB@eads_cs Sadness at them often being marketed “for children”, they’re /always/ interesting.  “RI Late” could be cool, though.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+01:00</id>
+    <updated>2019-08-16T20:22:25+01:00</updated>
+    <published>2019-08-16T20:22:25+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-16T20:22:25+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2019-08-16T20:09:40+01:00&quot;&gt;Aug 16, 20:09&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Love Fry's approachable presentations too.  Why emphasis on &quot;childrens&quot;?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Sadness at them often being marketed &amp;#8220;for children&amp;#8221;, they&amp;#8217;re &lt;em&gt;always&lt;/em&gt; interesting.  &amp;#8220;RI Late&amp;#8221; could be cool, though.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-16T20:22:25+01:00&quot;&gt;Aug 16, 20:22&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">… Also, another great pick for /childrens/ xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-08-16T19:31:26+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-07-01T18:12:08+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-07-01T18:12:08+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-01T18:12:08+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @chewy@eads_cs's post                                on                                &lt;time datetime=&quot;2019-07-01T14:52:00+01:00&quot;&gt;Jul 01, 14:52&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Interesting talk about a &quot;kite mark&quot; for science reports at BLiM. Obvious flaw being funding a body to do so.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@chewy@eads_cs&lt;/em&gt; Obvious flaw is surely more likely to be people.  Fex if people are hearing &amp;#8220;MMR terror&amp;#8221; today, reputable sources don&amp;#8217;t help&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-01T18:12:08+00:00&quot;&gt;Jul 01, 18:12&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-04-21T06:07:48+01:00</id>
-    <updated>2019-04-21T06:07:48+01:00</updated>
-    <published>2019-04-21T06:07:48+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-04-21T06:07:48+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-04-21T06:07:48+01:00&quot;&gt;                                            &lt;img src=&quot;support/x-advice/perhaps.png&quot; class=&quot;importance&quot; alt=&quot;perhaps read soon&quot; width=&quot;33%&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;I&amp;#8217;m giving a talk on quickcheck-type solutions for imperative languages at LoFu &amp;#8216;19.  Drop in to whine about people needing &amp;#8220;real FP&amp;#8221;.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://github.com/nick8325/quickcheck&quot;&gt;                                        &lt;cite&gt;QuickCheck&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-04-21T06:07:48+01:00&quot;&gt;Apr 21, 06:07&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
