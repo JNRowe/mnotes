@@ -683,5 +683,15 @@
         },
         "text": "@pmitty@eads_cs Same as.  Basil has grown *very* well this season, but my peppers are pepper-less.",
         "timestamp": "2019-08-16T19:24:44+0100"
+    },
+    {
+        "references": [
+            {
+                "title": "Maths and tech specialists need Hippocratic oath",
+                "url": "https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry"
+            }
+        ],
+        "text": "Totally agree with @FryRsquared@twit_brg on oath.  We have ethics Qs during yearly reviews, and they’re hugely eye opening.",
+        "timestamp": "2019-08-16T19:30:31+0100"
     }
 ]
