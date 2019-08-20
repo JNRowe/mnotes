@@ -714,5 +714,22 @@
         },
         "text": "@MissLB@eads_cs Sadness at them often being marketed “for children”, they’re /always/ interesting.  “RI Late” could be cool, though.",
         "timestamp": "2019-08-16T20:22:25+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Is it time to declare *now* as the interregnum of Cameron and whomever? So little has occurred that it may just be.",
+            "toot": {
+                "timestamp": "2019-08-19T21:39:36+0100",
+                "user": "@blaze@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Red Queen's race",
+                "url": "https://en.m.wikipedia.org/wiki/Red_Queen%27s_race"
+            }
+        ],
+        "text": "@blaze@eads_cs “interregnum” great word, thanks!  Does really feel like a Carroll-esque Red Queen’s Race, so yeah… why not.",
+        "timestamp": "2019-08-20T05:02:46+0100"
     }
 ]
