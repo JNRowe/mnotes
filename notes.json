@@ -731,5 +731,22 @@
         ],
         "text": "@blaze@eads_cs “interregnum” great word, thanks!  Does really feel like a Carroll-esque Red Queen’s Race, so yeah… why not.",
         "timestamp": "2019-08-20T05:02:46+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Wish the zipit was still a thing, current project would be far better off using it as controller/interface",
+            "toot": {
+                "timestamp": "2019-08-21T09:09:41+0100",
+                "user": "@mleighy@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Zipit wireless messenger (Z2)",
+                "url": "https://en.m.wikipedia.org/wiki/Zipit_wireless_messenger_(Z2)"
+            }
+        ],
+        "text": "@mleighy@eads_cs Yes!  I’d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the ‘00s, and they’re still going.",
+        "timestamp": "2019-08-21T11:59:07+0100"
     }
 ]
