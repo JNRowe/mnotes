@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-08-21T11:59:07+01:00</updated>
+  <updated>2019-08-21T12:03:15+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@mleighy@eads_cs just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have /serious/ battery upgrades too.)</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-08-21T12:03:15+01:00</id>
+    <updated>2019-08-21T12:03:15+01:00</updated>
+    <published>2019-08-21T12:03:15+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-21T12:03:15+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-21T12:03:15+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @mleighy@eads_cs's post                                on                                &lt;time datetime=&quot;2019-08-21T09:09:41+01:00&quot;&gt;Aug 21, 09:09&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Wish the zipit was still a thing, current project would be far better off using it as controller/interface&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@mleighy@eads_cs&lt;/em&gt; just skimmed the TS &lt;abbr title=&quot;Pull Request&quot;&gt;PR&lt;/abbr&gt;, 2 breakages in ninety units.  Astonishing.  (A few have &lt;em&gt;serious&lt;/em&gt; battery upgrades too.)&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-21T12:03:15+01:00&quot;&gt;Aug 21, 12:03&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@mleighy@eads_cs Yes!  I’d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the ‘00s, and they’re still going.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-08-21T11:59:07+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-07-18T22:32:19+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-07-18T22:32:19+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-18T22:32:19+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Have been priming a reboot of &lt;code&gt;bfm&lt;/code&gt; this evening, mostly to please everyone's favourite child(but also me).  /cc &lt;em&gt;@cass@eads_cs&lt;/em&gt;.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://github.com/JNRowe/bfm&quot;&gt;                                        &lt;cite&gt;bubblefishymon&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-18T22:32:19+01:00&quot;&gt;Jul 18, 22:32&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@chewy@eads_cs Well, offers of elucidation to people who think opinions are equally valid are almost *by definition* worthless.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-07-01T19:01:25+00:00</id>
-    <updated>2019-07-01T19:01:25+00:00</updated>
-    <published>2019-07-01T19:01:25+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-07-01T19:01:25+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-01T19:01:25+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @chewy@eads_cs's post                                on                                &lt;time datetime=&quot;2019-07-01T18:28:30+01:00&quot;&gt;Jul 01, 18:28&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; I think that is a joke, right? If not what are you suggesting, that we simply give up or ...&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@chewy@eads_cs&lt;/em&gt; Well, offers of elucidation to people who think opinions are equally valid are almost &lt;strong&gt;by definition&lt;/strong&gt; worthless.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-01T19:01:25+00:00&quot;&gt;Jul 01, 19:01&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
