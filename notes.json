@@ -759,5 +759,16 @@
         },
         "text": "@mleighy@eads_cs just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have /serious/ battery upgrades too.)",
         "timestamp": "2019-08-21T12:03:15+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Yeeps, that report is crazy. That may be your coolest project(that I know of).  The battery timings are odd G1 to G2.",
+            "toot": {
+                "timestamp": "2019-08-21T16:13:32+0100",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and Gen2.5 have /huge/ suspend sw fixes.",
+        "timestamp": "2019-08-22T15:12:37+0100"
     }
 ]
