@@ -770,5 +770,16 @@
         },
         "text": "@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and Gen2.5 have /huge/ suspend sw fixes.",
         "timestamp": "2019-08-22T15:12:37+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.",
+            "toot": {
+                "timestamp": "2019-08-24T20:47:21+0100",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs 650b, email him.",
+        "timestamp": "2019-08-25T08:52:32+0100"
     }
 ]
