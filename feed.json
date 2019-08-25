@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+0100",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-25T08:52:32+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2019-08-24T20:47:21+01:00\">Aug 24, 20:47</time>:                            </p>                            <blockquote>Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Don&#8217;t use, but&#8230; I just don&#8217;t like the way they look on &#8220;full-size&#8221; frames.  Ant runs 650b, email him.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-25T08:52:32+01:00\">Aug 25, 08:52</time>                                            </p>                </article>",
+            "content_text": "@charoug@eads_cs Don\u2019t use, but\u2026 I just don\u2019t like the way they look on \u201cfull-size\u201d frames.  Ant runs 650b, email him.",
+            "date_published": "2019-08-25T08:52:32+0100",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+0100"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-08-22T15:12:37+0100",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-22T15:12:37+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2019-08-21T16:13:32+01:00\">Aug 21, 16:13</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Yeeps, that report is crazy. That may be your coolest project(that I know of).  The battery timings are odd G1 to G2.</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap LIons, and Gen2.5 have <em>huge</em> suspend sw fixes.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-22T15:12:37+01:00\">Aug 22, 15:12</time>                                            </p>                </article>",
             "content_text": "@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap LIons, and Gen2.5 have /huge/ suspend sw fixes.",
@@ -107,13 +114,6 @@
             "content_text": "@charoug@eads_cs Actually, yes.  I\u2019ve planned for ~fifteen, but we\u2019ll see what happens.  Drop in to AW1, if you miss breakfast.",
             "date_published": "2019-07-23T19:27:51+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-07-23T19:01:20+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-07-23T19:01:20+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">&#8221;Cheat&#8217;s eggs Benedict&#8221;, where the apparent cheat is &#8220;6 tbsp hollandaise sauce&#8221;.  Worst. Recipe. Ever.</p>                                            <ul>                                                            <li>                                    <a href=\"https://www.bbc.co.uk/food/recipes/eggsbenedict_9435\">                                        <cite>Cheat's eggs Benedict</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-07-23T19:01:20+01:00\">Jul 23, 19:01</time>                                            </p>                </article>",
-            "content_text": "\u201dCheat\u2019s eggs Benedict\u201d, where the apparent cheat is \u201c6 tbsp hollandaise sauce\u201d.  Worst. Recipe. Ever.",
-            "date_published": "2019-07-23T19:01:20+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-07-23T19:01:20+0100"
         }
     ]
 }

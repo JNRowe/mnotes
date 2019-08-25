@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-08-22T15:12:37+01:00</updated>
+  <updated>2019-08-25T08:52:32+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@charoug@eads_cs Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs 650b, email him.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+01:00</id>
+    <updated>2019-08-25T08:52:32+01:00</updated>
+    <published>2019-08-25T08:52:32+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-25T08:52:32+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @charoug@eads_cs's post                                on                                &lt;time datetime=&quot;2019-08-24T20:47:21+01:00&quot;&gt;Aug 24, 20:47&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@charoug@eads_cs&lt;/em&gt; Don&amp;#8217;t use, but&amp;#8230; I just don&amp;#8217;t like the way they look on &amp;#8220;full-size&amp;#8221; frames.  Ant runs 650b, email him.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-25T08:52:32+01:00&quot;&gt;Aug 25, 08:52&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap LIons, and Gen2.5 have /huge/ suspend sw fixes.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-08-22T15:12:37+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-07-23T19:27:51+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-23T19:27:51+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @charoug@eads_cs's post                                on                                &lt;time datetime=&quot;2019-07-23T19:19:34+01:00&quot;&gt;Jul 23, 19:19&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; yum, is that for tomorrow? I'll take a kosher one &amp;#128540; How many will be there?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@charoug@eads_cs&lt;/em&gt; Actually, yes.  I&amp;#8217;ve planned for ~fifteen, but we&amp;#8217;ll see what happens.  Drop in to AW1, if you miss breakfast.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-23T19:27:51+01:00&quot;&gt;Jul 23, 19:27&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">”Cheat’s eggs Benedict”, where the apparent cheat is “6 tbsp hollandaise sauce”.  Worst. Recipe. Ever.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-07-23T19:01:20+01:00</id>
-    <updated>2019-07-23T19:01:20+01:00</updated>
-    <published>2019-07-23T19:01:20+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-07-23T19:01:20+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-07-23T19:01:20+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;&amp;#8221;Cheat&amp;#8217;s eggs Benedict&amp;#8221;, where the apparent cheat is &amp;#8220;6 tbsp hollandaise sauce&amp;#8221;.  Worst. Recipe. Ever.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.bbc.co.uk/food/recipes/eggsbenedict_9435&quot;&gt;                                        &lt;cite&gt;Cheat's eggs Benedict&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-07-23T19:01:20+01:00&quot;&gt;Jul 23, 19:01&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
