@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-27T17:43:38+0100",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-27T17:43:38+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker&#8217;s Screenwipe.  &#10026;&#10026;&#10026;&#10026;&#10026;</p>                                            <ul>                                                            <li>                                    <a href=\"https://www.theallusionist.org/\">                                        <cite>The Allusionist - A podcast about language by Helen Zaltzman</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-27T17:43:38+01:00\">Aug 27, 17:43</time>                                            </p>                </article>",
+            "content_text": "Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker\u2019s Screenwipe.  \u272a\u272a\u272a\u272a\u272a",
+            "date_published": "2019-08-27T17:43:38+0100",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-27T17:43:38+0100"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+0100",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-25T08:52:32+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2019-08-24T20:47:21+01:00\">Aug 24, 20:47</time>:                            </p>                            <blockquote>Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Don&#8217;t use, but&#8230; I just don&#8217;t like the way they look on &#8220;full-size&#8221; frames.  Ant runs 650b, email him.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-25T08:52:32+01:00\">Aug 25, 08:52</time>                                            </p>                </article>",
             "content_text": "@charoug@eads_cs Don\u2019t use, but\u2026 I just don\u2019t like the way they look on \u201cfull-size\u201d frames.  Ant runs 650b, email him.",
@@ -107,13 +114,6 @@
             "content_text": "@MissLB@eads_cs I was looking for the traditional names of the alternative types; veggie one, halal one, etc.  Appreciate the confidence.",
             "date_published": "2019-07-24T20:06:46+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-07-24T20:06:46+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-07-23T19:27:51+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2019-07-23T19:19:34+01:00\">Jul 23, 19:19</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> yum, is that for tomorrow? I'll take a kosher one &#128540; How many will be there?</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Actually, yes.  I&#8217;ve planned for ~fifteen, but we&#8217;ll see what happens.  Drop in to AW1, if you miss breakfast.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-07-23T19:27:51+01:00\">Jul 23, 19:27</time>                                            </p>                </article>",
-            "content_text": "@charoug@eads_cs Actually, yes.  I\u2019ve planned for ~fifteen, but we\u2019ll see what happens.  Drop in to AW1, if you miss breakfast.",
-            "date_published": "2019-07-23T19:27:51+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-07-23T19:27:51+0100"
         }
     ]
 }

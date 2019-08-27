@@ -122,3 +122,4 @@
 2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Gen2.5 have /huge/ suspend sw fixes.
 2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs
 2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… 650b, email him.
+2019-08-27T17:43:38+0100	Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker’s Screenwipe.  ✪✪✪✪✪
