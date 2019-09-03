@@ -805,5 +805,16 @@
         ],
         "text": "So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)",
         "timestamp": "2019-09-03T19:41:09+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Hmm, it does support vi mode.  See ``howl.command.vi_on``.",
+            "toot": {
+                "timestamp": "2019-09-03T20:50:11+0100",
+                "user": "@ant_bat@eads_cs"
+            }
+        },
+        "text": "@ant_bat@eads_cs Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep emulation.",
+        "timestamp": "2019-09-03T20:57:03+0100"
     }
 ]
