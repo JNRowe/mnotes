@@ -7,7 +7,7 @@ import textwrap
 from jnrbase.attrdict import AttrDict
 
 
-with open('data/notes.json') as f:
+with open('data/µnotes.json') as f:
     notes = json.load(f, object_hook=AttrDict)
 
 

@@ -10,7 +10,7 @@ from lxml import html
 with open(sys.argv[1]) as f:
     page = html.parse(f)
 
-with open('data/notes.json') as f:
+with open('data/µnotes.json') as f:
     notes = json.load(f, object_hook=AttrDict)
 
 with open('data/config.json') as f:

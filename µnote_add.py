@@ -23,7 +23,7 @@ def valid_timestamp(string):
 
 
 try:
-    with open('data/notes.json') as f:
+    with open('data/µnotes.json') as f:
         notes = json.load(f)
 except FileNotFoundError:
     notes = []
@@ -116,5 +116,5 @@ if args.importance:
     }
 notes.append(note)
 
-with open('data/notes.json', 'w') as f:
+with open('data/µnotes.json', 'w') as f:
     json.dump(notes, f, indent=4, sort_keys=True)

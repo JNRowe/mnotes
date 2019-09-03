@@ -61,12 +61,12 @@ def munge(dct):
     return dct
 
 
-with open('data/notes.json') as f:
+with open('data/µnotes.json') as f:
     notes = json.load(f, object_hook=munge)
 
 with open('data/config.json') as f:
     config = json.load(f, object_hook=AttrDict)
 
-tmpl = ENV.get_template('notes.jinja')
+tmpl = ENV.get_template('µnotes.jinja')
 
 print(tmpl.render(notes=notes, today=datetime.date.today(), **config))
