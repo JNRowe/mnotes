@@ -791,5 +791,19 @@
         ],
         "text": "Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker’s Screenwipe.  ✪✪✪✪✪",
         "timestamp": "2019-08-27T17:43:38+0100"
+    },
+    {
+        "references": [
+            {
+                "title": "The Howl Editor",
+                "url": "https://howl.io/"
+            },
+            {
+                "title": "The extensible vi layer for Emacs",
+                "url": "https://github.com/emacs-evil/evil"
+            }
+        ],
+        "text": "So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)",
+        "timestamp": "2019-09-03T19:41:09+0100"
     }
 ]
