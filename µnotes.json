@@ -816,5 +816,16 @@
         },
         "text": "@ant_bat@eads_cs Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep emulation.",
         "timestamp": "2019-09-03T20:57:03+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Faaaawwwwwwwwgggggg.  Eww, how are here already?",
+            "toot": {
+                "timestamp": "2019-09-10T05:47:18+0100",
+                "user": "@catp@eads_pr"
+            }
+        },
+        "text": "@catp@eads_pr If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All the way to GWR.",
+        "timestamp": "2019-09-10T06:21:16+0100"
     }
 ]
