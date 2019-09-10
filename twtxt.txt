@@ -118,7 +118,7 @@
 2019-08-21T11:59:07+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… ‘00s, and they’re still going.
 2019-08-21T12:03:15+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt> just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have
 2019-08-21T12:03:15+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… /serious/ battery upgrades too.)
-2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap LIons, and
+2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and
 2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Gen2.5 have /huge/ suspend sw fixes.
 2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs
 2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… 650b, email him.
