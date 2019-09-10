@@ -126,3 +126,5 @@
 2019-09-03T19:41:09+0100	So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)
 2019-09-03T20:57:03+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep
 2019-09-03T20:57:03+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… emulation.
+2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt> If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All
+2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt>… the way to GWR.
