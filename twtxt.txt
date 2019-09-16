@@ -128,3 +128,5 @@
 2019-09-03T20:57:03+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… emulation.
 2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt> If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All
 2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt>… the way to GWR.
+2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt> If you’re hoping to win /those/ arguments with Greek mythology and French you are 100%
+2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt>… full win.
