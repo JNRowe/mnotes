@@ -130,3 +130,5 @@
 2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt>… the way to GWR.
 2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt> If you’re hoping to win /those/ arguments with Greek mythology and French you are 100%
 2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt>… full win.
+2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or
+2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… Fri if you want a whiteboard session.

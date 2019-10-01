@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-09-16T21:08:48+01:00</updated>
+  <updated>2019-10-01T13:10:27+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@ant_bat@eads_cs Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or Fri if you want a whiteboard session.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-10-01T13:10:27+01:00</id>
+    <updated>2019-10-01T13:10:27+01:00</updated>
+    <published>2019-10-01T13:10:27+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-10-01T13:10:27+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-10-01T13:10:27+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @ant_bat@eads_cs's post                                on                                &lt;time datetime=&quot;2019-10-01T12:35:51+01:00&quot;&gt;Oct 01, 12:35&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Who do I talk to if I want to understand Ramsey's DGPS control plane?  It just isn't making sense, name that duck.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@ant_bat@eads_cs&lt;/em&gt; Likely I&amp;#8217;m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or Fri if you want a whiteboard session.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-10-01T13:10:27+01:00&quot;&gt;Oct 01, 13:10&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@danni@eads_cs If you’re hoping to win /those/ arguments with Greek mythology and French you are 100% full win.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-09-16T21:08:48+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-08-16T19:24:44+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-08-16T19:24:44+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-16T19:24:44+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @pmitty@eads_cs's post                                on                                &lt;time datetime=&quot;2019-08-16T17:41:40+01:00&quot;&gt;Aug 16, 17:41&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Not a single fruit on &lt;strong&gt;any&lt;/strong&gt; of my chilli plants this year, and the final flower has given up.  Bah.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@pmitty@eads_cs&lt;/em&gt; Same as.  Basil has grown &lt;strong&gt;very&lt;/strong&gt; well this season, but my peppers are pepper-less.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-16T19:24:44+01:00&quot;&gt;Aug 16, 19:24&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@dan_man@eads_rpas I’m sure I’ve heard a few on WbU or Odds &amp; Evenings too; doesn’t mean there isn’t more fun to be had ;)</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-08-12T23:33:42+01:00</id>
-    <updated>2019-08-12T23:33:42+01:00</updated>
-    <published>2019-08-12T23:33:42+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-12T23:33:42+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-12T23:33:42+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @dan_man@eads_rpas's post                                on                                &lt;time datetime=&quot;2019-08-12T20:02:27+01:00&quot;&gt;Aug 12, 20:02&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; hmm, maybe I'm interviewing &lt;strong&gt;too&lt;/strong&gt; much but the first couple are common interview questions reworded.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@dan_man@eads_rpas&lt;/em&gt; I&amp;#8217;m sure I&amp;#8217;ve heard a few on WbU or Odds &amp;amp; Evenings too; doesn&amp;#8217;t mean there isn&amp;#8217;t more fun to be had ;)&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;http://www.flyingcoloursmaths.co.uk/category/podcasts/&quot;&gt;                                        &lt;cite&gt;Wrong but Useful&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;http://www.oddsandevenings.com/&quot;&gt;                                        &lt;cite&gt;Odds and Evenings&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-12T23:33:42+01:00&quot;&gt;Aug 12, 23:33&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
