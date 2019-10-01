@@ -838,5 +838,16 @@
         },
         "text": "@danni@eads_cs If you’re hoping to win /those/ arguments with Greek mythology and French you are 100% full win.",
         "timestamp": "2019-09-16T21:08:48+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Who do I talk to if I want to understand Ramsey's DGPS control plane?  It just isn't making sense, name that duck.",
+            "toot": {
+                "timestamp": "2019-10-01T12:35:51+0100",
+                "user": "@ant_bat@eads_cs"
+            }
+        },
+        "text": "@ant_bat@eads_cs Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or Fri if you want a whiteboard session.",
+        "timestamp": "2019-10-01T13:10:27+0100"
     }
 ]
