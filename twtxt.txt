@@ -132,3 +132,5 @@
 2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt>… full win.
 2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or
 2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… Fri if you want a whiteboard session.
+2019-10-06T19:38:47+0100	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt> Neither, am I.  However ``foliate`` or ``nov.el`` are both
+2019-10-06T19:38:47+0100	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt>… *amazing* readers.
