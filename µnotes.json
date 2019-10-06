@@ -849,5 +849,30 @@
         },
         "text": "@ant_bat@eads_cs Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or Fri if you want a whiteboard session.",
         "timestamp": "2019-10-01T13:10:27+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "New release of calibre. Still awful, but still the only game in town. How is this? (nb: I'm not fixing this either 🙍)",
+            "toot": {
+                "timestamp": "2019-10-06T16:47:48+0100",
+                "user": "@mickey_pleasance@eads_cs"
+            }
+        },
+        "media": {
+            "comment": "nov.el rendering an epub beautifully",
+            "file": "novel_in_nov_el.png"
+        },
+        "references": [
+            {
+                "title": "foliate - A simple and modern eBook viewer",
+                "url": "https://johnfactotum.github.io/foliate/"
+            },
+            {
+                "title": "nov.el - Major mode for reading EPUBs in Emacs",
+                "url": "https://github.com/wasamasa/nov.el"
+            }
+        ],
+        "text": "@mickey_pleasance@eads_cs Neither, am I.  However ``foliate`` or ``nov.el`` are both *amazing* readers.",
+        "timestamp": "2019-10-06T19:38:47+0100"
     }
 ]
