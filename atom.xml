@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-10-06T19:38:47+01:00</updated>
+  <updated>2019-10-22T12:04:01+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@chewy@eads_cs Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see that every week.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-10-22T12:04:01+01:00</id>
+    <updated>2019-10-22T12:04:01+01:00</updated>
+    <published>2019-10-22T12:04:01+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-10-22T12:04:01+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-10-22T12:04:01+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @chewy@eads_cs's post                                on                                &lt;time datetime=&quot;2019-10-22T08:15:43+01:00&quot;&gt;Oct 22, 08:15&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Really enjoying Buffering The Vampire Slayer, which I'm buffering 5 years late.  Like being back at school.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@chewy@eads_cs&lt;/em&gt; Best. Title. Ever.  Show may not be for me, but the title&amp;#8230; I might subscribe just to see that every week.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.bufferingthevampireslayer.com/&quot;&gt;                                        &lt;cite&gt;Buffering the Vampire Slayer&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-10-22T12:04:01+01:00&quot;&gt;Oct 22, 12:04&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@mickey_pleasance@eads_cs Neither, am I.  However ``foliate`` or ``nov.el`` are both *amazing* readers.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-10-06T19:38:47+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-08-16T19:31:26+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-08-16T19:31:26+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-16T19:31:26+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;&amp;#8230; Also, another great pick for &lt;em&gt;childrens&lt;/em&gt; xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/RI_Christmas_Lectures&quot;&gt;                                        &lt;cite&gt;Royal Institution Christmas Lectures&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-16T19:31:26+01:00&quot;&gt;Aug 16, 19:31&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">Totally agree with @FryRsquared@twit_brg on oath.  We have ethics Qs during yearly reviews, and they’re hugely eye opening.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-08-16T19:30:31+01:00</id>
-    <updated>2019-08-16T19:30:31+01:00</updated>
-    <published>2019-08-16T19:30:31+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-08-16T19:30:31+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-08-16T19:30:31+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Totally agree with &lt;em&gt;@FryRsquared@twit_brg&lt;/em&gt; on oath.  We have ethics Qs during yearly reviews, and they&amp;#8217;re hugely eye opening.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.theguardian.com/science/2019/aug/16/mathematicians-need-doctor-style-hippocratic-oath-says-academic-hannah-fry&quot;&gt;                                        &lt;cite&gt;Maths and tech specialists need Hippocratic oath&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-08-16T19:30:31+01:00&quot;&gt;Aug 16, 19:30&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
