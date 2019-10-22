@@ -874,5 +874,22 @@
         ],
         "text": "@mickey_pleasance@eads_cs Neither, am I.  However ``foliate`` or ``nov.el`` are both *amazing* readers.",
         "timestamp": "2019-10-06T19:38:47+0100"
+    },
+    {
+        "in_reply_to": {
+            "text": "Really enjoying Buffering The Vampire Slayer, which I'm buffering 5 years late.  Like being back at school.",
+            "toot": {
+                "timestamp": "2019-10-22T08:15:43+0100",
+                "user": "@chewy@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Buffering the Vampire Slayer",
+                "url": "https://www.bufferingthevampireslayer.com/"
+            }
+        ],
+        "text": "@chewy@eads_cs Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see that every week.",
+        "timestamp": "2019-10-22T12:04:01+0100"
     }
 ]
