@@ -902,5 +902,16 @@
         },
         "text": "@big_macnamara Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my response.  (I don’t speak emoji though)",
         "timestamp": "2019-10-31T20:38:11+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.",
+            "toot": {
+                "timestamp": "2019-10-31T21:11:40+0000",
+                "user": "@big_macnamara@eads_cs"
+            }
+        },
+        "text": "@big_macnamara Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.",
+        "timestamp": "2019-10-31T21:26:22+0000"
     }
 ]
