@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-10-31T21:26:22+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-10-31T21:11:40+00:00\">Oct 31, 21:11</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> Okay, yes then.  Tag me and I&#8217;ll triage tonight, and beat on whatever you don&#8217;t get to over the weekend.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-10-31T21:26:22+00:00\">Oct 31, 21:26</time>                                            </p>                </article>",
+            "content_text": "@big_macnamara Okay, yes then.  Tag me and I\u2019ll triage tonight, and beat on whatever you don\u2019t get to over the weekend.",
+            "date_published": "2019-10-31T21:26:22+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-10-31T20:38:11+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-10-31T17:09:42+00:00\">Oct 31, 17:09</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Any chance of some help with aleph vote tech? We're already scaling badly one day in. &#128499;&#128293;&#128658;</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> Hmm, maybe.  I&#8217;m not immediately clear who you&#8217;re pushing, that&#8217;ll pin my response.  (I don&#8217;t speak emoji though)</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-10-31T20:38:11+00:00\">Oct 31, 20:38</time>                                            </p>                </article>",
             "content_text": "@big_macnamara Hmm, maybe.  I\u2019m not immediately clear who you\u2019re pushing, that\u2019ll pin my response.  (I don\u2019t speak emoji though)",
@@ -108,13 +115,6 @@
             "content_text": "@blaze@eads_cs \u201cinterregnum\u201d great word, thanks!  Does really feel like a Carroll-esque Red Queen\u2019s Race, so yeah\u2026 why not.",
             "date_published": "2019-08-20T05:02:46+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-08-20T05:02:46+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-16T20:22:25+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2019-08-16T20:09:40+01:00\">Aug 16, 20:09</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Love Fry's approachable presentations too.  Why emphasis on \"childrens\"?</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> Sadness at them often being marketed &#8220;for children&#8221;, they&#8217;re <em>always</em> interesting.  &#8220;RI Late&#8221; could be cool, though.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-16T20:22:25+01:00\">Aug 16, 20:22</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs Sadness at them often being marketed \u201cfor children\u201d, they\u2019re /always/ interesting.  \u201cRI Late\u201d could be cool, though.",
-            "date_published": "2019-08-16T20:22:25+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-16T20:22:25+0100"
         }
     ]
 }
