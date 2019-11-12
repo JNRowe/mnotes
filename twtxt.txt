@@ -138,3 +138,4 @@
 2019-10-22T12:04:01+0100	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… that every week.
 2019-10-31T20:38:11+0000	@big_macnamara Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my response.  (I don’t speak emoji though)
 2019-10-31T21:26:22+0000	@big_macnamara Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.
+2019-11-12T12:40:01+0000	@big_macnamara I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.

@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-12T12:40:01+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><em>@big_macnamara</em> I&#8217;ve rewritten the backend from scratch in nim.  Take it or don&#8217;t, I just wanted to try optimisation at extremes.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-12T12:40:01+00:00\">Nov 12, 12:40</time>                                            </p>                </article>",
+            "content_text": "@big_macnamara I\u2019ve rewritten the backend from scratch in nim.  Take it or don\u2019t, I just wanted to try optimisation at extremes.",
+            "date_published": "2019-11-12T12:40:01+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-10-31T21:26:22+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-10-31T21:11:40+00:00\">Oct 31, 21:11</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> Okay, yes then.  Tag me and I&#8217;ll triage tonight, and beat on whatever you don&#8217;t get to over the weekend.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-10-31T21:26:22+00:00\">Oct 31, 21:26</time>                                            </p>                </article>",
             "content_text": "@big_macnamara Okay, yes then.  Tag me and I\u2019ll triage tonight, and beat on whatever you don\u2019t get to over the weekend.",
@@ -108,13 +115,6 @@
             "content_text": "@mleighy@eads_cs Yes!  I\u2019d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the \u201800s, and they\u2019re still going.",
             "date_published": "2019-08-21T11:59:07+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-08-21T11:59:07+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-20T05:02:46+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-20T05:02:46+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @blaze@eads_cs's post                                on                                <time datetime=\"2019-08-19T21:39:36+01:00\">Aug 19, 21:39</time>:                            </p>                            <blockquote>Is it time to declare <strong>now</strong> as the interregnum of Cameron and whomever? So little has occurred that it may just be.</blockquote>                                                                                    <p class=\"e-content\"><em>@blaze@eads_cs</em> &#8220;interregnum&#8221; great word, thanks!  Does really feel like a Carroll-esque Red Queen&#8217;s Race, so yeah&#8230; why not.</p>                                            <ul>                                                            <li>                                    <a href=\"https://en.m.wikipedia.org/wiki/Red_Queen%27s_race\">                                        <cite>Red Queen's race</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-20T05:02:46+01:00\">Aug 20, 05:02</time>                                            </p>                </article>",
-            "content_text": "@blaze@eads_cs \u201cinterregnum\u201d great word, thanks!  Does really feel like a Carroll-esque Red Queen\u2019s Race, so yeah\u2026 why not.",
-            "date_published": "2019-08-20T05:02:46+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-20T05:02:46+0100"
         }
     ]
 }
