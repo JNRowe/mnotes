@@ -917,5 +917,16 @@
     {
         "text": "@big_macnamara I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.",
         "timestamp": "2019-11-12T12:40:01+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps",
+            "toot": {
+                "timestamp": "2019-11-12T13:57:38+0000",
+                "user": "@big_macnamara@eads_cs"
+            }
+        },
+        "text": "@big_macnamara See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.",
+        "timestamp": "2019-11-12T14:19:55+0000"
     }
 ]
