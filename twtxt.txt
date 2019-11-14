@@ -141,3 +141,4 @@
 2019-11-12T12:40:01+0000	@big_macnamara I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.
 2019-11-12T14:19:55+0000	@big_macnamara See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.
 2019-11-14T19:19:10+0000	@big_macnamara I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.
+2019-11-14T19:54:30+0000	@big_macnamara SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)
