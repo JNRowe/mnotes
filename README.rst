@@ -16,8 +16,8 @@ The code in this repo is my MVP for POSSE’ing my own bleets.  It isn’t prett
 it isn’t generic, and it isn’t likely to improve.
 
 I add features *only* when I post a note that requires it, if you mingle the
-data_ and code you’ll see the development in action.  Whether this is a good
-idea is left as a topic for the reader.
+``master`` and ``data`` branches you’ll see the development in action.  Whether
+this is a good idea is left as a topic for the reader and beer.
 
 If you like it, hate it, or have questions feel free to drop me a mail_ or open
 an issue_.
@@ -34,7 +34,7 @@ what it feels like, try the following:
    $ git clone https://github.com/JNRowe/mnotes µnotes
    $ cd !$
    $ # Try out my data repo…
-   $ git clone https://github.com/JNRowe/mnotes-data data
+   $ git clone --single-branch -b data data
    $ ./µnotes.py > output.html
    $ xdg-open !$
 
@@ -45,5 +45,4 @@ Other than that you’re on your own!
    This project should be µnotes, but GitHub won’t accept µ in the repo name.
 
 .. _mail: jnrowe@gmail.com
-.. _data: https://github.com/JNRowe/mnotes-data
 .. _issue: https://github.com/JNRowe/mnotes/issues
