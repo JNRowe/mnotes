@@ -939,5 +939,16 @@
         },
         "text": "@big_macnamara I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.",
         "timestamp": "2019-11-14T19:19:10+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?",
+            "toot": {
+                "timestamp": "2019-11-14T19:44:08+0000",
+                "user": "@big_macnamara@eads_cs"
+            }
+        },
+        "text": "@big_macnamara SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)",
+        "timestamp": "2019-11-14T19:54:30+0000"
     }
 ]
