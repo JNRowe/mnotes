@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-14T19:19:10+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-12T13:57:38+00:00\">Nov 12, 13:57</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> I&#8217;ve rewritten it <strong>again</strong>; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-14T19:19:10+00:00\">Nov 14, 19:19</time>                                            </p>                </article>",
+            "content_text": "@big_macnamara I\u2019ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.",
+            "date_published": "2019-11-14T19:19:10+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-12T14:19:55+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-12T13:57:38+00:00\">Nov 12, 13:57</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> See nim&#8217;s <code>--dynlibOverrideAll</code>/<code>--passl</code>.  Sadly, upstream won&#8217;t budge; cf various GH issues.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-12T14:19:55+00:00\">Nov 12, 14:19</time>                                            </p>                </article>",
             "content_text": "@big_macnamara See nim\u2019s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won\u2019t budge; cf various GH issues.",
@@ -108,13 +115,6 @@
             "content_text": "@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and Gen2.5 have /huge/ suspend sw fixes.",
             "date_published": "2019-08-22T15:12:37+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-08-22T15:12:37+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-21T12:03:15+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-21T12:03:15+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @mleighy@eads_cs's post                                on                                <time datetime=\"2019-08-21T09:09:41+01:00\">Aug 21, 09:09</time>:                            </p>                            <blockquote>Wish the zipit was still a thing, current project would be far better off using it as controller/interface</blockquote>                                                                                    <p class=\"e-content\"><em>@mleighy@eads_cs</em> just skimmed the TS <abbr title=\"Pull Request\">PR</abbr>, 2 breakages in ninety units.  Astonishing.  (A few have <em>serious</em> battery upgrades too.)</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-21T12:03:15+01:00\">Aug 21, 12:03</time>                                            </p>                </article>",
-            "content_text": "@mleighy@eads_cs just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have /serious/ battery upgrades too.)",
-            "date_published": "2019-08-21T12:03:15+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-21T12:03:15+0100"
         }
     ]
 }

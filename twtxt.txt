@@ -140,3 +140,4 @@
 2019-10-31T21:26:22+0000	@big_macnamara Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.
 2019-11-12T12:40:01+0000	@big_macnamara I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.
 2019-11-12T14:19:55+0000	@big_macnamara See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.
+2019-11-14T19:19:10+0000	@big_macnamara I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.
