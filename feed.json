@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-24T07:19:58+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><strong>REMINDER</strong>: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-24T07:19:58+00:00\">Nov 24, 07:19</time>                                            </p>                </article>",
+            "content_text": "*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.",
+            "date_published": "2019-11-24T07:19:58+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-14T19:54:30+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-14T19:44:08+00:00\">Nov 14, 19:44</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara</em> SCT has been been killed, I&#8217;m without a tier-1 [again].  It is either this or brain soup through atrophy ;)</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-14T19:54:30+00:00\">Nov 14, 19:54</time>                                            </p>                </article>",
             "content_text": "@big_macnamara SCT has been been killed, I\u2019m without a tier-1 [again].  It is either this or brain soup through atrophy ;)",
@@ -108,13 +115,6 @@
             "content_text": "Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker\u2019s Screenwipe.  \u272a\u272a\u272a\u272a\u272a",
             "date_published": "2019-08-27T17:43:38+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-08-27T17:43:38+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-25T08:52:32+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2019-08-24T20:47:21+01:00\">Aug 24, 20:47</time>:                            </p>                            <blockquote>Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Don&#8217;t use, but&#8230; I just don&#8217;t like the way they look on &#8220;full-size&#8221; frames.  Ant runs 650b, email him.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-25T08:52:32+01:00\">Aug 25, 08:52</time>                                            </p>                </article>",
-            "content_text": "@charoug@eads_cs Don\u2019t use, but\u2026 I just don\u2019t like the way they look on \u201cfull-size\u201d frames.  Ant runs 650b, email him.",
-            "date_published": "2019-08-25T08:52:32+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-25T08:52:32+0100"
         }
     ]
 }
