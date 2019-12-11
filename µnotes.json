@@ -954,5 +954,22 @@
     {
         "text": "*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.",
         "timestamp": "2019-11-24T07:19:58+0000"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-12-15T18:43:39+0000"
+        },
+        "references": [
+            {
+                "title": "My first few days of AoC 2019",
+                "url": "https://jnrowe.github.io/articles/advent_of_code_2019.html"
+            },
+            {
+                "title": "Advent of Code 2019",
+                "url": "https://adventofcode.com/2019"
+            }
+        ],
+        "text": "I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]",
+        "timestamp": "2019-12-11T08:41:27+0000"
     }
 ]
