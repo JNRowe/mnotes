@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+0000",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-11T08:41:27+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to                                <a href=\"#TS2018-12-15%2018:43:39+00:00\" class=\"u-in-reply-to\">my post</a>                                on                                <time datetime=\"2018-12-15T18:43:39+00:00\">Dec 2018</time>:                            </p>                                                                                    <p class=\"e-content\">I&#8217;ve retired from our <b>#aoc</b> 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year&#8217;s early quit]</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.io/articles/advent_of_code_2019.html\">                                        <cite>My first few days of AoC 2019</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://adventofcode.com/2019\">                                        <cite>Advent of Code 2019</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-11T08:41:27+00:00\">Dec 11, 08:41</time>                                            </p>                </article>",
+            "content_text": "I\u2019ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year\u2019s early quit]",
+            "date_published": "2019-12-11T08:41:27+0000",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+0000"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+0000",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-24T07:19:58+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><strong>REMINDER</strong>: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-24T07:19:58+00:00\">Nov 24, 07:19</time>                                            </p>                </article>",
             "content_text": "*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.",
@@ -108,13 +115,6 @@
             "content_text": "So, while not for me\u2026 howl is an extremely nice editor.  Light, fast, easily hackable.  (I\u2019d be tempted with an ``evil-mode``)",
             "date_published": "2019-09-03T19:41:09+0100",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-09-03T19:41:09+0100"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-08-27T17:43:38+0100",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-08-27T17:43:38+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker&#8217;s Screenwipe.  &#10026;&#10026;&#10026;&#10026;&#10026;</p>                                            <ul>                                                            <li>                                    <a href=\"https://www.theallusionist.org/\">                                        <cite>The Allusionist - A podcast about language by Helen Zaltzman</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-08-27T17:43:38+01:00\">Aug 27, 17:43</time>                                            </p>                </article>",
-            "content_text": "Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker\u2019s Screenwipe.  \u272a\u272a\u272a\u272a\u272a",
-            "date_published": "2019-08-27T17:43:38+0100",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-08-27T17:43:38+0100"
         }
     ]
 }
