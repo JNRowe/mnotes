@@ -971,5 +971,16 @@
         ],
         "text": "I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]",
         "timestamp": "2019-12-11T08:41:27+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Thanks for all your hard work, would have cost *a whole heap more* without you. Just a shame it didn't work out 😜",
+            "toot": {
+                "timestamp": "2019-12-13T08:08:58+0000",
+                "user": "@big_macnamara@eads_cs"
+            }
+        },
+        "text": "@big_macnamara NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.",
+        "timestamp": "2019-12-13T13:13:08+0000"
     }
 ]
