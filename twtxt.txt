@@ -144,3 +144,4 @@
 2019-11-14T19:54:30+0000	@big_macnamara SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)
 2019-11-24T07:19:58+0000	*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.
 2019-12-11T08:41:27+0000	I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]
+2019-12-13T13:13:08+0000	@big_macnamara NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.
