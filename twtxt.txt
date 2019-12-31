@@ -136,14 +136,21 @@
 2019-10-06T19:38:47+0100	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt>… *amazing* readers.
 2019-10-22T12:04:01+0100	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see
 2019-10-22T12:04:01+0100	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… that every week.
-2019-10-31T20:38:11+0000	@big_macnamara Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my response.  (I don’t speak emoji though)
-2019-10-31T21:26:22+0000	@big_macnamara Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.
-2019-11-12T12:40:01+0000	@big_macnamara I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.
-2019-11-12T14:19:55+0000	@big_macnamara See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.
-2019-11-14T19:19:10+0000	@big_macnamara I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.
-2019-11-14T19:54:30+0000	@big_macnamara SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)
+2019-10-31T20:38:11+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my
+2019-10-31T20:38:11+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… response.  (I don’t speak emoji though)
+2019-10-31T21:26:22+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you
+2019-10-31T21:26:22+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… don’t get to over the weekend.
+2019-11-12T12:40:01+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just
+2019-11-12T12:40:01+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… wanted to try optimisation at extremes.
+2019-11-12T14:19:55+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t
+2019-11-12T14:19:55+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… budge; cf various GH issues.
+2019-11-14T19:19:10+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten it *again*; rust this time.  Largely mechanical, needs
+2019-11-14T19:19:10+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… sponge bath.  Far better deploy, and quicker again.
+2019-11-14T19:54:30+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> SCT has been been killed, I’m without a tier-1 [again].  It is either
+2019-11-14T19:54:30+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… this or brain soup through atrophy ;)
 2019-11-24T07:19:58+0000	*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.
 2019-12-11T08:41:27+0000	I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]
-2019-12-13T13:13:08+0000	@big_macnamara NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.
+2019-12-13T13:13:08+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t
+2019-12-13T13:13:08+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… speak emoji.
 2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you
 2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… too!
