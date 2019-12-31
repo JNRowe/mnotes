@@ -982,5 +982,16 @@
         },
         "text": "@big_macnamara NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.",
         "timestamp": "2019-12-13T13:13:08+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Didn't forget yesterday, had no service.  Hope you're well.  Happy New Year! 🥂🎆😘",
+            "toot": {
+                "timestamp": "2019-12-31T19:54:13+0000",
+                "user": "@lauren@eads_fr"
+            }
+        },
+        "text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
+        "timestamp": "2019-12-31T20:50:54+0000"
     }
 ]
