@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2019-12-13T13:13:08+00:00</updated>
+  <updated>2019-12-31T20:50:54+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00</id>
+    <updated>2019-12-31T20:50:54+00:00</updated>
+    <published>2019-12-31T20:50:54+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-12-31T20:50:54+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @lauren@eads_fr's post                                on                                &lt;time datetime=&quot;2019-12-31T19:54:13+00:00&quot;&gt;Dec 31, 19:54&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Didn't forget yesterday, had no service.  Hope you're well.  Happy New Year! &amp;#129346;&amp;#127878;&amp;#128536;&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@lauren@eads_fr&lt;/em&gt; Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-12-31T20:50:54+00:00&quot;&gt;Dec 31, 20:50&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@big_macnamara NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-09-10T06:21:16+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-09-10T06:21:16+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-09-10T06:21:16+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @catp@eads_pr's post                                on                                &lt;time datetime=&quot;2019-09-10T05:47:18+01:00&quot;&gt;Sep 10, 05:47&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Faaaawwwwwwwwgggggg.  Eww, how are here already?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@catp@eads_pr&lt;/em&gt; If, like me, you were hoping it would break when you leave the villages&amp;#8230; it doesn&amp;#8217;t.  All the way to GWR.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-09-10T06:21:16+01:00&quot;&gt;Sep 10, 06:21&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@ant_bat@eads_cs Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep emulation.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-09-03T20:57:03+01:00</id>
-    <updated>2019-09-03T20:57:03+01:00</updated>
-    <published>2019-09-03T20:57:03+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-09-03T20:57:03+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-09-03T20:57:03+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @ant_bat@eads_cs's post                                on                                &lt;time datetime=&quot;2019-09-03T20:50:11+01:00&quot;&gt;Sep 03, 20:50&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Hmm, it does support vi mode.  See &lt;code&gt;howl.command.vi_on&lt;/code&gt;.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@ant_bat@eads_cs&lt;/em&gt; Welcome!  That only supports basic vi-like movement, &lt;code&gt;evil-mode&lt;/code&gt; is &lt;strong&gt;very&lt;/strong&gt; deep emulation.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-09-03T20:57:03+01:00&quot;&gt;Sep 03, 20:57&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
