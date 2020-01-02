@@ -993,5 +993,16 @@
         },
         "text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
         "timestamp": "2019-12-31T20:50:54+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Did you receive my Marivaux gift?  You'll probably find it hard work, but it is worth it.  Promise.",
+            "toot": {
+                "timestamp": "2020-01-01T10:06:16+0000",
+                "user": "@lauren@eads_fr"
+            }
+        },
+        "text": "@lauren@eads_fr Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying epistolary format more and more lately",
+        "timestamp": "2020-01-02T07:05:43+0000"
     }
 ]
