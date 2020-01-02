@@ -154,3 +154,5 @@
 2019-12-13T13:13:08+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… speak emoji.
 2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you
 2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… too!
+2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying
+2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… epistolary format more and more lately
