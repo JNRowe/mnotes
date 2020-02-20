@@ -157,3 +157,5 @@
 2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying
 2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… epistolary format more and more lately
 2020-01-02T07:06:57+0000	@<rafe https://mastodon.eads_cs/rafe/twtxt.txt> Give me a call when you/Ollie finalise travel details; OoO for next 4 days.
+2020-02-20T12:58:15+0000	There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the
+2020-02-20T12:58:15+0000	… effect.
