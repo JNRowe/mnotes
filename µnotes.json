@@ -1012,5 +1012,16 @@
     {
         "text": "There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the effect.",
         "timestamp": "2020-02-20T12:58:15+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Just curious, what is the power/proc budget to make that work? Probably pretty expensive if this is the RSC",
+            "toot": {
+                "timestamp": "2020-02-21T10:50:10+0000",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I’ve kept <5% for the moment.",
+        "timestamp": "2020-02-23T21:21:07+0000"
     }
 ]
