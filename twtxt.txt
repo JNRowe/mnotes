@@ -159,3 +159,5 @@
 2020-01-02T07:06:57+0000	@<rafe https://mastodon.eads_cs/rafe/twtxt.txt> Give me a call when you/Ollie finalise travel details; OoO for next 4 days.
 2020-02-20T12:58:15+0000	There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the
 2020-02-20T12:58:15+0000	… effect.
+2020-02-23T21:21:07+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It is considered a safety issue in the spec, and the display receives a full core.
+2020-02-23T21:21:07+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… I’ve kept <5% for the moment.
