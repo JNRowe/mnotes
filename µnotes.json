@@ -1023,5 +1023,16 @@
         },
         "text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I’ve kept <5% for the moment.",
         "timestamp": "2020-02-23T21:21:07+0000"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Is that the night vision display I just saw? If so, that is awesome. The HDG dial is full '80s, lurve it.",
+            "toot": {
+                "timestamp": "2020-02-21T18:54:15+0000",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.",
+        "timestamp": "2020-02-23T21:21:26+0000"
     }
 ]
