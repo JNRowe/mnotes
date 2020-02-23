@@ -9,7 +9,7 @@ from xml.sax.saxutils import quoteattr
 
 import jinja2
 
-from ciso8601 import parse_datetime
+from ciso8601 import parse_rfc3339
 from jnrbase.attrdict import AttrDict
 
 
@@ -55,9 +55,9 @@ def munge(dct):
             dct.text = pat.sub(repl, dct.text)
         dct.text = dct.text.replace('\N{STX}', '<').replace('\N{ETX}', '>')
     if 'timestamp' in dct:
-        dct.timestamp = parse_datetime(dct.timestamp)
+        dct.timestamp = parse_rfc3339(dct.timestamp)
     if 'self' in dct:
-        dct.self = parse_datetime(dct.self)
+        dct.self = parse_rfc3339(dct.self)
     return dct
 
 

@@ -3,7 +3,7 @@
 import json
 import sys
 
-from ciso8601 import parse_datetime
+from ciso8601 import parse_rfc3339
 from jnrbase.attrdict import AttrDict
 from lxml import html
 from werkzeug.contrib.atom import AtomFeed
@@ -24,7 +24,7 @@ for note, post in list(zip(reversed(notes),
     title = note.text
     content = html.tostring(post, True).decode()
     content = content.strip().replace('\n', '')
-    time = parse_datetime(post.cssselect('p.meta time')[0].get('datetime'))
+    time = parse_rfc3339(post.cssselect('p.meta time')[0].get('datetime'))
     feed.add(title=title,
              content=content,
              content_type='html',

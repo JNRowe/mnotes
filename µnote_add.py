@@ -17,7 +17,7 @@ def existing_file(string):
 
 def valid_timestamp(string):
     try:
-        ciso8601.parse_datetime(string)
+        ciso8601.parse_rfc3339(string)
     except ValueError as e:
         raise argparse.ArgumentTypeError(e.args[0])
     return string
