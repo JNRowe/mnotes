@@ -189,7 +189,7 @@
     },
     {
         "text": "So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.",
-        "timestamp": "2018-10-20T14:36:36+0100"
+        "timestamp": "2018-10-20T14:36:36+01:00"
     },
     {
         "in_reply_to": {
@@ -200,7 +200,7 @@
             }
         },
         "text": "@MissLB@eads_cs Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me immediately.",
-        "timestamp": "2018-10-20T14:46:26+0100"
+        "timestamp": "2018-10-20T14:46:26+01:00"
     },
     {
         "in_reply_to": {
@@ -211,7 +211,7 @@
             }
         },
         "text": "@leon@gwr Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold call.",
-        "timestamp": "2018-10-20T16:35:40+0100"
+        "timestamp": "2018-10-20T16:35:40+01:00"
     },
     {
         "in_reply_to": {
@@ -228,7 +228,7 @@
             }
         ],
         "text": "@Kat@eads_cs Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so maybe…",
-        "timestamp": "2018-10-22T19:37:40+0100"
+        "timestamp": "2018-10-22T19:37:40+01:00"
     },
     {
         "references": [
@@ -238,22 +238,22 @@
             }
         ],
         "text": "GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?",
-        "timestamp": "2018-10-23T21:19:43+0100"
+        "timestamp": "2018-10-23T21:19:43+01:00"
     },
     {
         "text": "So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.",
-        "timestamp": "2018-10-30T13:11:44+0000"
+        "timestamp": "2018-10-30T13:11:44+00:00"
     },
     {
         "in_reply_to": {
-            "self": "2018-10-30T13:11:44+0000"
+            "self": "2018-10-30T13:11:44+00:00"
         },
         "text": "And I guess bonus points for using ``set stal=0``.  Probably easy to get lost though.",
-        "timestamp": "2018-10-30T13:15:14+0000"
+        "timestamp": "2018-10-30T13:15:14+00:00"
     },
     {
         "text": "@dev_b@eads_cs Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.  Hope you’re enjoying it nonetheless.",
-        "timestamp": "2018-11-07T12:21:48+0000"
+        "timestamp": "2018-11-07T12:21:48+00:00"
     },
     {
         "references": [
@@ -267,11 +267,11 @@
             }
         ],
         "text": "Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1\u00ba ep reveals it is “Team America” as a period drama",
-        "timestamp": "2018-11-11T21:13:10+0000"
+        "timestamp": "2018-11-11T21:13:10+00:00"
     },
     {
         "in_reply_to": {
-            "self": "2018-11-11T21:13:10+0000"
+            "self": "2018-11-11T21:13:10+00:00"
         },
         "references": [
             {
@@ -280,7 +280,7 @@
             }
         ],
         "text": "… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.",
-        "timestamp": "2018-11-11T21:13:21+0000"
+        "timestamp": "2018-11-11T21:13:21+00:00"
     },
     {
         "references": [
@@ -294,7 +294,7 @@
             }
         ],
         "text": "Very smart looking project hosting.\n• AGPL-3.\n• Fast and light.\n• Works without javascript.\n/cc @blaze@eads_cs",
-        "timestamp": "2018-11-16T05:48:25+0000"
+        "timestamp": "2018-11-16T05:48:25+00:00"
     },
     {
         "references": [
@@ -304,7 +304,7 @@
             }
         ],
         "text": "#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…",
-        "timestamp": "2018-11-30T05:35:15+0000"
+        "timestamp": "2018-11-30T05:35:15+00:00"
     },
     {
         "references": [
@@ -314,11 +314,11 @@
             }
         ],
         "text": "TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?",
-        "timestamp": "2018-12-04T08:51:05+0000"
+        "timestamp": "2018-12-04T08:51:05+00:00"
     },
     {
         "in_reply_to": {
-            "self": "2018-11-30T05:35:15+0000"
+            "self": "2018-11-30T05:35:15+00:00"
         },
         "references": [
             {
@@ -331,7 +331,7 @@
             }
         ],
         "text": "I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?",
-        "timestamp": "2018-12-15T18:43:39+0000"
+        "timestamp": "2018-12-15T18:43:39+00:00"
     },
     {
         "references": [
@@ -345,7 +345,7 @@
             }
         ],
         "text": "Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.",
-        "timestamp": "2018-12-23T08:54:28+0000"
+        "timestamp": "2018-12-23T08:54:28+00:00"
     },
     {
         "references": [
@@ -355,7 +355,7 @@
             }
         ],
         "text": "Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.",
-        "timestamp": "2019-01-02T21:36:07+0000"
+        "timestamp": "2019-01-02T21:36:07+00:00"
     },
     {
         "references": [
@@ -365,44 +365,44 @@
             }
         ],
         "text": "As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.",
-        "timestamp": "2019-01-10T11:02:34+0000"
+        "timestamp": "2019-01-10T11:02:34+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs I get the point, but what is the alternative?  We’ve proved we can’t do better, nobody pays for correct.",
             "toot": {
-                "timestamp": "2019-01-10T22:09:37+0000",
+                "timestamp": "2019-01-10T22:09:37+00:00",
                 "user": "@mickey@eads_cs"
             }
         },
         "text": "@mickey@eads_cs I meant “still” in the “catching up with old problems” sense, but…",
-        "timestamp": "2019-01-15T06:12:46+0000"
+        "timestamp": "2019-01-15T06:12:46+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs I get the point, but what is the alternative?  We’ve proved we can’t do better, nobody pays for correct.",
             "toot": {
-                "timestamp": "2019-01-10T22:09:37+0000",
+                "timestamp": "2019-01-10T22:09:37+00:00",
                 "user": "@mickey@eads_cs"
             }
         },
         "text": "@mickey@eads_cs I see no alternative, wishful thinking won’t get us anywhere.  In agreement; nihilism wins, we lose.",
-        "timestamp": "2019-01-15T06:12:53+0000"
+        "timestamp": "2019-01-15T06:12:53+00:00"
     },
     {
         "text": "Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)",
-        "timestamp": "2019-01-23T14:14:39+0000"
+        "timestamp": "2019-01-23T14:14:39+00:00"
     },
     {
         "in_reply_to": {
             "text": "People, how do you store chromium configs in home VC?  It is just a horrific mess of JSON dumps with awful whitespace and sorting.",
             "toot": {
-                "timestamp": "2019-02-07T12:45:46+0000",
+                "timestamp": "2019-02-07T12:45:46+00:00",
                 "user": "@chewy@eads_cs"
             }
         },
         "text": "@chewy@eads_cs سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate *valuable* hunks, and ignore rest.",
-        "timestamp": "2019-02-08T13:52:41+0000"
+        "timestamp": "2019-02-08T13:52:41+00:00"
     },
     {
         "references": [
@@ -412,72 +412,72 @@
             }
         ],
         "text": "If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging nightmare.",
-        "timestamp": "2019-02-11T17:13:25+0000"
+        "timestamp": "2019-02-11T17:13:25+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs ick, problem is one of our upstreams uses poetry via pendulum.  I was just looking to package it.  What next?",
             "toot": {
-                "timestamp": "2019-02-12T09:33:53+0000",
+                "timestamp": "2019-02-12T09:33:53+00:00",
                 "user": "@pmitty@eads_cs"
             }
         },
         "text": "@pmitty@eads_cs Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do the work, we’ll fix it.",
-        "timestamp": "2019-02-12T10:19:36+0000"
+        "timestamp": "2019-02-12T10:19:36+00:00"
     },
     {
         "text": "Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.",
-        "timestamp": "2019-02-20T13:48:44+0000"
+        "timestamp": "2019-02-20T13:48:44+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Disinterested parties? Unexpected kindness. Were you not offered Bremen? My heartfelt sympathies if not.",
             "toot": {
-                "timestamp": "2019-02-20T13:50:40+0000",
+                "timestamp": "2019-02-20T13:50:40+00:00",
                 "user": "@blaze@eads_cs"
             }
         },
         "text": "@blaze@eads_cs Can’t be offered, I obviously don’t meet the minimum 4Y masters requirement.  Sadly, my final ERB project :/",
-        "timestamp": "2019-02-20T13:59:36+0000"
+        "timestamp": "2019-02-20T13:59:36+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Jeez, didn't know that. How come industry doesn't count? Had assumed you'd been saying no to that and {P,T}",
             "toot": {
-                "timestamp": "2019-02-20T14:05:14+0000",
+                "timestamp": "2019-02-20T14:05:14+00:00",
                 "user": "@xander@eads_cs"
             }
         },
         "text": "@xander@eads_cs It doesn’t here either.  Nope, would’ve gone to *any* in an instant & even looked at SR roles in 2016-12.",
-        "timestamp": "2019-02-20T14:22:43+0000"
+        "timestamp": "2019-02-20T14:22:43+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs @xander@eads_cs I thought you’d been saying no too 😠 You didn’t mention that when I asked about Paris",
             "toot": {
-                "timestamp": "2019-02-20T15:25:09+0100",
+                "timestamp": "2019-02-20T15:25:09+01:00",
                 "user": "@ollie@eads_cs"
             }
         },
         "text": "@ollie@eads_cs Thought you knew.  In fact, I thought that was the *exact* conversation we had back in July.",
-        "timestamp": "2019-02-20T14:25:46+0000"
+        "timestamp": "2019-02-20T14:25:46+00:00"
     },
     {
         "in_reply_to": {
             "text": "Peeps, who can set(or help set) my '08 Shimano indexing? Re-cabled, now stuck. Seems to catch half cogs on outer ring",
             "toot": {
-                "timestamp": "2019-02-24T17:45:09+0000",
+                "timestamp": "2019-02-24T17:45:09+00:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs A stand *really* helps, you can borrow mine.  If it is rideable bring it GWR2 on Tuesday, and I’ll have a pop.",
-        "timestamp": "2019-02-25T05:15:33+0000"
+        "timestamp": "2019-02-25T05:15:33+00:00"
     },
     {
         "in_reply_to": {
             "text": "Loving Endeavour, even if the \"bad\" coppers feel a little pantomime villainous.  Slow but thoughtful, plodding yet melodic.",
             "toot": {
-                "timestamp": "2019-02-24T22:02:03+0000",
+                "timestamp": "2019-02-24T22:02:03+00:00",
                 "user": "@MissLB@eads_cs"
             }
         },
@@ -488,18 +488,18 @@
             }
         ],
         "text": "@MissLB@eads_cs Prime Suspect ‘73 was my fave origin story, but Endeavour sure is nice Sunday night decomp.  Agree on rhythm.",
-        "timestamp": "2019-02-25T05:17:42+0000"
+        "timestamp": "2019-02-25T05:17:42+00:00"
     },
     {
         "in_reply_to": {
             "text": "New year cycling experiment is broken.  I don't like the dark nights without even a moon on commute.  Back to roads or car?",
             "toot": {
-                "timestamp": "2019-03-07T18:50:19+0000",
+                "timestamp": "2019-03-07T18:50:19+00:00",
                 "user": "@MissLB@eads_cs"
             }
         },
         "text": "@MissLB@eads_cs Thing is I *really* miss those; both new and full.  Are you wearing appropriate lenses?  *Huge* difference.",
-        "timestamp": "2019-03-07T20:06:32+0000"
+        "timestamp": "2019-03-07T20:06:32+00:00"
     },
     {
         "media": {
@@ -507,11 +507,11 @@
             "file": "day_after_today.png"
         },
         "text": "Checking yr.no for week’s cycling clothes choice, found omen instead.  Wasn’t that how that 2004 palaeoclimatology documentary started?",
-        "timestamp": "2019-03-11T05:37:58+0000"
+        "timestamp": "2019-03-11T05:37:58+00:00"
     },
     {
         "text": "@xander@eads_cs Post those toolbox articles to mastodon or at least an Atom feed somewhere.  Really awesome, want to subscribe.",
-        "timestamp": "2019-03-11T05:38:44+0000"
+        "timestamp": "2019-03-11T05:38:44+00:00"
     },
     {
         "x-advice": {
@@ -519,18 +519,18 @@
             "urgency": "soon"
         },
         "text": "I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.",
-        "timestamp": "2019-03-12T22:43:31+0000"
+        "timestamp": "2019-03-12T22:43:31+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Indexing is *really* tight now, big thanks!  Will you be about to take a look again when the stretch sets in?",
             "toot": {
-                "timestamp": "2019-03-13T17:41:35+0000",
+                "timestamp": "2019-03-13T17:41:35+00:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said, yes… but SMS is best method now.",
-        "timestamp": "2019-03-14T06:17:36+0000"
+        "timestamp": "2019-03-14T06:17:36+00:00"
     },
     {
         "references": [
@@ -540,7 +540,7 @@
             }
         ],
         "text": "I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.",
-        "timestamp": "2019-04-21T06:07:48+0100",
+        "timestamp": "2019-04-21T06:07:48+01:00",
         "x-advice": {
             "importance": "perhaps",
             "urgency": "soon"
@@ -550,34 +550,34 @@
         "in_reply_to": {
             "text": "Interesting talk about a \"kite mark\" for science reports at BLiM. Obvious flaw being funding a body to do so.",
             "toot": {
-                "timestamp": "2019-07-01T14:52:00+0100",
+                "timestamp": "2019-07-01T14:52:00+01:00",
                 "user": "@chewy@eads_cs"
             }
         },
         "text": "@chewy@eads_cs Obvious flaw is surely more likely to be people.  Fex if people are hearing “MMR terror” today, reputable sources don’t help",
-        "timestamp": "2019-07-01T18:12:08+0000"
+        "timestamp": "2019-07-01T18:12:08+00:00"
     },
     {
         "in_reply_to": {
             "text": "Interesting talk about a \"kite mark\" for science reports at BLiM. Obvious flaw being funding a body to do so.",
             "toot": {
-                "timestamp": "2019-07-01T14:52:00+0100",
+                "timestamp": "2019-07-01T14:52:00+01:00",
                 "user": "@chewy@eads_cs"
             }
         },
         "text": "@chewy@eads_cs Or try listening to a climate denialist.  “Science is wrong.  World got warmer before, science proved it!”",
-        "timestamp": "2019-07-01T18:12:16+0000"
+        "timestamp": "2019-07-01T18:12:16+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs I think that is a joke, right? If not what are you suggesting, that we simply give up or ...",
             "toot": {
-                "timestamp": "2019-07-01T18:28:30+0100",
+                "timestamp": "2019-07-01T18:28:30+01:00",
                 "user": "@chewy@eads_cs"
             }
         },
         "text": "@chewy@eads_cs Well, offers of elucidation to people who think opinions are equally valid are almost *by definition* worthless.",
-        "timestamp": "2019-07-01T19:01:25+0000"
+        "timestamp": "2019-07-01T19:01:25+00:00"
     },
     {
         "references": [
@@ -587,7 +587,7 @@
             }
         ],
         "text": "Have been priming a reboot of ``bfm`` this evening, mostly to please everyone's favourite child(but also me).  /cc @cass@eads_cs.",
-        "timestamp": "2019-07-18T22:32:19+0100"
+        "timestamp": "2019-07-18T22:32:19+01:00"
     },
     {
         "references": [
@@ -597,29 +597,29 @@
             }
         ],
         "text": "”Cheat’s eggs Benedict”, where the apparent cheat is “6 tbsp hollandaise sauce”.  Worst. Recipe. Ever.",
-        "timestamp": "2019-07-23T19:01:20+0100"
+        "timestamp": "2019-07-23T19:01:20+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs yum, is that for tomorrow? I'll take a kosher one 😜 How many will be there?",
             "toot": {
-                "timestamp": "2019-07-23T19:19:34+0100",
+                "timestamp": "2019-07-23T19:19:34+01:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs Actually, yes.  I’ve planned for ~fifteen, but we’ll see what happens.  Drop in to AW1, if you miss breakfast.",
-        "timestamp": "2019-07-23T19:27:51+0100"
+        "timestamp": "2019-07-23T19:27:51+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs dude, twelve hours to go and you're looking for recipes...  I mean, yeah, count me in... but P is for Preparation",
             "toot": {
-                "timestamp": "2019-07-23T19:34:06+0100",
+                "timestamp": "2019-07-23T19:34:06+01:00",
                 "user": "@MissLB@eads_cs"
             }
         },
         "text": "@MissLB@eads_cs I was looking for the traditional names of the alternative types; veggie one, halal one, etc.  Appreciate the confidence.",
-        "timestamp": "2019-07-24T20:06:46+0100"
+        "timestamp": "2019-07-24T20:06:46+01:00"
     },
     {
         "references": [
@@ -629,18 +629,18 @@
             }
         ],
         "text": "OH: “Given Booker is dead, who is the new go-to example for ∞ denial?”  Arguably harsh as a statement, but *feels* like a valid question.",
-        "timestamp": "2019-08-05T15:58:08+0100"
+        "timestamp": "2019-08-05T15:58:08+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Jeez, that \"brexit mess\" op-ed linked in the obit is A-M-A-Z-I-N-G. Imagine if you could get away with that at work?",
             "toot": {
-                "timestamp": "2019-08-06T11:52:47+0100",
+                "timestamp": "2019-08-06T11:52:47+01:00",
                 "user": "@MissLB@eads_cs"
             }
         },
         "text": "@MissLB@eads_cs … or in life at large?  “you can’t reason your way out” aso, but believing will fix that",
-        "timestamp": "2019-08-07T12:59:32+0100"
+        "timestamp": "2019-08-07T12:59:32+01:00"
     },
     {
         "references": [
@@ -650,13 +650,13 @@
             }
         ],
         "text": "Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss",
-        "timestamp": "2019-08-12T19:02:48+0100"
+        "timestamp": "2019-08-12T19:02:48+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs hmm, maybe I'm interviewing *too* much but the first couple are common interview questions reworded.",
             "toot": {
-                "timestamp": "2019-08-12T20:02:27+0100",
+                "timestamp": "2019-08-12T20:02:27+01:00",
                 "user": "@dan_man@eads_rpas"
             }
         },
@@ -671,18 +671,18 @@
             }
         ],
         "text": "@dan_man@eads_rpas I’m sure I’ve heard a few on WbU or Odds & Evenings too; doesn’t mean there isn’t more fun to be had ;)",
-        "timestamp": "2019-08-12T23:33:42+0100"
+        "timestamp": "2019-08-12T23:33:42+01:00"
     },
     {
         "in_reply_to": {
             "text": "Not a single fruit on *any* of my chilli plants this year, and the final flower has given up.  Bah.",
             "toot": {
-                "timestamp": "2019-08-16T17:41:40+0100",
+                "timestamp": "2019-08-16T17:41:40+01:00",
                 "user": "@pmitty@eads_cs"
             }
         },
         "text": "@pmitty@eads_cs Same as.  Basil has grown *very* well this season, but my peppers are pepper-less.",
-        "timestamp": "2019-08-16T19:24:44+0100"
+        "timestamp": "2019-08-16T19:24:44+01:00"
     },
     {
         "references": [
@@ -692,7 +692,7 @@
             }
         ],
         "text": "Totally agree with @FryRsquared@twit_brg on oath.  We have ethics Qs during yearly reviews, and they’re hugely eye opening.",
-        "timestamp": "2019-08-16T19:30:31+0100"
+        "timestamp": "2019-08-16T19:30:31+01:00"
     },
     {
         "references": [
@@ -702,24 +702,24 @@
             }
         ],
         "text": "… Also, another great pick for /childrens/ xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me",
-        "timestamp": "2019-08-16T19:31:26+0100"
+        "timestamp": "2019-08-16T19:31:26+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Love Fry's approachable presentations too.  Why emphasis on \"childrens\"?",
             "toot": {
-                "timestamp": "2019-08-16T20:09:40+0100",
+                "timestamp": "2019-08-16T20:09:40+01:00",
                 "user": "@MissLB@eads_cs"
             }
         },
         "text": "@MissLB@eads_cs Sadness at them often being marketed “for children”, they’re /always/ interesting.  “RI Late” could be cool, though.",
-        "timestamp": "2019-08-16T20:22:25+0100"
+        "timestamp": "2019-08-16T20:22:25+01:00"
     },
     {
         "in_reply_to": {
             "text": "Is it time to declare *now* as the interregnum of Cameron and whomever? So little has occurred that it may just be.",
             "toot": {
-                "timestamp": "2019-08-19T21:39:36+0100",
+                "timestamp": "2019-08-19T21:39:36+01:00",
                 "user": "@blaze@eads_cs"
             }
         },
@@ -730,13 +730,13 @@
             }
         ],
         "text": "@blaze@eads_cs “interregnum” great word, thanks!  Does really feel like a Carroll-esque Red Queen’s Race, so yeah… why not.",
-        "timestamp": "2019-08-20T05:02:46+0100"
+        "timestamp": "2019-08-20T05:02:46+01:00"
     },
     {
         "in_reply_to": {
             "text": "Wish the zipit was still a thing, current project would be far better off using it as controller/interface",
             "toot": {
-                "timestamp": "2019-08-21T09:09:41+0100",
+                "timestamp": "2019-08-21T09:09:41+01:00",
                 "user": "@mleighy@eads_cs"
             }
         },
@@ -747,40 +747,40 @@
             }
         ],
         "text": "@mleighy@eads_cs Yes!  I’d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the ‘00s, and they’re still going.",
-        "timestamp": "2019-08-21T11:59:07+0100"
+        "timestamp": "2019-08-21T11:59:07+01:00"
     },
     {
         "in_reply_to": {
             "text": "Wish the zipit was still a thing, current project would be far better off using it as controller/interface",
             "toot": {
-                "timestamp": "2019-08-21T09:09:41+0100",
+                "timestamp": "2019-08-21T09:09:41+01:00",
                 "user": "@mleighy@eads_cs"
             }
         },
         "text": "@mleighy@eads_cs just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have /serious/ battery upgrades too.)",
-        "timestamp": "2019-08-21T12:03:15+0100"
+        "timestamp": "2019-08-21T12:03:15+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Yeeps, that report is crazy. That may be your coolest project(that I know of).  The battery timings are odd G1 to G2.",
             "toot": {
-                "timestamp": "2019-08-21T16:13:32+0100",
+                "timestamp": "2019-08-21T16:13:32+01:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and Gen2.5 have /huge/ suspend sw fixes.",
-        "timestamp": "2019-08-22T15:12:37+0100"
+        "timestamp": "2019-08-22T15:12:37+01:00"
     },
     {
         "in_reply_to": {
             "text": "Hand up if you're riding 650b.  I'm thinking about it, but curious if users have thoughts.",
             "toot": {
-                "timestamp": "2019-08-24T20:47:21+0100",
+                "timestamp": "2019-08-24T20:47:21+01:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs 650b, email him.",
-        "timestamp": "2019-08-25T08:52:32+0100"
+        "timestamp": "2019-08-25T08:52:32+01:00"
     },
     {
         "references": [
@@ -790,7 +790,7 @@
             }
         ],
         "text": "Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker’s Screenwipe.  ✪✪✪✪✪",
-        "timestamp": "2019-08-27T17:43:38+0100"
+        "timestamp": "2019-08-27T17:43:38+01:00"
     },
     {
         "references": [
@@ -804,57 +804,57 @@
             }
         ],
         "text": "So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)",
-        "timestamp": "2019-09-03T19:41:09+0100"
+        "timestamp": "2019-09-03T19:41:09+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Hmm, it does support vi mode.  See ``howl.command.vi_on``.",
             "toot": {
-                "timestamp": "2019-09-03T20:50:11+0100",
+                "timestamp": "2019-09-03T20:50:11+01:00",
                 "user": "@ant_bat@eads_cs"
             }
         },
         "text": "@ant_bat@eads_cs Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep emulation.",
-        "timestamp": "2019-09-03T20:57:03+0100"
+        "timestamp": "2019-09-03T20:57:03+01:00"
     },
     {
         "in_reply_to": {
             "text": "Faaaawwwwwwwwgggggg.  Eww, how are here already?",
             "toot": {
-                "timestamp": "2019-09-10T05:47:18+0100",
+                "timestamp": "2019-09-10T05:47:18+01:00",
                 "user": "@catp@eads_pr"
             }
         },
         "text": "@catp@eads_pr If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All the way to GWR.",
-        "timestamp": "2019-09-10T06:21:16+0100"
+        "timestamp": "2019-09-10T06:21:16+01:00"
     },
     {
         "in_reply_to": {
             "text": "@paulag@eads_cs Is this not the mytheme of Eos & Tithonus?  Plus ça change, plus c'est la même chose.",
             "toot": {
-                "timestamp": "2019-09-16T18:40:01+0100",
+                "timestamp": "2019-09-16T18:40:01+01:00",
                 "user": "@danni@eads_cs"
             }
         },
         "text": "@danni@eads_cs If you’re hoping to win /those/ arguments with Greek mythology and French you are 100% full win.",
-        "timestamp": "2019-09-16T21:08:48+0100"
+        "timestamp": "2019-09-16T21:08:48+01:00"
     },
     {
         "in_reply_to": {
             "text": "Who do I talk to if I want to understand Ramsey's DGPS control plane?  It just isn't making sense, name that duck.",
             "toot": {
-                "timestamp": "2019-10-01T12:35:51+0100",
+                "timestamp": "2019-10-01T12:35:51+01:00",
                 "user": "@ant_bat@eads_cs"
             }
         },
         "text": "@ant_bat@eads_cs Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or Fri if you want a whiteboard session.",
-        "timestamp": "2019-10-01T13:10:27+0100"
+        "timestamp": "2019-10-01T13:10:27+01:00"
     },
     {
         "in_reply_to": {
             "text": "New release of calibre. Still awful, but still the only game in town. How is this? (nb: I'm not fixing this either 🙍)",
             "toot": {
-                "timestamp": "2019-10-06T16:47:48+0100",
+                "timestamp": "2019-10-06T16:47:48+01:00",
                 "user": "@mickey_pleasance@eads_cs"
             }
         },
@@ -873,13 +873,13 @@
             }
         ],
         "text": "@mickey_pleasance@eads_cs Neither, am I.  However ``foliate`` or ``nov.el`` are both *amazing* readers.",
-        "timestamp": "2019-10-06T19:38:47+0100"
+        "timestamp": "2019-10-06T19:38:47+01:00"
     },
     {
         "in_reply_to": {
             "text": "Really enjoying Buffering The Vampire Slayer, which I'm buffering 5 years late.  Like being back at school.",
             "toot": {
-                "timestamp": "2019-10-22T08:15:43+0100",
+                "timestamp": "2019-10-22T08:15:43+01:00",
                 "user": "@chewy@eads_cs"
             }
         },
@@ -890,74 +890,74 @@
             }
         ],
         "text": "@chewy@eads_cs Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see that every week.",
-        "timestamp": "2019-10-22T12:04:01+0100"
+        "timestamp": "2019-10-22T12:04:01+01:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Any chance of some help with aleph vote tech? We're already scaling badly one day in. 🗳🔥🚒",
             "toot": {
-                "timestamp": "2019-10-31T17:09:42+0000",
+                "timestamp": "2019-10-31T17:09:42+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my response.  (I don’t speak emoji though)",
-        "timestamp": "2019-10-31T20:38:11+0000"
+        "timestamp": "2019-10-31T20:38:11+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.",
             "toot": {
-                "timestamp": "2019-10-31T21:11:40+0000",
+                "timestamp": "2019-10-31T21:11:40+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.",
-        "timestamp": "2019-10-31T21:26:22+0000"
+        "timestamp": "2019-10-31T21:26:22+00:00"
     },
     {
         "text": "@big_macnamara@eads_cs I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just wanted to try optimisation at extremes.",
-        "timestamp": "2019-11-12T12:40:01+0000"
+        "timestamp": "2019-11-12T12:40:01+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps",
             "toot": {
-                "timestamp": "2019-11-12T13:57:38+0000",
+                "timestamp": "2019-11-12T13:57:38+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.",
-        "timestamp": "2019-11-12T14:19:55+0000"
+        "timestamp": "2019-11-12T14:19:55+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps",
             "toot": {
-                "timestamp": "2019-11-12T13:57:38+0000",
+                "timestamp": "2019-11-12T13:57:38+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.",
-        "timestamp": "2019-11-14T19:19:10+0000"
+        "timestamp": "2019-11-14T19:19:10+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?",
             "toot": {
-                "timestamp": "2019-11-14T19:44:08+0000",
+                "timestamp": "2019-11-14T19:44:08+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)",
-        "timestamp": "2019-11-14T19:54:30+0000"
+        "timestamp": "2019-11-14T19:54:30+00:00"
     },
     {
         "text": "*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.",
-        "timestamp": "2019-11-24T07:19:58+0000"
+        "timestamp": "2019-11-24T07:19:58+00:00"
     },
     {
         "in_reply_to": {
-            "self": "2018-12-15T18:43:39+0000"
+            "self": "2018-12-15T18:43:39+00:00"
         },
         "references": [
             {
@@ -970,69 +970,69 @@
             }
         ],
         "text": "I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]",
-        "timestamp": "2019-12-11T08:41:27+0000"
+        "timestamp": "2019-12-11T08:41:27+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Thanks for all your hard work, would have cost *a whole heap more* without you. Just a shame it didn't work out 😜",
             "toot": {
-                "timestamp": "2019-12-13T08:08:58+0000",
+                "timestamp": "2019-12-13T08:08:58+00:00",
                 "user": "@big_macnamara@eads_cs"
             }
         },
         "text": "@big_macnamara@eads_cs NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t speak emoji.",
-        "timestamp": "2019-12-13T13:13:08+0000"
+        "timestamp": "2019-12-13T13:13:08+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Didn't forget yesterday, had no service.  Hope you're well.  Happy New Year! 🥂🎆😘",
             "toot": {
-                "timestamp": "2019-12-31T19:54:13+0000",
+                "timestamp": "2019-12-31T19:54:13+00:00",
                 "user": "@lauren@eads_fr"
             }
         },
         "text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
-        "timestamp": "2019-12-31T20:50:54+0000"
+        "timestamp": "2019-12-31T20:50:54+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Did you receive my Marivaux gift?  You'll probably find it hard work, but it is worth it.  Promise.",
             "toot": {
-                "timestamp": "2020-01-01T10:06:16+0000",
+                "timestamp": "2020-01-01T10:06:16+00:00",
                 "user": "@lauren@eads_fr"
             }
         },
         "text": "@lauren@eads_fr Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying epistolary format more and more lately",
-        "timestamp": "2020-01-02T07:05:43+0000"
+        "timestamp": "2020-01-02T07:05:43+00:00"
     },
     {
         "text": "@rafe@eads_cs Give me a call when you/Ollie finalise travel details; OoO for next 4 days.",
-        "timestamp": "2020-01-02T07:06:57+0000"
+        "timestamp": "2020-01-02T07:06:57+00:00"
     },
     {
         "text": "There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the effect.",
-        "timestamp": "2020-02-20T12:58:15+0000"
+        "timestamp": "2020-02-20T12:58:15+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Just curious, what is the power/proc budget to make that work? Probably pretty expensive if this is the RSC",
             "toot": {
-                "timestamp": "2020-02-21T10:50:10+0000",
+                "timestamp": "2020-02-21T10:50:10+00:00",
                 "user": "@MissLB@eads_cs"
             }
         },
         "text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I’ve kept <5% for the moment.",
-        "timestamp": "2020-02-23T21:21:07+0000"
+        "timestamp": "2020-02-23T21:21:07+00:00"
     },
     {
         "in_reply_to": {
             "text": "@JNRowe@eads_cs Is that the night vision display I just saw? If so, that is awesome. The HDG dial is full '80s, lurve it.",
             "toot": {
-                "timestamp": "2020-02-21T18:54:15+0000",
+                "timestamp": "2020-02-21T18:54:15+00:00",
                 "user": "@charoug@eads_cs"
             }
         },
         "text": "@charoug@eads_cs Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.",
-        "timestamp": "2020-02-23T21:21:26+0000"
+        "timestamp": "2020-02-23T21:21:26+00:00"
     }
 ]
