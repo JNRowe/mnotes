@@ -14,6 +14,7 @@ def existing_file(string):
         raise argparse.ArgumentTypeError('Missing file %r' % path)
     return string
 
+
 def valid_timestamp(string):
     try:
         ciso8601.parse_datetime(string)
@@ -54,7 +55,7 @@ parser.add_argument('-i', '--reply-time', type=valid_timestamp,
 parser.add_argument('-m', '--importance',
                     choices=['perhaps', 'should', 'must'],
                     help='importance advice', metavar='importance')
-parser.add_argument('-g', '--urgency', choices=['whenever', 'soon' , 'now'],
+parser.add_argument('-g', '--urgency', choices=['whenever', 'soon', 'now'],
                     help='urgency advice', metavar='urgency')
 parser.add_argument('text', help="content of note to post")
 args = parser.parse_args()
