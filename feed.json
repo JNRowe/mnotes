@@ -11,109 +11,109 @@
     },
     "items": [
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-23T21:21:26+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2020-02-21T18:54:15+00:00\">Feb 21, 18:54</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Is that the night vision display I just saw? If so, that is awesome. The HDG dial is full '80s, lurve it.</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-23T21:21:26+00:00\">Feb 23, 21:21</time>                                            </p>                </article>",
             "content_text": "@charoug@eads_cs Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.",
-            "date_published": "2020-02-23T21:21:26+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+0000"
+            "date_published": "2020-02-23T21:21:26+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+0000",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-23T21:21:07+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2020-02-21T10:50:10+00:00\">Feb 21, 10:50</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Just curious, what is the power/proc budget to make that work? Probably pretty expensive if this is the RSC</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> It is considered a safety issue in the spec, and the display receives a full core.  I’ve kept &lt;5% for the moment.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-23T21:21:07+00:00\">Feb 23, 21:21</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I’ve kept <5% for the moment.",
-            "date_published": "2020-02-23T21:21:07+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+0000"
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-23T21:21:07+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2020-02-21T10:50:10+00:00\">Feb 21, 10:50</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Just curious, what is the power/proc budget to make that work? Probably pretty expensive if this is the RSC</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> It is considered a safety issue in the spec, and the display receives a full core.  I&#8217;ve kept &lt;5% for the moment.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-23T21:21:07+00:00\">Feb 23, 21:21</time>                                            </p>                </article>",
+            "content_text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I\u2019ve kept <5% for the moment.",
+            "date_published": "2020-02-23T21:21:07+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+0000",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-20T12:58:15+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the effect.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-20T12:58:15+00:00\">Feb 20, 12:58</time>                                            </p>                </article>",
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-20T12:58:15+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">There was a time when a long persistence screen would be used for a <abbr title=\"Plan Position Indicator\">PPI</abbr> radar display; in the modern world I burn six hours generating the effect.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-20T12:58:15+00:00\">Feb 20, 12:58</time>                                            </p>                </article>",
             "content_text": "There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the effect.",
-            "date_published": "2020-02-20T12:58:15+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+0000"
+            "date_published": "2020-02-20T12:58:15+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:06:57+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:06:57+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-01-02T07:06:57+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><em>@rafe@eads_cs</em> Give me a call when you/Ollie finalise travel details; OoO for next 4 days.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-01-02T07:06:57+00:00\">Jan 02, 07:06</time>                                            </p>                </article>",
             "content_text": "@rafe@eads_cs Give me a call when you/Ollie finalise travel details; OoO for next 4 days.",
-            "date_published": "2020-01-02T07:06:57+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:06:57+0000"
+            "date_published": "2020-01-02T07:06:57+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:06:57+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:05:43+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:05:43+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-01-02T07:05:43+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @lauren@eads_fr's post                                on                                <time datetime=\"2020-01-01T10:06:16+00:00\">Jan 01, 10:06</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Did you receive my Marivaux gift?  You'll probably find it hard work, but it is worth it.  Promise.</blockquote>                                                                                    <p class=\"e-content\"><em>@lauren@eads_fr</em> Yep, thanks!  No need to knock my French, but you&#8217;re right.  Have been enjoying epistolary format more and more lately</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-01-02T07:05:43+00:00\">Jan 02, 07:05</time>                                            </p>                </article>",
             "content_text": "@lauren@eads_fr Yep, thanks!  No need to knock my French, but you\u2019re right.  Have been enjoying epistolary format more and more lately",
-            "date_published": "2020-01-02T07:05:43+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:05:43+0000"
+            "date_published": "2020-01-02T07:05:43+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:05:43+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-31T20:50:54+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @lauren@eads_fr's post                                on                                <time datetime=\"2019-12-31T19:54:13+00:00\">Dec 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Didn't forget yesterday, had no service.  Hope you're well.  Happy New Year! &#129346;&#127878;&#128536;</blockquote>                                                                                    <p class=\"e-content\"><em>@lauren@eads_fr</em> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-31T20:50:54+00:00\">Dec 2019</time>                                            </p>                </article>",
             "content_text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
-            "date_published": "2019-12-31T20:50:54+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+0000"
+            "date_published": "2019-12-31T20:50:54+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-13T13:13:08+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-12-13T08:08:58+00:00\">Dec 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Thanks for all your hard work, would have cost <strong>a whole heap more</strong> without you. Just a shame it didn't work out &#128540;</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don&#8217;t speak emoji.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-13T13:13:08+00:00\">Dec 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don\u2019t speak emoji.",
-            "date_published": "2019-12-13T13:13:08+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+0000"
+            "date_published": "2019-12-13T13:13:08+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-11T08:41:27+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to                                <a href=\"#TS2018-12-15%2018:43:39+00:00\" class=\"u-in-reply-to\">my post</a>                                on                                <time datetime=\"2018-12-15T18:43:39+00:00\">Dec 2018</time>:                            </p>                                                                                    <p class=\"e-content\">I&#8217;ve retired from our <b>#aoc</b> 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year&#8217;s early quit]</p>                                            <ul>                                                            <li>                                    <a href=\"https://jnrowe.github.io/articles/advent_of_code_2019.html\">                                        <cite>My first few days of AoC 2019</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://adventofcode.com/2019\">                                        <cite>Advent of Code 2019</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-11T08:41:27+00:00\">Dec 2019</time>                                            </p>                </article>",
             "content_text": "I\u2019ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year\u2019s early quit]",
-            "date_published": "2019-12-11T08:41:27+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+0000"
+            "date_published": "2019-12-11T08:41:27+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-24T07:19:58+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><strong>REMINDER</strong>: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-24T07:19:58+00:00\">Nov 2019</time>                                            </p>                </article>",
             "content_text": "*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.",
-            "date_published": "2019-11-24T07:19:58+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+0000"
+            "date_published": "2019-11-24T07:19:58+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-14T19:54:30+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-14T19:44:08+00:00\">Nov 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> SCT has been been killed, I&#8217;m without a tier-1 [again].  It is either this or brain soup through atrophy ;)</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-14T19:54:30+00:00\">Nov 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs SCT has been been killed, I\u2019m without a tier-1 [again].  It is either this or brain soup through atrophy ;)",
-            "date_published": "2019-11-14T19:54:30+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+0000"
+            "date_published": "2019-11-14T19:54:30+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-14T19:19:10+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-12T13:57:38+00:00\">Nov 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> I&#8217;ve rewritten it <strong>again</strong>; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-14T19:19:10+00:00\">Nov 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs I\u2019ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.",
-            "date_published": "2019-11-14T19:19:10+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+0000"
+            "date_published": "2019-11-14T19:19:10+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-12T14:19:55+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-12T13:57:38+00:00\">Nov 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> See nim&#8217;s <code>--dynlibOverrideAll</code>/<code>--passl</code>.  Sadly, upstream won&#8217;t budge; cf various GH issues.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-12T14:19:55+00:00\">Nov 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs See nim\u2019s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won\u2019t budge; cf various GH issues.",
-            "date_published": "2019-11-12T14:19:55+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+0000"
+            "date_published": "2019-11-12T14:19:55+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-12T12:40:01+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> I&#8217;ve rewritten the backend from scratch in nim.  Take it or don&#8217;t, I just wanted to try optimisation at extremes.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-12T12:40:01+00:00\">Nov 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs I\u2019ve rewritten the backend from scratch in nim.  Take it or don\u2019t, I just wanted to try optimisation at extremes.",
-            "date_published": "2019-11-12T12:40:01+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+0000"
+            "date_published": "2019-11-12T12:40:01+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-10-31T21:26:22+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-10-31T21:11:40+00:00\">Oct 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> Okay, yes then.  Tag me and I&#8217;ll triage tonight, and beat on whatever you don&#8217;t get to over the weekend.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-10-31T21:26:22+00:00\">Oct 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs Okay, yes then.  Tag me and I\u2019ll triage tonight, and beat on whatever you don\u2019t get to over the weekend.",
-            "date_published": "2019-10-31T21:26:22+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+0000"
+            "date_published": "2019-10-31T21:26:22+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+00:00"
         },
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+0000",
+            "id": "https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2019-10-31T20:38:11+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-10-31T17:09:42+00:00\">Oct 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Any chance of some help with aleph vote tech? We're already scaling badly one day in. &#128499;&#128293;&#128658;</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> Hmm, maybe.  I&#8217;m not immediately clear who you&#8217;re pushing, that&#8217;ll pin my response.  (I don&#8217;t speak emoji though)</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-10-31T20:38:11+00:00\">Oct 2019</time>                                            </p>                </article>",
             "content_text": "@big_macnamara@eads_cs Hmm, maybe.  I\u2019m not immediately clear who you\u2019re pushing, that\u2019ll pin my response.  (I don\u2019t speak emoji though)",
-            "date_published": "2019-10-31T20:38:11+0000",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+0000"
+            "date_published": "2019-10-31T20:38:11+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+00:00"
         }
     ]
 }

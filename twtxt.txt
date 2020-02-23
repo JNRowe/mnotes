@@ -35,130 +35,130 @@
 2018-10-05T13:33:58+01:00	Friend tells story of co-worker who explains /everything/ in story form using ST:TNG’s *amazing* Darmok episode as a device… without ever
 2018-10-05T13:33:58+01:00	… seeing the loop. 🤯
 2018-10-08T08:39:24+01:00	Playing around with GitHub issue replies for @<Nathan https://mastodon.eads_cs/Nathan/twtxt.txt>
-2018-10-20T14:36:36+0100	So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.
-2018-10-20T14:46:26+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me
-2018-10-20T14:46:26+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… immediately.
-2018-10-20T16:35:40+0100	@<leon https://mastodon.gwr/leon/twtxt.txt> Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold
-2018-10-20T16:35:40+0100	@<leon https://mastodon.gwr/leon/twtxt.txt>… call.
-2018-10-22T19:37:40+0100	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt> Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so
-2018-10-22T19:37:40+0100	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt>… maybe…
-2018-10-23T21:19:43+0100	GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?
-2018-10-30T13:11:44+0000	So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.
-2018-10-30T13:15:14+0000	And I guess bonus points for using ``set stal=0``.  Probably easy to get lost though.
-2018-11-07T12:21:48+0000	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt> Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.
-2018-11-07T12:21:48+0000	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt>… Hope you’re enjoying it nonetheless.
-2018-11-11T21:13:10+0000	Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1º ep reveals it is “Team America” as a period drama
-2018-11-11T21:13:21+0000	… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.
-2018-11-16T05:48:25+0000	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript. /cc
-2018-11-16T05:48:25+0000	… @<blaze https://mastodon.eads_cs/blaze/twtxt.txt>
-2018-11-30T05:35:15+0000	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
-2018-12-04T08:51:05+0000	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?
-2018-12-15T18:43:39+0000	I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?
-2018-12-23T08:54:28+0000	Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.
-2019-01-02T21:36:07+0000	Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.
-2019-01-10T11:02:34+0000	As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.
-2019-01-15T06:12:46+0000	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt> I meant “still” in the “catching up with old problems” sense, but…
-2019-01-15T06:12:53+0000	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt> I see no alternative, wishful thinking won’t get us anywhere.  In agreement; nihilism
-2019-01-15T06:12:53+0000	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt>… wins, we lose.
-2019-01-23T14:14:39+0000	Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)
-2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate
-2019-02-08T13:52:41+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… *valuable* hunks, and ignore rest.
-2019-02-11T17:13:25+0000	If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging
-2019-02-11T17:13:25+0000	… nightmare.
-2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do
-2019-02-12T10:19:36+0000	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt>… the work, we’ll fix it.
-2019-02-20T13:48:44+0000	Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.
-2019-02-20T13:59:36+0000	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt> Can’t be offered, I obviously don’t meet the minimum 4Y masters requirement.  Sadly, my
-2019-02-20T13:59:36+0000	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt>… final ERB project :/
-2019-02-20T14:22:43+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt> It doesn’t here either.  Nope, would’ve gone to *any* in an instant & even looked at SR
-2019-02-20T14:22:43+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… roles in 2016-12.
-2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt> Thought you knew.  In fact, I thought that was the *exact* conversation we had back in
-2019-02-20T14:25:46+0000	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt>… July.
-2019-02-25T05:15:33+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> A stand *really* helps, you can borrow mine.  If it is rideable bring it GWR2 on
-2019-02-25T05:15:33+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Tuesday, and I’ll have a pop.
-2019-02-25T05:17:42+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Prime Suspect ‘73 was my fave origin story, but Endeavour sure is nice Sunday night
-2019-02-25T05:17:42+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… decomp.  Agree on rhythm.
-2019-03-07T20:06:32+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Thing is I *really* miss those; both new and full.  Are you wearing appropriate lenses?
-2019-03-07T20:06:32+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… *Huge* difference.
-2019-03-11T05:37:58+0000	Checking yr.no for week’s cycling clothes choice, found omen instead.  Wasn’t that how that 2004 palaeoclimatology documentary started?
-2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt> Post those toolbox articles to mastodon or at least an Atom feed somewhere.  Really
-2019-03-11T05:38:44+0000	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… awesome, want to subscribe.
-2019-03-12T22:43:31+0000	I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.
-2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said,
-2019-03-14T06:17:36+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… yes… but SMS is best method now.
-2019-04-21T06:07:48+0100	I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.
-2019-07-01T18:12:08+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Obvious flaw is surely more likely to be people.  Fex if people are hearing “MMR terror”
-2019-07-01T18:12:08+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… today, reputable sources don’t help
-2019-07-01T18:12:16+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Or try listening to a climate denialist.  “Science is wrong.  World got warmer before,
-2019-07-01T18:12:16+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… science proved it!”
-2019-07-01T19:01:25+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Well, offers of elucidation to people who think opinions are equally valid are almost *by
-2019-07-01T19:01:25+0000	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… definition* worthless.
-2019-07-18T22:32:19+0100	Have been priming a reboot of ``bfm`` this evening, mostly to please everyone's favourite child(but also me).  /cc
-2019-07-18T22:32:19+0100	… @<cass https://mastodon.eads_cs/cass/twtxt.txt>.
-2019-07-23T19:01:20+0100	”Cheat’s eggs Benedict”, where the apparent cheat is “6 tbsp hollandaise sauce”.  Worst. Recipe. Ever.
-2019-07-23T19:27:51+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Actually, yes.  I’ve planned for ~fifteen, but we’ll see what happens.  Drop in to
-2019-07-23T19:27:51+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… AW1, if you miss breakfast.
-2019-07-24T20:06:46+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> I was looking for the traditional names of the alternative types; veggie one, halal
-2019-07-24T20:06:46+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… one, etc.  Appreciate the confidence.
-2019-08-05T15:58:08+0100	OH: “Given Booker is dead, who is the new go-to example for ∞ denial?”  Arguably harsh as a statement, but *feels* like a valid question.
-2019-08-07T12:59:32+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> … or in life at large?  “you can’t reason your way out” aso, but believing will fix
-2019-08-07T12:59:32+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… that
-2019-08-12T19:02:48+0100	Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss
-2019-08-12T23:33:42+0100	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt> I’m sure I’ve heard a few on WbU or Odds & Evenings too; doesn’t mean there isn’t
-2019-08-12T23:33:42+0100	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt>… more fun to be had ;)
-2019-08-16T19:24:44+0100	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Same as.  Basil has grown *very* well this season, but my peppers are pepper-less.
-2019-08-16T19:30:31+0100	Totally agree with @<FryRsquared https://mastodon.twit_brg/FryRsquared/twtxt.txt> on oath.  We have ethics Qs during yearly reviews, and
-2019-08-16T19:30:31+0100	… they’re hugely eye opening.
-2019-08-16T19:31:26+0100	… Also, another great pick for /childrens/ xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me
-2019-08-16T20:22:25+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Sadness at them often being marketed “for children”, they’re /always/ interesting.  “RI
-2019-08-16T20:22:25+0100	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… Late” could be cool, though.
-2019-08-20T05:02:46+0100	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt> “interregnum” great word, thanks!  Does really feel like a Carroll-esque Red Queen’s
-2019-08-20T05:02:46+0100	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt>… Race, so yeah… why not.
-2019-08-21T11:59:07+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt> Yes!  I’d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the
-2019-08-21T11:59:07+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… ‘00s, and they’re still going.
-2019-08-21T12:03:15+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt> just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have
-2019-08-21T12:03:15+0100	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… /serious/ battery upgrades too.)
-2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and
-2019-08-22T15:12:37+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Gen2.5 have /huge/ suspend sw fixes.
-2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs
-2019-08-25T08:52:32+0100	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… 650b, email him.
-2019-08-27T17:43:38+0100	Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker’s Screenwipe.  ✪✪✪✪✪
-2019-09-03T19:41:09+0100	So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)
-2019-09-03T20:57:03+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep
-2019-09-03T20:57:03+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… emulation.
-2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt> If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All
-2019-09-10T06:21:16+0100	@<catp https://mastodon.eads_pr/catp/twtxt.txt>… the way to GWR.
-2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt> If you’re hoping to win /those/ arguments with Greek mythology and French you are 100%
-2019-09-16T21:08:48+0100	@<danni https://mastodon.eads_cs/danni/twtxt.txt>… full win.
-2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or
-2019-10-01T13:10:27+0100	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… Fri if you want a whiteboard session.
-2019-10-06T19:38:47+0100	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt> Neither, am I.  However ``foliate`` or ``nov.el`` are both
-2019-10-06T19:38:47+0100	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt>… *amazing* readers.
-2019-10-22T12:04:01+0100	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see
-2019-10-22T12:04:01+0100	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… that every week.
-2019-10-31T20:38:11+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my
-2019-10-31T20:38:11+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… response.  (I don’t speak emoji though)
-2019-10-31T21:26:22+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you
-2019-10-31T21:26:22+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… don’t get to over the weekend.
-2019-11-12T12:40:01+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just
-2019-11-12T12:40:01+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… wanted to try optimisation at extremes.
-2019-11-12T14:19:55+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t
-2019-11-12T14:19:55+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… budge; cf various GH issues.
-2019-11-14T19:19:10+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten it *again*; rust this time.  Largely mechanical, needs
-2019-11-14T19:19:10+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… sponge bath.  Far better deploy, and quicker again.
-2019-11-14T19:54:30+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> SCT has been been killed, I’m without a tier-1 [again].  It is either
-2019-11-14T19:54:30+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… this or brain soup through atrophy ;)
-2019-11-24T07:19:58+0000	*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.
-2019-12-11T08:41:27+0000	I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]
-2019-12-13T13:13:08+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t
-2019-12-13T13:13:08+0000	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… speak emoji.
-2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you
-2019-12-31T20:50:54+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… too!
-2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying
-2020-01-02T07:05:43+0000	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… epistolary format more and more lately
-2020-01-02T07:06:57+0000	@<rafe https://mastodon.eads_cs/rafe/twtxt.txt> Give me a call when you/Ollie finalise travel details; OoO for next 4 days.
-2020-02-20T12:58:15+0000	There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the
-2020-02-20T12:58:15+0000	… effect.
-2020-02-23T21:21:07+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It is considered a safety issue in the spec, and the display receives a full core.
-2020-02-23T21:21:07+0000	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… I’ve kept <5% for the moment.
-2020-02-23T21:21:26+0000	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.
+2018-10-20T14:36:36+01:00	So, how do folks go about finding a good recruitment consultant?  First time in fifteen years, and it looks full lemon.
+2018-10-20T14:46:26+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Ah, good call.  For ref: OoB Mickey suggested the BTC meet up, and they got back to me
+2018-10-20T14:46:26+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… immediately.
+2018-10-20T16:35:40+01:00	@<leon https://mastodon.gwr/leon/twtxt.txt> Thanks, that’ll help.  Can’t believe how slimy some of the “top” companies seemed on a cold
+2018-10-20T16:35:40+01:00	@<leon https://mastodon.gwr/leon/twtxt.txt>… call.
+2018-10-22T19:37:40+01:00	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt> Added an image, HTH.  I’ve been thinking about an #awesomewm talk for a little while now, so
+2018-10-22T19:37:40+01:00	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt>… maybe…
+2018-10-23T21:19:43+01:00	GNU’s take on a CoC-alike is really quite interesting, and looks useful in general.  Perhaps we should replace ours by a link?
+2018-10-30T13:11:44+00:00	So… there is a use for tabs in #vim.  Mimic zoom in/out without plugin hackery.  ``tabedit %`` in, then ``<C-w>c`` out.
+2018-10-30T13:15:14+00:00	And I guess bonus points for using ``set stal=0``.  Probably easy to get lost though.
+2018-11-07T12:21:48+00:00	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt> Remembering it is Diwali is *not* the same when Milly isn’t around to send me laddu.
+2018-11-07T12:21:48+00:00	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt>… Hope you’re enjoying it nonetheless.
+2018-11-11T21:13:10+00:00	Timeline is full of people recommending “Little Drummer Girl”; iPlayer catchup of 1º ep reveals it is “Team America” as a period drama
+2018-11-11T21:13:21+00:00	… wherein the Charlie character(Florence Pugh) is great, and the others would be improved as puppets.
+2018-11-16T05:48:25+00:00	Very smart looking project hosting. • AGPL-3. • Fast and light. • Works without javascript. /cc
+2018-11-16T05:48:25+00:00	… @<blaze https://mastodon.eads_cs/blaze/twtxt.txt>
+2018-11-30T05:35:15+00:00	#aoc 2018 is almost upon us :)  Questioning whether to get up an hour early tomorrow, we'll see…
+2018-12-04T08:51:05+00:00	TFW you embark on a new project.  Distilled in to too many words.  /cc co-workers what changes do you want to see?
+2018-12-15T18:43:39+00:00	I’ve retired from our #aoc 2018 competition, who will steal my fourth place on our leaderboard?
+2018-12-23T08:54:28+00:00	Making an attempt at /office-hours, we’ll see how it pans out.  I encourage *you* to try the same.
+2019-01-02T21:36:07+00:00	Catching a “Tea Peter” re-run tonight is a far different experience to its original airing in 2012, cf Jacob Workingman.
+2019-01-10T11:02:34+00:00	As someone who *still* has to fix rollover bugs(‘16 1-byte “fix”, GPS 10-bit in April) Y2038 felt distant, not now.
+2019-01-15T06:12:46+00:00	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt> I meant “still” in the “catching up with old problems” sense, but…
+2019-01-15T06:12:53+00:00	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt> I see no alternative, wishful thinking won’t get us anywhere.  In agreement; nihilism
+2019-01-15T06:12:53+00:00	@<mickey https://mastodon.eads_cs/mickey/twtxt.txt>… wins, we lose.
+2019-01-23T14:14:39+00:00	Here, it is common to see lengths quoted at 20℃ … Is it localised in other climates? (*Or* how to search away my ignorance?)
+2019-02-08T13:52:41+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> سلام, Becky.  ``sqlite3 .dump`` and ``js -S .`` are your friends; use tools to recreate
+2019-02-08T13:52:41+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… *valuable* hunks, and ignore rest.
+2019-02-11T17:13:25+00:00	If you’re thinking about using Python’s poetry mod[hi, Paul!], be aware it breaks *all* reproducible builds and creates a packaging
+2019-02-11T17:13:25+00:00	… nightmare.
+2019-02-12T10:19:36+00:00	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Ping me on the PR and *I’ll* port it to something else.  Note:  I’m *offering* to do
+2019-02-12T10:19:36+00:00	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt>… the work, we’ll fix it.
+2019-02-20T13:48:44+00:00	Just finished my GGS probit.  Not sure what management expected, presume it is “no change required; disinterested parties killed it”.
+2019-02-20T13:59:36+00:00	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt> Can’t be offered, I obviously don’t meet the minimum 4Y masters requirement.  Sadly, my
+2019-02-20T13:59:36+00:00	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt>… final ERB project :/
+2019-02-20T14:22:43+00:00	@<xander https://mastodon.eads_cs/xander/twtxt.txt> It doesn’t here either.  Nope, would’ve gone to *any* in an instant & even looked at SR
+2019-02-20T14:22:43+00:00	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… roles in 2016-12.
+2019-02-20T14:25:46+00:00	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt> Thought you knew.  In fact, I thought that was the *exact* conversation we had back in
+2019-02-20T14:25:46+00:00	@<ollie https://mastodon.eads_cs/ollie/twtxt.txt>… July.
+2019-02-25T05:15:33+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> A stand *really* helps, you can borrow mine.  If it is rideable bring it GWR2 on
+2019-02-25T05:15:33+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Tuesday, and I’ll have a pop.
+2019-02-25T05:17:42+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Prime Suspect ‘73 was my fave origin story, but Endeavour sure is nice Sunday night
+2019-02-25T05:17:42+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… decomp.  Agree on rhythm.
+2019-03-07T20:06:32+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Thing is I *really* miss those; both new and full.  Are you wearing appropriate lenses?
+2019-03-07T20:06:32+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… *Huge* difference.
+2019-03-11T05:37:58+00:00	Checking yr.no for week’s cycling clothes choice, found omen instead.  Wasn’t that how that 2004 palaeoclimatology documentary started?
+2019-03-11T05:38:44+00:00	@<xander https://mastodon.eads_cs/xander/twtxt.txt> Post those toolbox articles to mastodon or at least an Atom feed somewhere.  Really
+2019-03-11T05:38:44+00:00	@<xander https://mastodon.eads_cs/xander/twtxt.txt>… awesome, want to subscribe.
+2019-03-12T22:43:31+00:00	I’m on sabbatical from tomorrow, and largely out of reach.  SMS → FOAF link → *personal* phone number → maybe email → shout at clouds.
+2019-03-14T06:17:36+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Those cables are supposedly pre-stretched, so it shouldn’t be a problem.  That said,
+2019-03-14T06:17:36+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… yes… but SMS is best method now.
+2019-04-21T06:07:48+01:00	I’m giving a talk on quickcheck-type solutions for imperative languages at LoFu ‘19.  Drop in to whine about people needing “real FP”.
+2019-07-01T18:12:08+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Obvious flaw is surely more likely to be people.  Fex if people are hearing “MMR terror”
+2019-07-01T18:12:08+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… today, reputable sources don’t help
+2019-07-01T18:12:16+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Or try listening to a climate denialist.  “Science is wrong.  World got warmer before,
+2019-07-01T18:12:16+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… science proved it!”
+2019-07-01T19:01:25+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Well, offers of elucidation to people who think opinions are equally valid are almost *by
+2019-07-01T19:01:25+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… definition* worthless.
+2019-07-18T22:32:19+01:00	Have been priming a reboot of ``bfm`` this evening, mostly to please everyone's favourite child(but also me).  /cc
+2019-07-18T22:32:19+01:00	… @<cass https://mastodon.eads_cs/cass/twtxt.txt>.
+2019-07-23T19:01:20+01:00	”Cheat’s eggs Benedict”, where the apparent cheat is “6 tbsp hollandaise sauce”.  Worst. Recipe. Ever.
+2019-07-23T19:27:51+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Actually, yes.  I’ve planned for ~fifteen, but we’ll see what happens.  Drop in to
+2019-07-23T19:27:51+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… AW1, if you miss breakfast.
+2019-07-24T20:06:46+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> I was looking for the traditional names of the alternative types; veggie one, halal
+2019-07-24T20:06:46+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… one, etc.  Appreciate the confidence.
+2019-08-05T15:58:08+01:00	OH: “Given Booker is dead, who is the new go-to example for ∞ denial?”  Arguably harsh as a statement, but *feels* like a valid question.
+2019-08-07T12:59:32+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> … or in life at large?  “you can’t reason your way out” aso, but believing will fix
+2019-08-07T12:59:32+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… that
+2019-08-12T19:02:48+01:00	Late to the party, but the Newton Institute are running a fun series of puzzles over August.  Hit me up in the cafeteria/train to discuss
+2019-08-12T23:33:42+01:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt> I’m sure I’ve heard a few on WbU or Odds & Evenings too; doesn’t mean there isn’t
+2019-08-12T23:33:42+01:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt>… more fun to be had ;)
+2019-08-16T19:24:44+01:00	@<pmitty https://mastodon.eads_cs/pmitty/twtxt.txt> Same as.  Basil has grown *very* well this season, but my peppers are pepper-less.
+2019-08-16T19:30:31+01:00	Totally agree with @<FryRsquared https://mastodon.twit_brg/FryRsquared/twtxt.txt> on oath.  We have ethics Qs during yearly reviews, and
+2019-08-16T19:30:31+01:00	… they’re hugely eye opening.
+2019-08-16T19:31:26+01:00	… Also, another great pick for /childrens/ xmas lectures; du Sautoy, Fong and Scott being recent-ish stand outs for me
+2019-08-16T20:22:25+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Sadness at them often being marketed “for children”, they’re /always/ interesting.  “RI
+2019-08-16T20:22:25+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… Late” could be cool, though.
+2019-08-20T05:02:46+01:00	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt> “interregnum” great word, thanks!  Does really feel like a Carroll-esque Red Queen’s
+2019-08-20T05:02:46+01:00	@<blaze https://mastodon.eads_cs/blaze/twtxt.txt>… Race, so yeah… why not.
+2019-08-21T11:59:07+01:00	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt> Yes!  I’d love a couple of ZipIt Z2s.  We used them for the TrueSite project in the
+2019-08-21T11:59:07+01:00	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… ‘00s, and they’re still going.
+2019-08-21T12:03:15+01:00	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt> just skimmed the TS PR, 2 breakages in ninety units.  Astonishing.  (A few have
+2019-08-21T12:03:15+01:00	@<mleighy https://mastodon.eads_cs/mleighy/twtxt.txt>… /serious/ battery upgrades too.)
+2019-08-22T15:12:37+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Thanks.  The Gen2 units have a custom backlight fitted along with hi-cap Li-ions, and
+2019-08-22T15:12:37+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… Gen2.5 have /huge/ suspend sw fixes.
+2019-08-25T08:52:32+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Don’t use, but… I just don’t like the way they look on “full-size” frames.  Ant runs
+2019-08-25T08:52:32+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… 650b, email him.
+2019-08-27T17:43:38+01:00	Enjoying The Allusionist, both enlightening and funny.  Rhythm and humour remind me of Charlie Brooker’s Screenwipe.  ✪✪✪✪✪
+2019-09-03T19:41:09+01:00	So, while not for me… howl is an extremely nice editor.  Light, fast, easily hackable.  (I’d be tempted with an ``evil-mode``)
+2019-09-03T20:57:03+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Welcome!  That only supports basic vi-like movement, ``evil-mode`` is *very* deep
+2019-09-03T20:57:03+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… emulation.
+2019-09-10T06:21:16+01:00	@<catp https://mastodon.eads_pr/catp/twtxt.txt> If, like me, you were hoping it would break when you leave the villages… it doesn’t.  All
+2019-09-10T06:21:16+01:00	@<catp https://mastodon.eads_pr/catp/twtxt.txt>… the way to GWR.
+2019-09-16T21:08:48+01:00	@<danni https://mastodon.eads_cs/danni/twtxt.txt> If you’re hoping to win /those/ arguments with Greek mythology and French you are 100%
+2019-09-16T21:08:48+01:00	@<danni https://mastodon.eads_cs/danni/twtxt.txt>… full win.
+2019-10-01T13:10:27+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> Likely I’m that rubber duck; Pete B was Principal, but I spat the p-type.  Call, or
+2019-10-01T13:10:27+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… Fri if you want a whiteboard session.
+2019-10-06T19:38:47+01:00	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt> Neither, am I.  However ``foliate`` or ``nov.el`` are both
+2019-10-06T19:38:47+01:00	@<mickey_pleasance https://mastodon.eads_cs/mickey_pleasance/twtxt.txt>… *amazing* readers.
+2019-10-22T12:04:01+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> Best. Title. Ever.  Show may not be for me, but the title… I might subscribe just to see
+2019-10-22T12:04:01+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… that every week.
+2019-10-31T20:38:11+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my
+2019-10-31T20:38:11+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… response.  (I don’t speak emoji though)
+2019-10-31T21:26:22+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you
+2019-10-31T21:26:22+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… don’t get to over the weekend.
+2019-11-12T12:40:01+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten the backend from scratch in nim.  Take it or don’t, I just
+2019-11-12T12:40:01+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… wanted to try optimisation at extremes.
+2019-11-12T14:19:55+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t
+2019-11-12T14:19:55+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… budge; cf various GH issues.
+2019-11-14T19:19:10+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> I’ve rewritten it *again*; rust this time.  Largely mechanical, needs
+2019-11-14T19:19:10+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… sponge bath.  Far better deploy, and quicker again.
+2019-11-14T19:54:30+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> SCT has been been killed, I’m without a tier-1 [again].  It is either
+2019-11-14T19:54:30+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… this or brain soup through atrophy ;)
+2019-11-24T07:19:58+00:00	*REMINDER*: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.
+2019-12-11T08:41:27+00:00	I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]
+2019-12-13T13:13:08+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt> NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don’t
+2019-12-13T13:13:08+00:00	@<big_macnamara https://mastodon.eads_cs/big_macnamara/twtxt.txt>… speak emoji.
+2019-12-31T20:50:54+00:00	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you
+2019-12-31T20:50:54+00:00	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… too!
+2020-01-02T07:05:43+00:00	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt> Yep, thanks!  No need to knock my French, but you’re right.  Have been enjoying
+2020-01-02T07:05:43+00:00	@<lauren https://mastodon.eads_fr/lauren/twtxt.txt>… epistolary format more and more lately
+2020-01-02T07:06:57+00:00	@<rafe https://mastodon.eads_cs/rafe/twtxt.txt> Give me a call when you/Ollie finalise travel details; OoO for next 4 days.
+2020-02-20T12:58:15+00:00	There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the
+2020-02-20T12:58:15+00:00	… effect.
+2020-02-23T21:21:07+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It is considered a safety issue in the spec, and the display receives a full core.
+2020-02-23T21:21:07+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… I’ve kept <5% for the moment.
+2020-02-23T21:21:26+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.
