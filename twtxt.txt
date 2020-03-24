@@ -162,3 +162,4 @@
 2020-02-23T21:21:07+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It is considered a safety issue in the spec, and the display receives a full core.
 2020-02-23T21:21:07+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… I’ve kept <5% for the moment.
 2020-02-23T21:21:26+00:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.
+2020-03-24T01:27:12+00:00	Friends, it is bugging me that I can’t see a useful way for me to contribute.  Ideas?

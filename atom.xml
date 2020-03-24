@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-02-23T21:21:26+00:00</updated>
+  <updated>2020-03-24T01:27:12+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Friends, it is bugging me that I can’t see a useful way for me to contribute.  Ideas?</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-03-24T01:27:12+00:00</id>
+    <updated>2020-03-24T01:27:12+00:00</updated>
+    <published>2020-03-24T01:27:12+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-03-24T01:27:12+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-03-24T01:27:12+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Friends, it is bugging me that I can&amp;#8217;t see a useful way for me to contribute.  Ideas?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-03-24T01:27:12+00:00&quot;&gt;Mar 24, 01:27&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@charoug@eads_cs Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-10-31T21:26:22+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-10-31T21:26:22+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-10-31T21:11:40+00:00&quot;&gt;Oct 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; Okay, yes then.  Tag me and I&amp;#8217;ll triage tonight, and beat on whatever you don&amp;#8217;t get to over the weekend.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-10-31T21:26:22+00:00&quot;&gt;Oct 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@big_macnamara@eads_cs Hmm, maybe.  I’m not immediately clear who you’re pushing, that’ll pin my response.  (I don’t speak emoji though)</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+00:00</id>
-    <updated>2019-10-31T20:38:11+00:00</updated>
-    <published>2019-10-31T20:38:11+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-10-31T20:38:11+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-10-31T20:38:11+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-10-31T17:09:42+00:00&quot;&gt;Oct 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Any chance of some help with aleph vote tech? We're already scaling badly one day in. &amp;#128499;&amp;#128293;&amp;#128658;&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; Hmm, maybe.  I&amp;#8217;m not immediately clear who you&amp;#8217;re pushing, that&amp;#8217;ll pin my response.  (I don&amp;#8217;t speak emoji though)&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-10-31T20:38:11+00:00&quot;&gt;Oct 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
