@@ -1038,5 +1038,16 @@
     {
         "text": "Friends, it is bugging me that I can’t see a useful way for me to contribute.  Ideas?",
         "timestamp": "2020-03-24T01:27:12+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs There is an in-progress list for our area on f-lan.  B'l and Ash are organising near you.",
+            "toot": {
+                "timestamp": "2020-03-24T08:17:45+00:00",
+                "user": "@lauren@eads_fr"
+            }
+        },
+        "text": "@lauren@eads_fr Thanks.  I see that promoting that OoB would be a good first move.  No idea it existed",
+        "timestamp": "2020-03-24T17:40:32+00:00"
     }
 ]
