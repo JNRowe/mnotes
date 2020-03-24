@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-03-24T17:41:00+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-03-24T17:41:00+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @chewy@eads_cs's post                                on                                <time datetime=\"2020-03-24T13:25:59+00:00\">Mar 24, 13:25</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> So: Keep safe first. Help others around you second. Clean up our quarantine app when you have time &#128521;</blockquote>                                                                                    <p class=\"e-content\"><em>@chewy@eads_cs</em> I&#8217;ve squished the top five bug reports this afternoon.  If you&#8217;d rather prioritise for my skills, the do so.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-03-24T17:41:00+00:00\">Mar 24, 17:41</time>                                            </p>                </article>",
+            "content_text": "@chewy@eads_cs I\u2019ve squished the top five bug reports this afternoon.  If you\u2019d rather prioritise for my skills, the do so.",
+            "date_published": "2020-03-24T17:41:00+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-03-24T17:41:00+00:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-03-24T17:40:32+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-03-24T17:40:32+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @lauren@eads_fr's post                                on                                <time datetime=\"2020-03-24T08:17:45+00:00\">Mar 24, 08:17</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> There is an in-progress list for our area on f-lan.  B'l and Ash are organising near you.</blockquote>                                                                                    <p class=\"e-content\"><em>@lauren@eads_fr</em> Thanks.  I see that promoting that <abbr title=\"Out of Band\">OoB</abbr> would be a good first move.  No idea it existed</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-03-24T17:40:32+00:00\">Mar 24, 17:40</time>                                            </p>                </article>",
             "content_text": "@lauren@eads_fr Thanks.  I see that promoting that OoB would be a good first move.  No idea it existed",
@@ -107,13 +114,6 @@
             "content_text": "@big_macnamara@eads_cs See nim\u2019s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won\u2019t budge; cf various GH issues.",
             "date_published": "2019-11-12T14:19:55+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-12T12:40:01+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> I&#8217;ve rewritten the backend from scratch in nim.  Take it or don&#8217;t, I just wanted to try optimisation at extremes.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-12T12:40:01+00:00\">Nov 2019</time>                                            </p>                </article>",
-            "content_text": "@big_macnamara@eads_cs I\u2019ve rewritten the backend from scratch in nim.  Take it or don\u2019t, I just wanted to try optimisation at extremes.",
-            "date_published": "2019-11-12T12:40:01+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+00:00"
         }
     ]
 }
