@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-03-24T01:27:12+00:00</updated>
+  <updated>2020-03-24T17:40:32+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@lauren@eads_fr Thanks.  I see that promoting that OoB would be a good first move.  No idea it existed</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-03-24T17:40:32+00:00</id>
+    <updated>2020-03-24T17:40:32+00:00</updated>
+    <published>2020-03-24T17:40:32+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-03-24T17:40:32+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-03-24T17:40:32+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @lauren@eads_fr's post                                on                                &lt;time datetime=&quot;2020-03-24T08:17:45+00:00&quot;&gt;Mar 24, 08:17&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; There is an in-progress list for our area on f-lan.  B'l and Ash are organising near you.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@lauren@eads_fr&lt;/em&gt; Thanks.  I see that promoting that &lt;abbr title=&quot;Out of Band&quot;&gt;OoB&lt;/abbr&gt; would be a good first move.  No idea it existed&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-03-24T17:40:32+00:00&quot;&gt;Mar 24, 17:40&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Friends, it is bugging me that I can’t see a useful way for me to contribute.  Ideas?</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-03-24T01:27:12+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-11-12T12:40:01+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-11-12T12:40:01+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-12T12:40:01+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; I&amp;#8217;ve rewritten the backend from scratch in nim.  Take it or don&amp;#8217;t, I just wanted to try optimisation at extremes.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-12T12:40:01+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@big_macnamara@eads_cs Okay, yes then.  Tag me and I’ll triage tonight, and beat on whatever you don’t get to over the weekend.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+00:00</id>
-    <updated>2019-10-31T21:26:22+00:00</updated>
-    <published>2019-10-31T21:26:22+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-10-31T21:26:22+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-10-31T21:26:22+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-10-31T21:11:40+00:00&quot;&gt;Oct 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Small l with an option or Lab/LD with a TV. Perhaps even an indy if they're verified by LIAM or equiv.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; Okay, yes then.  Tag me and I&amp;#8217;ll triage tonight, and beat on whatever you don&amp;#8217;t get to over the weekend.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-10-31T21:26:22+00:00&quot;&gt;Oct 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
