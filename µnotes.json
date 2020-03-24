@@ -1049,5 +1049,16 @@
         },
         "text": "@lauren@eads_fr Thanks.  I see that promoting that OoB would be a good first move.  No idea it existed",
         "timestamp": "2020-03-24T17:40:32+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs So: Keep safe first. Help others around you second. Clean up our quarantine app when you have time 😉",
+            "toot": {
+                "timestamp": "2020-03-24T13:25:59+00:00",
+                "user": "@chewy@eads_cs"
+            }
+        },
+        "text": "@chewy@eads_cs I’ve squished the top five bug reports this afternoon.  If you’d rather prioritise for my skills, then do so.",
+        "timestamp": "2020-03-24T17:41:00+00:00"
     }
 ]
