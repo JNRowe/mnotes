@@ -1060,5 +1060,16 @@
         },
         "text": "@chewy@eads_cs I’ve squished the top five bug reports this afternoon.  If you’d rather prioritise for my skills, then do so.",
         "timestamp": "2020-03-24T17:41:00+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@phpy@eads_cs Milly sleeping at hospital, Indira sleeping in lounge, rest of family in lockdown 6000 km away.",
+            "toot": {
+                "timestamp": "2020-03-29T14:06:38+02:00",
+                "user": "@dev_b@eads_cs"
+            }
+        },
+        "text": "@dev_b@eads_cs Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you’re all coping well!",
+        "timestamp": "2020-03-30T05:28:54+01:00"
     }
 ]
