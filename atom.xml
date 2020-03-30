@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-03-24T17:41:00+00:00</updated>
+  <updated>2020-03-30T05:28:54+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@dev_b@eads_cs Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you’re all coping well!</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-03-30T05:28:54+01:00</id>
+    <updated>2020-03-30T05:28:54+01:00</updated>
+    <published>2020-03-30T05:28:54+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-03-30T05:28:54+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-03-30T05:28:54+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @dev_b@eads_cs's post                                on                                &lt;time datetime=&quot;2020-03-29T14:06:38+02:00&quot;&gt;Mar 29, 14:06&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@phpy@eads_cs&lt;/em&gt; Milly sleeping at hospital, Indira sleeping in lounge, rest of family in lockdown 6000 km away.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@dev_b@eads_cs&lt;/em&gt; Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you&amp;#8217;re all coping well!&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-03-30T05:28:54+01:00&quot;&gt;Mar 30, 05:28&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@chewy@eads_cs I’ve squished the top five bug reports this afternoon.  If you’d rather prioritise for my skills, the do so.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-03-24T17:41:00+00:00</id>
@@ -124,14 +132,6 @@
     <published>2019-11-14T19:19:10+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-14T19:19:10+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-11-12T13:57:38+00:00&quot;&gt;Nov 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; I&amp;#8217;ve rewritten it &lt;strong&gt;again&lt;/strong&gt;; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-14T19:19:10+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@big_macnamara@eads_cs See nim’s ``--dynlibOverrideAll``/``--passl``.  Sadly, upstream won’t budge; cf various GH issues.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+00:00</id>
-    <updated>2019-11-12T14:19:55+00:00</updated>
-    <published>2019-11-12T14:19:55+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-11-12T14:19:55+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-12T14:19:55+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-11-12T13:57:38+00:00&quot;&gt;Nov 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; See nim&amp;#8217;s &lt;code&gt;--dynlibOverrideAll&lt;/code&gt;/&lt;code&gt;--passl&lt;/code&gt;.  Sadly, upstream won&amp;#8217;t budge; cf various GH issues.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-12T14:19:55+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
