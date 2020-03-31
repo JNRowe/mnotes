@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-03-31T08:22:10+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-03-31T08:22:10+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @charoug@eads_cs's post                                on                                <time datetime=\"2020-03-31T07:00:19+01:00\">Mar 31, 07:00</time>:                            </p>                            <blockquote>Out of fresh and dried fruit. Have some crystallised ginger, but unsure how to use it outside cake. Ideas?</blockquote>                                                                                    <p class=\"e-content\"><em>@charoug@eads_cs</em> Chopped in breakfast oats is <strong>amazing</strong>, or US-style pancakes with a little honey drizzle.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-03-31T08:22:10+01:00\">Mar 31, 08:22</time>                                            </p>                </article>",
+            "content_text": "@charoug@eads_cs Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey drizzle.",
+            "date_published": "2020-03-31T08:22:10+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-03-31T08:22:10+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-03-30T05:28:54+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-03-30T05:28:54+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @dev_b@eads_cs's post                                on                                <time datetime=\"2020-03-29T14:06:38+02:00\">Mar 29, 14:06</time>:                            </p>                            <blockquote><em>@phpy@eads_cs</em> Milly sleeping at hospital, Indira sleeping in lounge, rest of family in lockdown 6000 km away.</blockquote>                                                                                    <p class=\"e-content\"><em>@dev_b@eads_cs</em> Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you&#8217;re all coping well!</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-03-30T05:28:54+01:00\">Mar 30, 05:28</time>                                            </p>                </article>",
             "content_text": "@dev_b@eads_cs Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you\u2019re all coping well!",
@@ -107,13 +114,6 @@
             "content_text": "@big_macnamara@eads_cs SCT has been been killed, I\u2019m without a tier-1 [again].  It is either this or brain soup through atrophy ;)",
             "date_published": "2019-11-14T19:54:30+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-11-14T19:19:10+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-11-12T13:57:38+00:00\">Nov 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> I&#8217;ve rewritten it <strong>again</strong>; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-11-14T19:19:10+00:00\">Nov 2019</time>                                            </p>                </article>",
-            "content_text": "@big_macnamara@eads_cs I\u2019ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.",
-            "date_published": "2019-11-14T19:19:10+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00"
         }
     ]
 }

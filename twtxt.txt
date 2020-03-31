@@ -168,3 +168,5 @@
 2020-03-24T17:41:00+00:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… skills, the do so.
 2020-03-30T05:28:54+01:00	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt> Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news,
 2020-03-30T05:28:54+01:00	@<dev_b https://mastodon.eads_cs/dev_b/twtxt.txt>… hope you’re all coping well!
+2020-03-31T08:22:10+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt> Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey
+2020-03-31T08:22:10+01:00	@<charoug https://mastodon.eads_cs/charoug/twtxt.txt>… drizzle.

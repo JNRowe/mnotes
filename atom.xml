@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-03-30T05:28:54+01:00</updated>
+  <updated>2020-03-31T08:22:10+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@charoug@eads_cs Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey drizzle.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-03-31T08:22:10+01:00</id>
+    <updated>2020-03-31T08:22:10+01:00</updated>
+    <published>2020-03-31T08:22:10+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-03-31T08:22:10+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-03-31T08:22:10+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @charoug@eads_cs's post                                on                                &lt;time datetime=&quot;2020-03-31T07:00:19+01:00&quot;&gt;Mar 31, 07:00&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Out of fresh and dried fruit. Have some crystallised ginger, but unsure how to use it outside cake. Ideas?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@charoug@eads_cs&lt;/em&gt; Chopped in breakfast oats is &lt;strong&gt;amazing&lt;/strong&gt;, or US-style pancakes with a little honey drizzle.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-03-31T08:22:10+01:00&quot;&gt;Mar 31, 08:22&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@dev_b@eads_cs Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you’re all coping well!</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-03-30T05:28:54+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-11-14T19:54:30+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-14T19:54:30+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-11-14T19:44:08+00:00&quot;&gt;Nov 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; SCT has been been killed, I&amp;#8217;m without a tier-1 [again].  It is either this or brain soup through atrophy ;)&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-14T19:54:30+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@big_macnamara@eads_cs I’ve rewritten it *again*; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00</id>
-    <updated>2019-11-14T19:19:10+00:00</updated>
-    <published>2019-11-14T19:19:10+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-11-14T19:19:10+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-14T19:19:10+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-11-12T13:57:38+00:00&quot;&gt;Nov 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Jeez, a full run of FE testsuite is 0.3 seconds instead of 42. Amazing, but struggling with deploy story with deps&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; I&amp;#8217;ve rewritten it &lt;strong&gt;again&lt;/strong&gt;; rust this time.  Largely mechanical, needs sponge bath.  Far better deploy, and quicker again.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-14T19:19:10+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
