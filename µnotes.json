@@ -1082,5 +1082,16 @@
         },
         "text": "@charoug@eads_cs Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey drizzle.",
         "timestamp": "2020-03-31T08:22:10+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs hmm, pancakes it is then. Recipe me",
+            "toot": {
+                "timestamp": "2020-03-31T08:34:20+01:00",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs ~60g SR flour, 1 egg, ~125ml milk; whisk; add ginger pieces; spoon drop to pan; flip when set. Under 5 mins",
+        "timestamp": "2020-03-31T08:41:09+01:00"
     }
 ]
