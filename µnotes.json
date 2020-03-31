@@ -1071,5 +1071,16 @@
         },
         "text": "@dev_b@eads_cs Okay, you win.  Had been just thinking about you guys after seeing Hesse on the news, hope you’re all coping well!",
         "timestamp": "2020-03-30T05:28:54+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "Out of fresh and dried fruit. Have some crystallised ginger, but unsure how to use it outside cake. Ideas?",
+            "toot": {
+                "timestamp": "2020-03-31T07:00:19+01:00",
+                "user": "@charoug@eads_cs"
+            }
+        },
+        "text": "@charoug@eads_cs Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey drizzle.",
+        "timestamp": "2020-03-31T08:22:10+01:00"
     }
 ]
