@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-03-31T08:22:10+01:00</updated>
+  <updated>2020-03-31T08:41:09+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@charoug@eads_cs ~60g SR flour, 1 egg, ~125ml milk; whisk; add ginger pieces; spoon drop to pan; flip when set. Under 5 mins</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-03-31T08:41:09+01:00</id>
+    <updated>2020-03-31T08:41:09+01:00</updated>
+    <published>2020-03-31T08:41:09+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-03-31T08:41:09+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-03-31T08:41:09+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @charoug@eads_cs's post                                on                                &lt;time datetime=&quot;2020-03-31T08:34:20+01:00&quot;&gt;Mar 31, 08:34&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; hmm, pancakes it is then. Recipe me&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@charoug@eads_cs&lt;/em&gt; ~60g SR flour, 1 egg, ~125ml milk; whisk; add ginger pieces; spoon drop to pan; flip when set. Under 5 mins&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-03-31T08:41:09+01:00&quot;&gt;Mar 31, 08:41&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@charoug@eads_cs Chopped in breakfast oats is *amazing*, or US-style pancakes with a little honey drizzle.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-03-31T08:22:10+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-11-24T07:19:58+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-11-24T07:19:58+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-24T07:19:58+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;&lt;strong&gt;REMINDER&lt;/strong&gt;: Planning to attend our Winterval party?  Sign the wiki if you want your contribution to be donated to a charity.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-24T07:19:58+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@big_macnamara@eads_cs SCT has been been killed, I’m without a tier-1 [again].  It is either this or brain soup through atrophy ;)</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00</id>
-    <updated>2019-11-14T19:54:30+00:00</updated>
-    <published>2019-11-14T19:54:30+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-11-14T19:54:30+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-11-14T19:54:30+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-11-14T19:44:08+00:00&quot;&gt;Nov 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Thanks, I'll take it. nim stuff was doing my head in, even the arg parser is awful. How you finding the time for this?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; SCT has been been killed, I&amp;#8217;m without a tier-1 [again].  It is either this or brain soup through atrophy ;)&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-11-14T19:54:30+00:00&quot;&gt;Nov 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
