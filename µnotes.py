@@ -27,7 +27,7 @@ def tag(name, attribs=None, text=r'\1'):
 
 with open('data/abbrevs.dat') as f:
     ABBREVS = [l.strip() for l in f]
-_ABBRREVISE = lambda s: ''.join([s[0] for s in s.split()])  # NOQA
+_ABBRREVISE = lambda s: ''.join([s[0] for s in s.replace('-', ' ').split()])  # NOQA
 ABBREVS = {re.compile(r'\b%s\b' % _ABBRREVISE(s)):
            tag('abbr', {'title': html.escape(s, True)}, _ABBRREVISE(s))
            for s in ABBREVS}
