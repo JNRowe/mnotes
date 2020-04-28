@@ -1093,5 +1093,24 @@
         },
         "text": "@charoug@eads_cs ~60g SR flour, 1 egg, ~125ml milk; whisk; add ginger pieces; spoon drop to pan; flip when set. Under 5 mins",
         "timestamp": "2020-03-31T08:41:09+01:00"
+    },
+    {
+        "media": {
+            "comment": "Nerd Sniping",
+            "file": "nerd_sniping.png",
+            "link": "https://xkcd.com/356/"
+        },
+        "references": [
+            {
+                "title": "Simple Respiratory Protection — Evaluation of the Filtration Performance of Cloth Masks and Common Fabric Materials Against 20–1000 nm Size Particles",
+                "url": "https://academic.oup.com/annweh/article/54/7/789/202744"
+            },
+            {
+                "title": "Antimony",
+                "url": "http://www.mattkeeter.com/projects/antimony/3/images/app.png"
+            }
+        ],
+        "text": "Very definition of nerd sniping must be: Noodling on sewing a custom-fit face mask, and spending twos hours in material research and CAD",
+        "timestamp": "2020-04-28T20:45:07+01:00"
     }
 ]
