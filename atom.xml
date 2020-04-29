@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-04-28T20:45:07+01:00</updated>
+  <updated>2020-04-29T07:11:26+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@leonb@eads_cs Materials, yeah.  Skills, ish.  I can hand stitch cleanly, and use a machine fairly well.  Odd skills FTW</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-04-29T07:11:26+01:00</id>
+    <updated>2020-04-29T07:11:26+01:00</updated>
+    <published>2020-04-29T07:11:26+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-04-29T07:11:26+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-04-29T07:11:26+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @leonb@eads_cs's post                                on                                &lt;time datetime=&quot;2020-04-28T22:13:27+01:00&quot;&gt;Apr 28, 22:13&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Hmm, do you have materials and sewing experience? Didn't know that. Awesome.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@leonb@eads_cs&lt;/em&gt; Materials, yeah.  Skills, ish.  I can hand stitch cleanly, and use a machine fairly well.  Odd skills FTW&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-04-29T07:11:26+01:00&quot;&gt;Apr 29, 07:11&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Very definition of nerd sniping must be: Noodling on sewing a custom-fit face mask, and spending twos hours in material research and CAD</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-04-28T20:45:07+01:00</id>
@@ -124,14 +132,6 @@
     <published>2019-12-13T13:13:08+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-12-13T13:13:08+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2019-12-13T08:08:58+00:00&quot;&gt;Dec 2019&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Thanks for all your hard work, would have cost &lt;strong&gt;a whole heap more&lt;/strong&gt; without you. Just a shame it didn't work out &amp;#128540;&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don&amp;#8217;t speak emoji.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-12-13T13:13:08+00:00&quot;&gt;Dec 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">I’ve retired from our #aoc 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year’s early quit]</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+00:00</id>
-    <updated>2019-12-11T08:41:27+00:00</updated>
-    <published>2019-12-11T08:41:27+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2019-12-11T08:41:27+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2019-12-11T08:41:27+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&quot;#TS2018-12-15%2018:43:39+00:00&quot; class=&quot;u-in-reply-to&quot;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&quot;2018-12-15T18:43:39+00:00&quot;&gt;Dec 2018&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;I&amp;#8217;ve retired from our &lt;b&gt;#aoc&lt;/b&gt; 2019 competition, who will steal my fifth place on our leaderboard?  [yep, repost of last year&amp;#8217;s early quit]&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://jnrowe.github.io/articles/advent_of_code_2019.html&quot;&gt;                                        &lt;cite&gt;My first few days of AoC 2019&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://adventofcode.com/2019&quot;&gt;                                        &lt;cite&gt;Advent of Code 2019&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2019-12-11T08:41:27+00:00&quot;&gt;Dec 2019&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
