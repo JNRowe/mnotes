@@ -177,3 +177,5 @@
 2020-04-29T07:11:26+01:00	@<leonb https://mastodon.eads_cs/leonb/twtxt.txt>… Odd skills FTW
 2020-04-30T15:22:35+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> I taught you in part because I saw you were going to misalign a button, which would haunt
 2020-04-30T15:22:35+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… me ‘til death.
+2020-04-30T15:18:00+01:00	@<jGaffney https://mastodon.eads_cs/jGaffney/twtxt.txt> Nope, probably going to run a couple out later this week.  The research/templates
+2020-04-30T15:18:00+01:00	@<jGaffney https://mastodon.eads_cs/jGaffney/twtxt.txt>… are in JNRowe/fabric_mask.

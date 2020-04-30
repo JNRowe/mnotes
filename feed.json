@@ -11,8 +11,15 @@
     },
     "items": [
         {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:22:35+01:00",
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:18:00+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-04-30T15:22:35+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @chewy@eads_cs's post                                on                                <time datetime=\"2020-04-29T15:33:20+00:00\">Apr 29, 15:33</time>:                            </p>                            <blockquote><em>@leonb@eads_cs</em> <em>@JNRowe@eads_cs</em> taught me to sew, although perhaps to avoid having to do the work &#128513;</blockquote>                                                                                    <p class=\"e-content\"><em>@chewy@eads_cs</em> I taught you in part because I saw you were going to misalign a button, which would haunt me &#8216;til death.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-04-30T15:22:35+01:00\">Apr 30, 15:22</time>                                            </p>                </article>",
+            "content_text": "@jGaffney@eads_cs Nope, probably going to run a couple out later this week.  The research/templates are in JNRowe/fabric_mask.",
+            "date_published": "2020-04-30T15:18:00+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:18:00+01:00"
+        },
+        {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:22:35+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-04-30T15:18:00+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @jGaffney@eads_cs's post                                on                                <time datetime=\"2020-04-29T15:10:09+01:00\">Apr 29, 15:10</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Have you made any masks? Or more importantly are the mask masks available?</blockquote>                                                                                    <p class=\"e-content\"><em>@jGaffney@eads_cs</em> Nope, probably going to run a couple out later this week.  The research/templates are in JNRowe/fabric_mask.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-04-30T15:18:00+01:00\">Apr 30, 15:18</time>                                            </p>                </article>",
             "content_text": "@chewy@eads_cs I taught you in part because I saw you were going to misalign a button, which would haunt me \u2018til death.",
             "date_published": "2020-04-30T15:22:35+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:22:35+01:00"
@@ -108,13 +115,6 @@
             "content_text": "@lauren@eads_fr Yep, thanks!  No need to knock my French, but you\u2019re right.  Have been enjoying epistolary format more and more lately",
             "date_published": "2020-01-02T07:05:43+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-01-02T07:05:43+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-31T20:50:54+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @lauren@eads_fr's post                                on                                <time datetime=\"2019-12-31T19:54:13+00:00\">Dec 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Didn't forget yesterday, had no service.  Hope you're well.  Happy New Year! &#129346;&#127878;&#128536;</blockquote>                                                                                    <p class=\"e-content\"><em>@lauren@eads_fr</em> Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-31T20:50:54+00:00\">Dec 2019</time>                                            </p>                </article>",
-            "content_text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
-            "date_published": "2019-12-31T20:50:54+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00"
         }
     ]
 }
