@@ -1134,5 +1134,16 @@
         },
         "text": "@chewy@eads_cs I taught you in part because I saw you were going to misalign a button, which would haunt me ‘til death.",
         "timestamp": "2020-04-30T15:18:00+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs Have you made any masks? Or more importantly are the mask masks available?",
+            "toot": {
+                "timestamp": "2020-04-29T15:10:09+01:00",
+                "user": "@jGaffney@eads_cs"
+            }
+        },
+        "text": "@jGaffney@eads_cs Nope, probably going to run a couple out later this week.  The research/templates are in JNRowe/fabric_mask.",
+        "timestamp": "2020-04-30T15:22:35+01:00"
     }
 ]
