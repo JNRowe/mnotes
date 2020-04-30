@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:22:35+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-04-30T15:22:35+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @chewy@eads_cs's post                                on                                <time datetime=\"2020-04-29T15:33:20+00:00\">Apr 29, 15:33</time>:                            </p>                            <blockquote><em>@leonb@eads_cs</em> <em>@JNRowe@eads_cs</em> taught me to sew, although perhaps to avoid having to do the work &#128513;</blockquote>                                                                                    <p class=\"e-content\"><em>@chewy@eads_cs</em> I taught you in part because I saw you were going to misalign a button, which would haunt me &#8216;til death.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-04-30T15:22:35+01:00\">Apr 30, 15:22</time>                                            </p>                </article>",
+            "content_text": "@chewy@eads_cs I taught you in part because I saw you were going to misalign a button, which would haunt me \u2018til death.",
+            "date_published": "2020-04-30T15:22:35+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-04-30T15:22:35+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-04-29T07:11:26+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-04-29T07:11:26+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @leonb@eads_cs's post                                on                                <time datetime=\"2020-04-28T22:13:27+01:00\">Apr 28, 22:13</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Hmm, do you have materials and sewing experience? Didn't know that. Awesome.</blockquote>                                                                                    <p class=\"e-content\"><em>@leonb@eads_cs</em> Materials, yeah.  Skills, ish.  I can hand stitch cleanly, and use a machine fairly well.  Odd skills FTW</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-04-29T07:11:26+01:00\">Apr 29, 07:11</time>                                            </p>                </article>",
             "content_text": "@leonb@eads_cs Materials, yeah.  Skills, ish.  I can hand stitch cleanly, and use a machine fairly well.  Odd skills FTW",
@@ -108,13 +115,6 @@
             "content_text": "@lauren@eads_fr Saw your Christmas market photos, really good.  Best wishes, and happy new year to you too!",
             "date_published": "2019-12-31T20:50:54+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2019-12-31T20:50:54+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2019-12-13T13:13:08+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @big_macnamara@eads_cs's post                                on                                <time datetime=\"2019-12-13T08:08:58+00:00\">Dec 2019</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Thanks for all your hard work, would have cost <strong>a whole heap more</strong> without you. Just a shame it didn't work out &#128540;</blockquote>                                                                                    <p class=\"e-content\"><em>@big_macnamara@eads_cs</em> NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don&#8217;t speak emoji.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2019-12-13T13:13:08+00:00\">Dec 2019</time>                                            </p>                </article>",
-            "content_text": "@big_macnamara@eads_cs NP, it was actually a lot of fun(and a good pre-AoC warmup).  Still don\u2019t speak emoji.",
-            "date_published": "2019-12-13T13:13:08+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2019-12-13T13:13:08+00:00"
         }
     ]
 }
