@@ -1123,5 +1123,16 @@
         },
         "text": "@leonb@eads_cs Materials, yeah.  Skills, ish.  I can hand stitch cleanly, and use a machine fairly well.  Odd skills FTW",
         "timestamp": "2020-04-29T07:11:26+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@leonb@eads_cs @JNRowe@eads_cs taught me to sew, although perhaps to avoid having to do the work 😁",
+            "toot": {
+                "timestamp": "2020-04-29T15:33:20+00:00",
+                "user": "@chewy@eads_cs"
+            }
+        },
+        "text": "@chewy@eads_cs I taught you in part because I saw you were going to misalign a button, which would haunt me ‘til death.",
+        "timestamp": "2020-04-30T15:18:00+01:00"
     }
 ]
