@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-06-13T16:05:40+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-13T16:05:40+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @leon@gwr's post                                on                                <time datetime=\"2020-06-13T08:08:03+01:00\">Jun 13, 08:08</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Do you have the clout to push through the branch renaming from watercooler chat? Not sure who does</blockquote>                                                                                    <p class=\"e-content\"><em>@leon@gwr</em> Probably, yeah.  Not for me to decide, but if a <strong>near</strong> consensus is reached I&#8217;ll force the changes through.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-13T16:05:40+01:00\">Jun 13, 16:05</time>                                            </p>                </article>",
+            "content_text": "@leon@gwr Probably, yeah.  Not for me to decide, but if a *near* consensus is reached I\u2019ll force the changes through.",
+            "date_published": "2020-06-13T16:05:40+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-06-13T16:05:40+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-06-02T08:39:56+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-02T08:39:56+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-02T08:39:56+01:00\">Jun 02, 08:39</time>                                            </p>                </article>",
             "content_text": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588",
@@ -108,13 +115,6 @@
             "content_text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I\u2019ve kept <5% for the moment.",
             "date_published": "2020-02-23T21:21:07+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-20T12:58:15+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">There was a time when a long persistence screen would be used for a <abbr title=\"Plan Position Indicator\">PPI</abbr> radar display; in the modern world I burn six hours generating the effect.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-20T12:58:15+00:00\">Feb 20, 12:58</time>                                            </p>                </article>",
-            "content_text": "There was a time when a long persistence screen would be used for a PPI radar display; in the modern world I burn six hours generating the effect.",
-            "date_published": "2020-02-20T12:58:15+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-20T12:58:15+00:00"
         }
     ]
 }
