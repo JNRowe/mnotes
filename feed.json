@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-06-16T15:10:03+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-16T15:10:03+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @JamesParker@eads_cs's post                                on                                <time datetime=\"2020-06-15T20:13:00+01:00\">Jun 15, 20:13</time>:                            </p>                            <blockquote>People on <b>#zwift</b> rocking pointy helmets now, I think I'm probably out at this point.</blockquote>                                                                                    <p class=\"e-content\"><em>@JamesParker@eads_cs</em> screenshot?  Love your cut-off.  &#163;2k build? okay.  Rancid garage? okay.  Whine deafness? okay.  Pointy helmet avatar? no.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-16T15:10:03+01:00\">Jun 16, 15:10</time>                                            </p>                </article>",
+            "content_text": "@JamesParker@eads_cs screenshot?  Love your cut-off.  \u00a32k build? okay.  Rancid garage? okay.  Whine deafness? okay.  Pointy helmet avatar? no.",
+            "date_published": "2020-06-16T15:10:03+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-06-16T15:10:03+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-06-13T16:05:40+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-13T16:05:40+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @leon@gwr's post                                on                                <time datetime=\"2020-06-13T08:08:03+01:00\">Jun 13, 08:08</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Do you have the clout to push through the branch renaming from watercooler chat? Not sure who does</blockquote>                                                                                    <p class=\"e-content\"><em>@leon@gwr</em> Probably, yeah.  Not for me to decide, but if a <strong>near</strong> consensus is reached I&#8217;ll force the changes through.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-13T16:05:40+01:00\">Jun 13, 16:05</time>                                            </p>                </article>",
             "content_text": "@leon@gwr Probably, yeah.  Not for me to decide, but if a *near* consensus is reached I\u2019ll force the changes through.",
@@ -108,13 +115,6 @@
             "content_text": "@charoug@eads_cs Yeah, thanks!  The spec literally says to match the previous display, no ifs or buts.",
             "date_published": "2020-02-23T21:21:26+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:26+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-02-23T21:21:07+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2020-02-21T10:50:10+00:00\">Feb 21, 10:50</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Just curious, what is the power/proc budget to make that work? Probably pretty expensive if this is the RSC</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> It is considered a safety issue in the spec, and the display receives a full core.  I&#8217;ve kept &lt;5% for the moment.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-02-23T21:21:07+00:00\">Feb 23, 21:21</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs It is considered a safety issue in the spec, and the display receives a full core.  I\u2019ve kept <5% for the moment.",
-            "date_published": "2020-02-23T21:21:07+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-02-23T21:21:07+00:00"
         }
     ]
 }

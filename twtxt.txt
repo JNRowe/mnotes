@@ -184,3 +184,5 @@
 2020-06-02T08:39:56+01:00	████████████████████████████████████████
 2020-06-13T16:05:40+01:00	@<leon https://mastodon.gwr/leon/twtxt.txt> Probably, yeah.  Not for me to decide, but if a *near* consensus is reached I’ll force the
 2020-06-13T16:05:40+01:00	@<leon https://mastodon.gwr/leon/twtxt.txt>… changes through.
+2020-06-16T15:10:03+01:00	@<JamesParker https://mastodon.eads_cs/JamesParker/twtxt.txt> screenshot?  Love your cut-off.  £2k build? okay.  Rancid garage? okay.
+2020-06-16T15:10:03+01:00	@<JamesParker https://mastodon.eads_cs/JamesParker/twtxt.txt>… Whine deafness? okay.  Pointy helmet avatar? no.
