@@ -1251,5 +1251,26 @@
         },
         "text": "@MissLB@eads_cs And you would have won the office.",
         "timestamp": "2020-06-30T08:55:21+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "I love Python's context managers, but three deep they're indentation is painful.  #findbalance",
+            "toot": {
+                "timestamp": "2020-07-05T15:53:54+01:00",
+                "user": "@ant_bat@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "The ``with`` statement",
+                "url": "https://docs.python.org/3/reference/compound_stmts.html#the-with-statement"
+            },
+            {
+                "title": "The with statement",
+                "url": "https://docs.python.org/3/reference/compound_stmts.html#the-with-statement"
+            }
+        ],
+        "text": "@ant_bat@eads_cs you can ``with c1 as v1, c2 as v2, c3 as v3:`` since 3.1.  If that is cleaner given ``\\`` continuation is a Q for you",
+        "timestamp": "2020-07-06T09:30:41+01:00"
     }
 ]
