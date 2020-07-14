@@ -1304,5 +1304,16 @@
         },
         "text": "@sophs@eads_cs …and if you haven’t seen it watch it in Italian if possible.  Some humour depends on homonyms that won’t work in English dub.",
         "timestamp": "2020-07-07T19:33:42+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "vim's n and N search direction following a ? search is utterly maddening.  Why, just why?",
+            "toot": {
+                "timestamp": "2020-07-13T16:31:06+01:00",
+                "user": "@mat_k@eads_es"
+            }
+        },
+        "text": "@mat_k@eads_es Hmm, maybe I’m full Kool-Aid but I like relative n/N, cf using a map without rotating for N.  That said you can remap them, see `:h v:searchforward`",
+        "timestamp": "2020-07-14T06:47:17+01:00"
     }
 ]
