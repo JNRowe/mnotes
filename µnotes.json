@@ -1326,5 +1326,16 @@
         },
         "text": "@pauldi@eads_cs hmm, you’re to blame?  Why didn’t you admit that earlier?",
         "timestamp": "2020-07-17T21:57:24+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "was thinking \"how pretentious\" with your Montalbano in Italian tweet, but you're right. Ironmonger was a poor translation for a joke",
+            "toot": {
+                "timestamp": "2020-07-24T11:23:43+01:00",
+                "user": "@sophs@eads_cs"
+            }
+        },
+        "text": "@sophs@eads_cs I actually can’t think of an appropriate English word, ferret in the “hunt with ferrets” sense.  However, who’d use that?",
+        "timestamp": "2020-07-27T15:49:55+01:00"
     }
 ]
