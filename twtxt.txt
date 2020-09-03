@@ -195,3 +195,17 @@
 2020-06-26T19:38:22+01:00	@<Kat https://mastodon.eads_cs/Kat/twtxt.txt>… to censure*]
 2020-06-27T22:15:03+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> I realise that, but…  I’ve done it myself, and I’m *far* happier for it.  The option
 2020-06-27T22:15:03+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… needs surfacing.
+2020-06-30T08:55:21+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> And you would have won the office.
+2020-07-06T09:30:41+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt> you can ``with c1 as v1, c2 as v2, c3 as v3:`` since 3.1.  If that is cleaner given
+2020-07-06T09:30:41+01:00	@<ant_bat https://mastodon.eads_cs/ant_bat/twtxt.txt>… ``\`` continuation is a Q for you
+2020-07-07T18:54:47+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt> seen Il giovane Montalbano?  Great origin story.  Incredible casting for all, incl
+2020-07-07T18:54:47+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… Catarella.  /ht @<rai_chol https://mastodon.eads_fr/rai_chol/twtxt.txt>’s Mum
+2020-07-07T19:33:42+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt> …and if you haven’t seen it watch it in Italian if possible.  Some humour depends on
+2020-07-07T19:33:42+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… homonyms that won’t work in English dub.
+2020-07-14T06:47:17+01:00	@<mat_k https://mastodon.eads_es/mat_k/twtxt.txt> Hmm, maybe I’m full Kool-Aid but I like relative n/N, cf using a map without rotating for
+2020-07-14T06:47:17+01:00	@<mat_k https://mastodon.eads_es/mat_k/twtxt.txt>… N.  That said you can remap them, see `:h v:searchforward`
+2020-07-17T21:57:24+01:00	@<pauldi https://mastodon.eads_cs/pauldi/twtxt.txt> hmm, you’re to blame?  Why didn’t you admit that earlier?
+2020-07-27T15:49:55+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt> I actually can’t think of an appropriate English word, ferret in the “hunt with ferrets”
+2020-07-27T15:49:55+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… sense.  However, who’d use that?
+2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> At some point you simply have to wonder if it simultaneously counts as both bread *AND*
+2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… circuses.
