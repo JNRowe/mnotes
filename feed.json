@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-10-07T07:39:31+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-10-07T07:39:31+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-10-07T07:39:31+01:00\">Oct 07, 07:39</time>                                            </p>                </article>",
+            "content_text": "Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.",
+            "date_published": "2020-10-07T07:39:31+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-10-07T07:39:31+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-08-20T19:09:49+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-08-20T19:09:49+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @chewy@eads_cs's post                                on                                <time datetime=\"2020-08-20T17:45:37+01:00\">Aug 20, 17:45</time>:                            </p>                            <blockquote>Haven't been out for this Eat Out thingy, but <strong>loads</strong> are. I'm surprised at how cheap the nudge is for many. Facile moves.</blockquote>                                                                                    <p class=\"e-content\"><em>@chewy@eads_cs</em> At some point you simply have to wonder if it simultaneously counts as both bread <strong>AND</strong> circuses.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-08-20T19:09:49+01:00\">Aug 20, 19:09</time>                                            </p>                </article>",
             "content_text": "@chewy@eads_cs At some point you simply have to wonder if it simultaneously counts as both bread *AND* circuses.",
@@ -107,13 +114,6 @@
             "content_text": "@JamesParker@eads_cs screenshot?  Love your cut-off.  \u00a32k build? okay.  Rancid garage? okay.  Whine deafness? okay.  Pointy helmet avatar? no.",
             "date_published": "2020-06-16T15:10:03+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-06-16T15:10:03+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-06-13T16:05:40+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-13T16:05:40+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @leon@gwr's post                                on                                <time datetime=\"2020-06-13T08:08:03+01:00\">Jun 13, 08:08</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Do you have the clout to push through the branch renaming from watercooler chat? Not sure who does</blockquote>                                                                                    <p class=\"e-content\"><em>@leon@gwr</em> Probably, yeah.  Not for me to decide, but if a <strong>near</strong> consensus is reached I&#8217;ll force the changes through.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-13T16:05:40+01:00\">Jun 13, 16:05</time>                                            </p>                </article>",
-            "content_text": "@leon@gwr Probably, yeah.  Not for me to decide, but if a *near* consensus is reached I\u2019ll force the changes through.",
-            "date_published": "2020-06-13T16:05:40+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-06-13T16:05:40+01:00"
         }
     ]
 }

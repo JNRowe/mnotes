@@ -209,3 +209,4 @@
 2020-07-27T15:49:55+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… sense.  However, who’d use that?
 2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> At some point you simply have to wonder if it simultaneously counts as both bread *AND*
 2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… circuses.
+2020-10-07T07:39:31+01:00	Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.
