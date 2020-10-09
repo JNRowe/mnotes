@@ -1348,5 +1348,16 @@
     {
         "text": "Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.",
         "timestamp": "2020-10-07T07:39:31+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs I've borrowed(eww awful UI word) our RLM, can you judge it as a reference for my son? Just a go/no-go is fine.",
+            "toot": {
+                "timestamp": "2020-10-05T16:30:25+01:00",
+                "user": "@tan_li@eads_cs"
+            }
+        },
+        "text": "@tan_li@eads_cs Really good book.  Churned through a chunk of it, and I’m very impressed.  May be a bit advanced for now, but give it a go.",
+        "timestamp": "2020-10-09T09:23:29+01:00"
     }
 ]
