@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-10-09T09:23:29+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-10-09T09:23:29+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @tan_li@eads_cs's post                                on                                <time datetime=\"2020-10-05T16:30:25+01:00\">Oct 05, 16:30</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> I've borrowed(eww awful UI word) our RLM, can you judge it as a reference for my son? Just a go/no-go is fine.</blockquote>                                                                                    <p class=\"e-content\"><em>@tan_li@eads_cs</em> Really good book.  Churned through a chunk of it, and I&#8217;m very impressed.  May be a bit advanced for now, but give it a go.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-10-09T09:23:29+01:00\">Oct 09, 09:23</time>                                            </p>                </article>",
+            "content_text": "@tan_li@eads_cs Really good book.  Churned through a chunk of it, and I\u2019m very impressed.  May be a bit advanced for now, but give it a go.",
+            "date_published": "2020-10-09T09:23:29+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-10-09T09:23:29+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-10-07T07:39:31+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-10-07T07:39:31+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-10-07T07:39:31+01:00\">Oct 07, 07:39</time>                                            </p>                </article>",
             "content_text": "Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.",
@@ -107,13 +114,6 @@
             "content_text": "#WWDitS series two is *somehow* better than series one.  Owl parties and Laszlo\u2019s bar & volleyball sideline being my highlights.",
             "date_published": "2020-06-21T22:27:16+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-06-21T22:27:16+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-06-16T15:10:03+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-06-16T15:10:03+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @JamesParker@eads_cs's post                                on                                <time datetime=\"2020-06-15T20:13:00+01:00\">Jun 15, 20:13</time>:                            </p>                            <blockquote>People on <b>#zwift</b> rocking pointy helmets now, I think I'm probably out at this point.</blockquote>                                                                                    <p class=\"e-content\"><em>@JamesParker@eads_cs</em> screenshot?  Love your cut-off.  &#163;2k build? okay.  Rancid garage? okay.  Whine deafness? okay.  Pointy helmet avatar? no.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-06-16T15:10:03+01:00\">Jun 16, 15:10</time>                                            </p>                </article>",
-            "content_text": "@JamesParker@eads_cs screenshot?  Love your cut-off.  \u00a32k build? okay.  Rancid garage? okay.  Whine deafness? okay.  Pointy helmet avatar? no.",
-            "date_published": "2020-06-16T15:10:03+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-06-16T15:10:03+01:00"
         }
     ]
 }

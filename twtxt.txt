@@ -210,3 +210,5 @@
 2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt> At some point you simply have to wonder if it simultaneously counts as both bread *AND*
 2020-08-20T19:09:49+01:00	@<chewy https://mastodon.eads_cs/chewy/twtxt.txt>… circuses.
 2020-10-07T07:39:31+01:00	Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.
+2020-10-09T09:23:29+01:00	@<tan_li https://mastodon.eads_cs/tan_li/twtxt.txt> Really good book.  Churned through a chunk of it, and I’m very impressed.  May be a bit
+2020-10-09T09:23:29+01:00	@<tan_li https://mastodon.eads_cs/tan_li/twtxt.txt>… advanced for now, but give it a go.
