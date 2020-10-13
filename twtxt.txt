@@ -214,3 +214,5 @@
 2020-10-09T09:23:29+01:00	@<tan_li https://mastodon.eads_cs/tan_li/twtxt.txt>… advanced for now, but give it a go.
 2020-10-13T11:10:59+01:00	Like most years, I nominate @<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> for acknowledgement on this day.  It is hard to imagine
 2020-10-13T11:10:59+01:00	… anyone who does more to help others.
+2020-10-13T12:04:00+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt> Yep.  One of the things I’ve missed the most this year is my in-person taming.  (*and*
+2020-10-13T12:04:00+01:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… the playful anti-prodding)
