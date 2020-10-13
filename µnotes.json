@@ -1359,5 +1359,15 @@
         },
         "text": "@tan_li@eads_cs Really good book.  Churned through a chunk of it, and I’m very impressed.  May be a bit advanced for now, but give it a go.",
         "timestamp": "2020-10-09T09:23:29+01:00"
+    },
+    {
+        "references": [
+            {
+                "title": "Ada Lovelace Day",
+                "url": "https://en.m.wikipedia.org/wiki/Ada_Lovelace_Day"
+            }
+        ],
+        "text": "Like most years, I nominate @MissLB@eads_cs for acknowledgement on this day.  It is hard to imagine anyone who does more to help others.",
+        "timestamp": "2020-10-13T11:10:59+01:00"
     }
 ]
