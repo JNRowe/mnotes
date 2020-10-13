@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-10-09T09:23:29+01:00</updated>
+  <updated>2020-10-13T11:10:59+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Like most years, I nominate @MissLB@eads_cs for acknowledgement on this day.  It is hard to imagine anyone who does more to help others.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-10-13T11:10:59+01:00</id>
+    <updated>2020-10-13T11:10:59+01:00</updated>
+    <published>2020-10-13T11:10:59+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-10-13T11:10:59+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-10-13T11:10:59+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Like most years, I nominate &lt;em&gt;@MissLB@eads_cs&lt;/em&gt; for acknowledgement on this day.  It is hard to imagine anyone who does more to help others.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Ada_Lovelace_Day&quot;&gt;                                        &lt;cite&gt;Ada Lovelace Day&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-10-13T11:10:59+01:00&quot;&gt;Oct 13, 11:10&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@tan_li@eads_cs Really good book.  Churned through a chunk of it, and I’m very impressed.  May be a bit advanced for now, but give it a go.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-10-09T09:23:29+01:00</id>
@@ -124,14 +132,6 @@
     <published>2020-06-21T23:01:09+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-06-21T23:01:09+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-06-21T23:01:09+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @big_macnamara@eads_cs's post                                on                                &lt;time datetime=&quot;2020-06-21T22:44:08+01:00&quot;&gt;Jun 21, 22:44&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; full agree. Wimble Don is an expert driller. Thanks for linking the theme tune too :D&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@big_macnamara@eads_cs&lt;/em&gt; East Bourne International is the pan-asian super soldier school.  Why they name it in English though, I don&amp;#8217;t know&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-06-21T23:01:09+01:00&quot;&gt;Jun 21, 23:01&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">#WWDitS series two is *somehow* better than series one.  Owl parties and Laszlo’s bar &amp; volleyball sideline being my highlights.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-06-21T22:27:16+01:00</id>
-    <updated>2020-06-21T22:27:16+01:00</updated>
-    <published>2020-06-21T22:27:16+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-06-21T22:27:16+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-06-21T22:27:16+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;&lt;b&gt;#WWDitS&lt;/b&gt; series two is &lt;strong&gt;somehow&lt;/strong&gt; better than series one.  Owl parties and Laszlo&amp;#8217;s bar &amp;amp; volleyball sideline being my highlights.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://www.bbc.co.uk/programmes/p08dlf7c&quot;&gt;                                        &lt;cite&gt;What We Do in the Shadows - series 2&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://m.youtube.com/watch?v=BJVhPVip0M4&quot;&gt;                                        &lt;cite&gt;You&amp;#8217;re Dead - Norma Tanega&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-06-21T22:27:16+01:00&quot;&gt;Jun 21, 22:27&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
