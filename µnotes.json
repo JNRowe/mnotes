@@ -1380,5 +1380,16 @@
         },
         "text": "@sophs@eads_cs Yep.  One of the things I’ve missed the most this year is my in-person taming.  (*and* the playful anti-prodding)",
         "timestamp": "2020-10-13T12:04:00+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "World Chase Tag ... something ... supermarket ... something something. #exhalation",
+            "toot": {
+                "timestamp": "2020-11-14T09:36:56+00:00",
+                "user": "@pmitty@eads_cs"
+            }
+        },
+        "text": "@pmitty@eads_cs No need to stick a fork in it.",
+        "timestamp": "2020-11-15T12:35:30+00:00"
     }
 ]
