@@ -1391,5 +1391,16 @@
         },
         "text": "@pmitty@eads_cs No need to stick a fork in it.",
         "timestamp": "2020-11-15T12:35:30+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "5am, about to watch Tyson. Feels like the nineties all over again. Need a Goldblum advert for lager, and a Kappa hat.",
+            "toot": {
+                "timestamp": "2020-11-29T04:58:04+00:00",
+                "user": "@leon@gwr"
+            }
+        },
+        "text": "@leon@gwr if it was worth twenty quid, what would you have paid for the Sonny Bill or Holyfield temptations?",
+        "timestamp": "2020-11-29T05:05:50+00:00"
     }
 ]
