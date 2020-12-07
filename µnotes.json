@@ -1413,5 +1413,16 @@
         },
         "text": "@leon@gwr Nah, pager duty for ReBus.  Tempted by a classic match on YT now though.",
         "timestamp": "2020-11-29T05:18:58+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "Only Connect night, yay! 2020 may be largely weird, but at least I can still reliably get zero points on OC.",
+            "toot": {
+                "timestamp": "2020-12-07T18:43:12+00:00",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "text": "@MissLB@eads_cs I posted a Missing Vowels generator to Scribe last Monday, if you’re looking to up your game…",
+        "timestamp": "2020-12-07T19:05:26+00:00"
     }
 ]
