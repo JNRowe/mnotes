@@ -222,3 +222,5 @@
 2020-11-29T05:18:58+00:00	@<leon https://mastodon.gwr/leon/twtxt.txt> Nah, pager duty for ReBus.  Tempted by a classic match on YT now though.
 2020-12-07T19:05:26+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> I posted a Missing Vowels generator to Scribe last Monday, if you’re looking to up your
 2020-12-07T19:05:26+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… game…
+2020-12-07T19:18:39+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It tugs random data from a Wikipedia list.  The source is linked at the bottom.  Just
+2020-12-07T19:18:39+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… missing VCM’s wit ;)
