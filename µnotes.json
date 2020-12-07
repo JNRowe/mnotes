@@ -1424,5 +1424,26 @@
         },
         "text": "@MissLB@eads_cs I posted a Missing Vowels generator to Scribe last Monday, if you’re looking to up your game…",
         "timestamp": "2020-12-07T19:05:26+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs 👏👏👏 That. Is. Awesome. 😘😘😘 How did you prep all the Qs?",
+            "toot": {
+                "timestamp": "2020-12-07T19:07:56+00:00",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Only Connect",
+                "url": "https://en.m.wikipedia.org/wiki/Only_Connect"
+            },
+            {
+                "title": "List of lists of lists",
+                "url": "https://en.m.wikipedia.org/wiki/List_of_lists_of_lists"
+            }
+        ],
+        "text": "@MissLB@eads_cs It tugs random data from a Wikipedia list.  The source is linked at the bottom.  Just missing VCM’s wit ;)",
+        "timestamp": "2020-12-07T19:18:39+00:00"
     }
 ]
