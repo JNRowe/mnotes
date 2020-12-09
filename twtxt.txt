@@ -224,3 +224,4 @@
 2020-12-07T19:05:26+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… game…
 2020-12-07T19:18:39+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> It tugs random data from a Wikipedia list.  The source is linked at the bottom.  Just
 2020-12-07T19:18:39+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… missing VCM’s wit ;)
+2020-12-09T19:56:14+00:00	”the Freeze Peach brigade trying to stop the right to protest” — Priyamvada Gopal.  Funnier *and* kinder than Freedom of Bigot.
