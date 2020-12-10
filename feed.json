@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2020-12-10T11:22:17+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2020-12-10T11:22:17+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @blaze@eads_cs's post                                on                                <time datetime=\"2020-12-10T07:19:24+00:00\">Dec 10, 07:19</time>:                            </p>                            <blockquote>This is not the time for \"I told you so\", the time for that was over four years ago... when I told you so.</blockquote>                                                                                    <p class=\"e-content\"><em>@blaze@eads_cs</em> Finally reached the stage where you no longer want to shift the argument?  Pull up a pew, it&#8217;s warm.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-12-10T11:22:17+00:00\">Dec 10, 11:22</time>                                            </p>                </article>",
+            "content_text": "@blaze@eads_cs Finally reached the stage where you no longer want to shift the argument?  Pull up a pew, it\u2019s warm.",
+            "date_published": "2020-12-10T11:22:17+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2020-12-10T11:22:17+00:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2020-12-09T21:29:57+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2020-12-09T21:29:57+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @terryp@eads_cs's post                                on                                <time datetime=\"2020-12-09T20:54:41+00:00\">Dec 09, 20:54</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> Great pinned tweet on the linked account. Suspect it is a magnet for abuse though :/</blockquote>                                                                                    <p class=\"e-content\"><em>@terryp@eads_cs</em> Given name, sex, education, and occupation it seems unlikely it would be possible to <em>increase</em> the red-top reactionary magnetism.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-12-09T21:29:57+00:00\">Dec 09, 21:29</time>                                            </p>                </article>",
             "content_text": "@terryp@eads_cs Given name, sex, education, and occupation it seems unlikely it would be possible to /increase/ the red-top reactionary magnetism.",
@@ -107,13 +114,6 @@
             "content_text": "@pauldi@eads_cs hmm, you\u2019re to blame?  Why didn\u2019t you admit that earlier?",
             "date_published": "2020-07-17T21:57:24+01:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-07-17T21:57:24+01:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-07-14T06:47:17+01:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-07-14T06:47:17+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @mat_k@eads_es's post                                on                                <time datetime=\"2020-07-13T16:31:06+01:00\">Jul 13, 16:31</time>:                            </p>                            <blockquote>vim's n and N search direction following a ? search is utterly maddening.  Why, just why?</blockquote>                                                                                    <p class=\"e-content\"><em>@mat_k@eads_es</em> Hmm, maybe I&#8217;m full Kool-Aid but I like relative n/N, cf using a map without rotating for N.  That said you can remap them, see `:h v:searchforward`</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-07-14T06:47:17+01:00\">Jul 14, 06:47</time>                                            </p>                </article>",
-            "content_text": "@mat_k@eads_es Hmm, maybe I\u2019m full Kool-Aid but I like relative n/N, cf using a map without rotating for N.  That said you can remap them, see `:h v:searchforward`",
-            "date_published": "2020-07-14T06:47:17+01:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-07-14T06:47:17+01:00"
         }
     ]
 }
