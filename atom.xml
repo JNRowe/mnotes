@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-12-10T11:22:17+00:00</updated>
+  <updated>2020-12-15T22:27:57+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@jason@eads_cs See the linked HN comment for a calm version of what you should say, or Pip’s furious mail to -comms for a less kind retort</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-12-15T22:27:57+00:00</id>
+    <updated>2020-12-15T22:27:57+00:00</updated>
+    <published>2020-12-15T22:27:57+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-12-15T22:27:57+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-15T22:27:57+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @jason@eads_cs's post                                on                                &lt;time datetime=&quot;2020-12-15T20:04:48+00:00&quot;&gt;Dec 15, 20:04&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@danni@eads_cs&lt;/em&gt; At least Christmas without elderly relatives means not having to explain why I don't call them any more.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@jason@eads_cs&lt;/em&gt; See the linked HN comment for a calm version of what you should say, or Pip&amp;#8217;s furious mail to -comms for a less kind retort&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://news.ycombinator.com/item?id=25430779&quot;&gt;                                        &lt;cite&gt;that's the day I'm deprived of my previous [rights]&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-15T22:27:57+00:00&quot;&gt;Dec 15, 22:27&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@blaze@eads_cs Finally reached the stage where you no longer want to shift the argument?  Pull up a pew, it’s warm.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-12-10T11:22:17+00:00</id>
@@ -124,14 +132,6 @@
     <published>2020-07-27T15:49:55+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-07-27T15:49:55+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-07-27T15:49:55+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @sophs@eads_cs's post                                on                                &lt;time datetime=&quot;2020-07-24T11:23:43+01:00&quot;&gt;Jul 24, 11:23&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;was thinking &quot;how pretentious&quot; with your Montalbano in Italian tweet, but you're right. Ironmonger was a poor translation for a joke&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@sophs@eads_cs&lt;/em&gt; I actually can&amp;#8217;t think of an appropriate English word, ferret in the &amp;#8220;hunt with ferrets&amp;#8221; sense.  However, who&amp;#8217;d use that?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-07-27T15:49:55+01:00&quot;&gt;Jul 27, 15:49&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@pauldi@eads_cs hmm, you’re to blame?  Why didn’t you admit that earlier?</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-07-17T21:57:24+01:00</id>
-    <updated>2020-07-17T21:57:24+01:00</updated>
-    <published>2020-07-17T21:57:24+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-07-17T21:57:24+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-07-17T21:57:24+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @pauldi@eads_cs's post                                on                                &lt;time datetime=&quot;2020-07-17T01:32:05+01:00&quot;&gt;Jul 17, 01:32&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Buddies, don't forget to register for your absentee ballot.  Even if, like me, you're living abroad remember that &lt;strong&gt;your president&lt;/strong&gt; represents &lt;strong&gt;you&lt;/strong&gt; to the world.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@pauldi@eads_cs&lt;/em&gt; hmm, you&amp;#8217;re to blame?  Why didn&amp;#8217;t you admit that earlier?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-07-17T21:57:24+01:00&quot;&gt;Jul 17, 21:57&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
