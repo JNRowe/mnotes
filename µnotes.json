@@ -1481,5 +1481,22 @@
         },
         "text": "@blaze@eads_cs Finally reached the stage where you no longer want to shift the argument?  Pull up a pew, it’s warm.",
         "timestamp": "2020-12-10T11:22:17+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@danni@eads_cs At least Christmas without elderly relatives means not having to explain why I don't call them any more.",
+            "toot": {
+                "timestamp": "2020-12-15T20:04:48+00:00",
+                "user": "@jason@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "that's the day I'm deprived of my previous [rights]",
+                "url": "https://news.ycombinator.com/item?id=25430779"
+            }
+        ],
+        "text": "@jason@eads_cs See the linked HN comment for a calm version of what you should say, or Pip’s furious mail to -comms for a less kind retort",
+        "timestamp": "2020-12-15T22:27:57+00:00"
     }
 ]
