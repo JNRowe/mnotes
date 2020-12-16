@@ -1498,5 +1498,19 @@
         ],
         "text": "@jason@eads_cs See the linked HN comment for a calm version of what you should say, or Pip’s furious mail to -comms for a less kind retort",
         "timestamp": "2020-12-15T22:27:57+00:00"
+    },
+    {
+        "references": [
+            {
+                "title": "My first few days of AoC 2020",
+                "url": "https://jnrowe.github.io/articles/advent_of_code_2020.html"
+            },
+            {
+                "title": "Advent of Code 2020",
+                "url": "https://adventofcode.com/2020"
+            }
+        ],
+        "text": "I’ve retired from our #aoc 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner’s kitty on the way out",
+        "timestamp": "2020-12-16T16:24:41+00:00"
     }
 ]
