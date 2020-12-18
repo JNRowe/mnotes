@@ -232,3 +232,5 @@
 2020-12-15T22:27:57+00:00	@<jason https://mastodon.eads_cs/jason/twtxt.txt> See the linked HN comment for a calm version of what you should say, or Pip’s furious
 2020-12-15T22:27:57+00:00	@<jason https://mastodon.eads_cs/jason/twtxt.txt>… mail to -comms for a less kind retort
 2020-12-16T16:24:41+00:00	I’ve retired from our #aoc 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner’s kitty on the way out
+2020-12-18T05:25:19+00:00	@<phil_t https://mastodon.eads_cs/phil_t/twtxt.txt> iff the ‘t’ stands for ‘The Mouth’.  Seriously though, must be a lot of full kit queues
+2020-12-18T05:25:19+00:00	@<phil_t https://mastodon.eads_cs/phil_t/twtxt.txt>… at Broadwater store right?

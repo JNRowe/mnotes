@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-12-16T16:24:41+00:00</updated>
+  <updated>2020-12-18T05:25:19+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@phil_t@eads_cs iff the ‘t’ stands for ‘The Mouth’.  Seriously though, must be a lot of full kit queues at Broadwater store right?</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-12-18T05:25:19+00:00</id>
+    <updated>2020-12-18T05:25:19+00:00</updated>
+    <published>2020-12-18T05:25:19+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-12-18T05:25:19+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-18T05:25:19+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @phil_t@eads_cs's post                                on                                &lt;time datetime=&quot;2020-12-17T22:08:29+00:00&quot;&gt;Dec 17, 22:08&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@ashley@eads_eng&lt;/em&gt; Okay, me too &amp;#9995; The staff at Greggs treat me like the market traders in Rocky, therefore Elite Sportsperson&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@phil_t@eads_cs&lt;/em&gt; iff the &amp;#8216;t&amp;#8217; stands for &amp;#8216;The Mouth&amp;#8217;.  Seriously though, must be a lot of full kit queues at Broadwater store right?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-18T05:25:19+00:00&quot;&gt;Dec 18, 05:25&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">I’ve retired from our #aoc 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner’s kitty on the way out</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-12-16T16:24:41+00:00</id>
@@ -124,14 +132,6 @@
     <published>2020-10-07T07:39:31+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-10-07T07:39:31+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-10-07T07:39:31+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Puzzle: In the book Real Life Maths there are over 600 pages, explain why people think maths is complicated.  Answers should be ~10k words.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-10-07T07:39:31+01:00&quot;&gt;Oct 07, 07:39&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@chewy@eads_cs At some point you simply have to wonder if it simultaneously counts as both bread *AND* circuses.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-08-20T19:09:49+01:00</id>
-    <updated>2020-08-20T19:09:49+01:00</updated>
-    <published>2020-08-20T19:09:49+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-08-20T19:09:49+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-08-20T19:09:49+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @chewy@eads_cs's post                                on                                &lt;time datetime=&quot;2020-08-20T17:45:37+01:00&quot;&gt;Aug 20, 17:45&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Haven't been out for this Eat Out thingy, but &lt;strong&gt;loads&lt;/strong&gt; are. I'm surprised at how cheap the nudge is for many. Facile moves.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@chewy@eads_cs&lt;/em&gt; At some point you simply have to wonder if it simultaneously counts as both bread &lt;strong&gt;AND&lt;/strong&gt; circuses.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-08-20T19:09:49+01:00&quot;&gt;Aug 20, 19:09&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
