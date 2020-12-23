@@ -234,3 +234,5 @@
 2020-12-16T16:24:41+00:00	I’ve retired from our #aoc 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner’s kitty on the way out
 2020-12-18T05:25:19+00:00	@<phil_t https://mastodon.eads_cs/phil_t/twtxt.txt> iff the ‘t’ stands for ‘The Mouth’.  Seriously though, must be a lot of full kit queues
 2020-12-18T05:25:19+00:00	@<phil_t https://mastodon.eads_cs/phil_t/twtxt.txt>… at Broadwater store right?
+2020-12-23T10:10:41+00:00	*REMINDER*: You can feel awkward remotely at our Winterval party tonight.  Pop in, click the button to make your charity donation, and
+2020-12-23T10:10:41+00:00	… leave.
