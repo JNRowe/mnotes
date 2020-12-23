@@ -1527,5 +1527,16 @@
     {
         "text": "*REMINDER*: You can feel awkward remotely at our Winterval party tonight.  Pop in, click the button to make your charity donation, and leave.",
         "timestamp": "2020-12-23T10:10:41+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs It is all well and good partying from home, but who owns a photocopier?",
+            "toot": {
+                "timestamp": "2020-12-23T10:43:48+00:00",
+                "user": "@sophs@eads_cs"
+            }
+        },
+        "text": "@sophs@eads_cs Well, I mean you’ve probably given people the idea to add “Photocopier for Sophie” to the list of charities now.",
+        "timestamp": "2020-12-23T10:51:02+00:00"
     }
 ]
