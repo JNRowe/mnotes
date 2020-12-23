@@ -1538,5 +1538,16 @@
         },
         "text": "@sophs@eads_cs Well, I mean you’ve probably given people the idea to add “Photocopier for Sophie” to the list of charities now.",
         "timestamp": "2020-12-23T10:51:02+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@sophs@eads_cs I approve this message.",
+            "toot": {
+                "timestamp": "2020-12-23T15:22:04+00:00",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "text": "@MissLB@eads_cs Not the response I expected.  Confinement has mellowed you… I don’t like it.",
+        "timestamp": "2020-12-23T16:06:14+00:00"
     }
 ]
