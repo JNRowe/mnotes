@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2020-12-23T10:10:41+00:00</updated>
+  <updated>2020-12-23T10:51:02+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@sophs@eads_cs Well, I mean you’ve probably given people the idea to add “Photocopier for Sophie” to the list of charities now.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2020-12-23T10:51:02+00:00</id>
+    <updated>2020-12-23T10:51:02+00:00</updated>
+    <published>2020-12-23T10:51:02+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2020-12-23T10:51:02+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-23T10:51:02+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @sophs@eads_cs's post                                on                                &lt;time datetime=&quot;2020-12-23T10:43:48+00:00&quot;&gt;Dec 23, 10:43&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; It is all well and good partying from home, but who owns a photocopier?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@sophs@eads_cs&lt;/em&gt; Well, I mean you&amp;#8217;ve probably given people the idea to add &amp;#8220;Photocopier for Sophie&amp;#8221; to the list of charities now.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-23T10:51:02+00:00&quot;&gt;Dec 23, 10:51&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">*REMINDER*: You can feel awkward remotely at our Winterval party tonight.  Pop in, click the button to make your charity donation, and leave.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2020-12-23T10:10:41+00:00</id>
@@ -124,14 +132,6 @@
     <published>2020-10-13T11:10:59+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-10-13T11:10:59+01:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-10-13T11:10:59+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Like most years, I nominate &lt;em&gt;@MissLB@eads_cs&lt;/em&gt; for acknowledgement on this day.  It is hard to imagine anyone who does more to help others.&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Ada_Lovelace_Day&quot;&gt;                                        &lt;cite&gt;Ada Lovelace Day&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-10-13T11:10:59+01:00&quot;&gt;Oct 13, 11:10&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@tan_li@eads_cs Really good book.  Churned through a chunk of it, and I’m very impressed.  May be a bit advanced for now, but give it a go.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-10-09T09:23:29+01:00</id>
-    <updated>2020-10-09T09:23:29+01:00</updated>
-    <published>2020-10-09T09:23:29+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-10-09T09:23:29+01:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-10-09T09:23:29+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @tan_li@eads_cs's post                                on                                &lt;time datetime=&quot;2020-10-05T16:30:25+01:00&quot;&gt;Oct 05, 16:30&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; I've borrowed(eww awful UI word) our RLM, can you judge it as a reference for my son? Just a go/no-go is fine.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@tan_li@eads_cs&lt;/em&gt; Really good book.  Churned through a chunk of it, and I&amp;#8217;m very impressed.  May be a bit advanced for now, but give it a go.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-10-09T09:23:29+01:00&quot;&gt;Oct 09, 09:23&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
