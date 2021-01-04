@@ -239,3 +239,5 @@
 2020-12-23T10:51:02+00:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt> Well, I mean you’ve probably given people the idea to add “Photocopier for Sophie” to the
 2020-12-23T10:51:02+00:00	@<sophs https://mastodon.eads_cs/sophs/twtxt.txt>… list of charities now.
 2020-12-23T16:06:14+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Not the response I expected.  Confinement has mellowed you… I don’t like it.
+2021-01-04T19:09:58+00:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt> Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway,
+2021-01-04T19:09:58+00:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt>… *that* site was killed by the registrar years ago.
