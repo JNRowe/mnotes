@@ -1549,5 +1549,16 @@
         },
         "text": "@MissLB@eads_cs Not the response I expected.  Confinement has mellowed you… I don’t like it.",
         "timestamp": "2020-12-23T16:06:14+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "With all these QR codes about, who isn't thinking about a huuuuuuuge stickering run?",
+            "toot": {
+                "timestamp": "2021-01-04T12:30:26+00:00",
+                "user": "@dan_man@eads_rpas"
+            }
+        },
+        "text": "@dan_man@eads_rpas Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, *that* site was killed by the registrar years ago.",
+        "timestamp": "2021-01-04T19:09:58+00:00"
     }
 ]
