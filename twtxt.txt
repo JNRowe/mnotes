@@ -241,3 +241,5 @@
 2020-12-23T16:06:14+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Not the response I expected.  Confinement has mellowed you… I don’t like it.
 2021-01-04T19:09:58+00:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt> Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway,
 2021-01-04T19:09:58+00:00	@<dan_man https://mastodon.eads_rpas/dan_man/twtxt.txt>… *that* site was killed by the registrar years ago.
+2021-01-06T19:08:04+00:00	@<ikahn https://mastodon.eads_rpas/ikahn/twtxt.txt> Signup is open to *anyone* who can nudge a current user; we’re ~20% GWR now.  I’ve
+2021-01-06T19:08:04+00:00	@<ikahn https://mastodon.eads_rpas/ikahn/twtxt.txt>… texted you a signup link for Kasia.
