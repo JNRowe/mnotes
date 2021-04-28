@@ -1585,5 +1585,16 @@
         ],
         "text": "Sometimes a book is *so* predictable it uses a literal Checkov Gun, or Cathy Gun I guess.  *However*, first half is great. ★★★✫✫",
         "timestamp": "2021-02-11T20:09:24+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "My new bike has arrived!!! Now if only I knew what all the bits in the boxes did. /cc @JNRowe@eads_cs",
+            "toot": {
+                "timestamp": "2021-04-28T19:09:06+01:00",
+                "user": "@ronni@eads_eng"
+            }
+        },
+        "text": "@ronni@eads_eng I can come over to build it, if you still want.  Or, come over to inspect it if you want to build it yourself.",
+        "timestamp": "2021-04-28T23:02:33+01:00"
     }
 ]
