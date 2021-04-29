@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2021-02-11T20:09:24+00:00</updated>
+  <updated>2021-04-28T23:02:33+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@ronni@eads_eng I can come over to build it, if you still want.  Or, come over to inspect it if you want to build it yourself.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2021-04-28T23:02:33+01:00</id>
+    <updated>2021-04-28T23:02:33+01:00</updated>
+    <published>2021-04-28T23:02:33+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2021-04-28T23:02:33+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2021-04-28T23:02:33+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @ronni@eads_eng's post                                on                                &lt;time datetime=&quot;2021-04-28T19:09:06+01:00&quot;&gt;Apr 28, 19:09&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;My new bike has arrived!!! Now if only I knew what all the bits in the boxes did. /cc &lt;em&gt;@JNRowe@eads_cs&lt;/em&gt;&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@ronni@eads_eng&lt;/em&gt; I can come over to build it, if you still want.  Or, come over to inspect it if you want to build it yourself.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2021-04-28T23:02:33+01:00&quot;&gt;Apr 28, 23:02&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Sometimes a book is *so* predictable it uses a literal Checkov Gun, or Cathy Gun I guess.  *However*, first half is great. ★★★✫✫</title>
     <id>https://jnrowe.github.io/mnotes/#TS2021-02-11T20:09:24+00:00</id>
@@ -124,14 +132,6 @@
     <published>2020-12-07T19:05:26+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-12-07T19:05:26+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-07T19:05:26+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @MissLB@eads_cs's post                                on                                &lt;time datetime=&quot;2020-12-07T18:43:12+00:00&quot;&gt;Dec 2020&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;Only Connect night, yay! 2020 may be largely weird, but at least I can still reliably get zero points on OC.&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; I posted a Missing Vowels generator to Scribe last Monday, if you&amp;#8217;re looking to up your game&amp;#8230;&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-07T19:05:26+00:00&quot;&gt;Dec 2020&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@leon@gwr Nah, pager duty for ReBus.  Tempted by a classic match on YT now though.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-11-29T05:18:58+00:00</id>
-    <updated>2020-11-29T05:18:58+00:00</updated>
-    <published>2020-11-29T05:18:58+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-11-29T05:18:58+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-11-29T05:18:58+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @leon@gwr's post                                on                                &lt;time datetime=&quot;2020-11-29T05:08:56+00:00&quot;&gt;Nov 2020&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; Easily double for both, SBW for thrills and H for memories. You up to watch it too?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@leon@gwr&lt;/em&gt; Nah, pager duty for ReBus.  Tempted by a classic match on YT now though.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-11-29T05:18:58+00:00&quot;&gt;Nov 2020&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 

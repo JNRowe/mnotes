@@ -244,3 +244,5 @@
 2021-01-06T19:08:04+00:00	@<ikahn https://mastodon.eads_rpas/ikahn/twtxt.txt> Signup is open to *anyone* who can nudge a current user; we’re ~20% GWR now.  I’ve
 2021-01-06T19:08:04+00:00	@<ikahn https://mastodon.eads_rpas/ikahn/twtxt.txt>… texted you a signup link for Kasia.
 2021-02-11T20:09:24+00:00	Sometimes a book is *so* predictable it uses a literal Checkov Gun, or Cathy Gun I guess.  *However*, first half is great. ★★★✫✫
+2021-04-28T23:02:33+01:00	@<ronni https://mastodon.eads_eng/ronni/twtxt.txt> I can come over to build it, if you still want.  Or, come over to inspect it if you want
+2021-04-28T23:02:33+01:00	@<ronni https://mastodon.eads_eng/ronni/twtxt.txt>… to build it yourself.
