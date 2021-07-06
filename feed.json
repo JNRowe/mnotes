@@ -11,6 +11,13 @@
     },
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2021-07-06T14:17:40+01:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2021-07-06T14:17:40+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Instead of simply complaining, I&#8217;m working on a <code>gvim</code> replacement for neovim.  Try it at JNRowe/igneous, and comment</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-07-06T14:17:40+01:00\">Jul 06, 14:17</time>                                            </p>                </article>",
+            "content_text": "Instead of simply complaining, I\u2019m working on a ``gvim`` replacement for neovim.  Try it at JNRowe/igneous, and comment",
+            "date_published": "2021-07-06T14:17:40+01:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2021-07-06T14:17:40+01:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2021-05-19T14:28:17+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2021-05-19T14:28:17+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Ready to move on, finally.  Admitting it publicly, so that I can be held accountable to e&#822;n&#822;e&#822;m&#822;i&#822;e&#822;s&#822; friends</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-05-19T14:28:17+01:00\">May 19, 14:28</time>                                            </p>                </article>",
             "content_text": "Ready to move on, finally.  Admitting it publicly, so that I can be held accountable to e\u0336n\u0336e\u0336m\u0336i\u0336e\u0336s\u0336 friends",
@@ -107,13 +114,6 @@
             "content_text": "\u201dthe Freeze Peach brigade trying to stop the right to protest\u201d \u2014 Priyamvada Gopal.  Funnier *and* kinder than Freedom of Bigot.",
             "date_published": "2020-12-09T19:56:14+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2020-12-09T19:56:14+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-12-07T19:18:39+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-12-07T19:18:39+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2020-12-07T19:07:56+00:00\">Dec 2020</time>:                            </p>                            <blockquote><em>@JNRowe@eads_cs</em> &#128079;&#128079;&#128079; That. Is. Awesome. &#128536;&#128536;&#128536; How did you prep all the Qs?</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> It tugs random data from a Wikipedia list.  The source is linked at the bottom.  Just missing VCM&#8217;s wit ;)</p>                                            <ul>                                                            <li>                                    <a href=\"https://en.m.wikipedia.org/wiki/Only_Connect\">                                        <cite>Only Connect</cite>                                    </a>                                </li>                                                            <li>                                    <a href=\"https://en.m.wikipedia.org/wiki/List_of_lists_of_lists\">                                        <cite>List of lists of lists</cite>                                    </a>                                </li>                                                    </ul>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-12-07T19:18:39+00:00\">Dec 2020</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs It tugs random data from a Wikipedia list.  The source is linked at the bottom.  Just missing VCM\u2019s wit ;)",
-            "date_published": "2020-12-07T19:18:39+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-12-07T19:18:39+00:00"
         }
     ]
 }
