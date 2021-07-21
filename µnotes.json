@@ -1604,5 +1604,23 @@
     {
         "text": "Instead of simply complaining, I’m working on a ``gvim`` replacement for neovim.  Try it at JNRowe/igneous, and comment",
         "timestamp": "2021-07-06T14:17:40+01:00"
+    },
+    {
+        "references": [
+            {
+                "title": "The Hundred",
+                "url": "https://www.thehundred.com/"
+            },
+            {
+                "title": "Lizelle Lee",
+                "url": "https://en.m.wikipedia.org/wiki/Lizelle_Lee"
+            },
+            {
+                "title": "Harmanpreet Kaur",
+                "url": "https://en.m.wikipedia.org/wiki/Harmanpreet_Kaur"
+            }
+        ],
+        "text": "The Hundred?  Three hours well spent, I’d say.  Lizelle Lee and Harmanpreet Kaur made it a joy to watch.",
+        "timestamp": "2021-07-21T21:08:59+01:00"
     }
 ]
