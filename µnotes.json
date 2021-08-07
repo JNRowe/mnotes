@@ -1639,5 +1639,16 @@
         ],
         "text": "… and the men’s game was good too!  Excellent Tailenders explanation: “it’s like cricket, but shorter!” 📏",
         "timestamp": "2021-07-22T21:59:47+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@JNRowe@eads_cs igneous wants my new neovim frontend, I take it you’re planning to maintain it? +1000, good work!",
+            "toot": {
+                "timestamp": "2021-08-06T09:34:50+01:00",
+                "user": "@cmack@eads_cs"
+            }
+        },
+        "text": "@cmack@eads_cs Hmm, dunno.  People seem to like it, but I may not be one of them.  Just doesn’t /feel/ right.",
+        "timestamp": "2021-08-07T18:20:15+01:00"
     }
 ]
