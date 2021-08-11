@@ -1661,5 +1661,16 @@
         },
         "text": "@MissLB@eads_cs Mine is ``gA``.  I use ``gi`` a lot and ``gI`` occasionally, but often want ``gA``.",
         "timestamp": "2021-08-11T14:00:38+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "@MissLB@eads_cs Yeah, been caught by unrepeatable :gr to add a filter when I've modified with :grepa. And why s to S isn't like x to X",
+            "toot": {
+                "timestamp": "2021-08-11T11:35:01+01:00",
+                "user": "@karl@eads_cs"
+            }
+        },
+        "text": "@karl@eads_cs FWIW, I override ``s``/``S`` and rely on ``c``/``C``.  Both are only special case ``c`` anyway.",
+        "timestamp": "2021-08-11T14:02:08+01:00"
     }
 ]
