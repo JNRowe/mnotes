@@ -1650,5 +1650,16 @@
         },
         "text": "@cmack@eads_cs Hmm, dunno.  People seem to like it, but I may not be one of them.  Just doesn’t /feel/ right.",
         "timestamp": "2021-08-07T18:20:15+01:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "why doesn't vim have :grepdel?  Like :grepa it would work on current list, but filter it.",
+            "toot": {
+                "timestamp": "2021-08-11T10:56:29+01:00",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "text": "@MissLB@eads_cs Mine is ``gA``.  I use ``gi`` a lot and ``gI`` occasionally, but often want ``gA``.",
+        "timestamp": "2021-08-11T14:00:38+01:00"
     }
 ]
