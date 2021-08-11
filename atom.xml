@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2021-08-11T14:00:38+01:00</updated>
+  <updated>2021-08-11T14:02:08+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@karl@eads_cs FWIW, I override ``s``/``S`` and rely on ``c``/``C``.  Both are only special case ``c`` anyway.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2021-08-11T14:02:08+01:00</id>
+    <updated>2021-08-11T14:02:08+01:00</updated>
+    <published>2021-08-11T14:02:08+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2021-08-11T14:02:08+01:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2021-08-11T14:02:08+01:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @karl@eads_cs's post                                on                                &lt;time datetime=&quot;2021-08-11T11:35:01+01:00&quot;&gt;Aug 11, 11:35&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@MissLB@eads_cs&lt;/em&gt; Yeah, been caught by unrepeatable :gr to add a filter when I've modified with :grepa. And why s to S isn't like x to X&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@karl@eads_cs&lt;/em&gt; FWIW, I override &lt;code&gt;s&lt;/code&gt;/&lt;code&gt;S&lt;/code&gt; and rely on &lt;code&gt;c&lt;/code&gt;/&lt;code&gt;C&lt;/code&gt;.  Both are only special case &lt;code&gt;c&lt;/code&gt; anyway.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2021-08-11T14:02:08+01:00&quot;&gt;Aug 11, 14:02&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">@MissLB@eads_cs Mine is ``gA``.  I use ``gi`` a lot and ``gI`` occasionally, but often want ``gA``.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2021-08-11T14:00:38+01:00</id>
@@ -124,14 +132,6 @@
     <published>2020-12-18T05:25:19+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2020-12-18T05:25:19+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-18T05:25:19+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @phil_t@eads_cs's post                                on                                &lt;time datetime=&quot;2020-12-17T22:08:29+00:00&quot;&gt;Dec 2020&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@ashley@eads_eng&lt;/em&gt; Okay, me too &amp;#9995; The staff at Greggs treat me like the market traders in Rocky, therefore Elite Sportsperson&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@phil_t@eads_cs&lt;/em&gt; iff the &amp;#8216;t&amp;#8217; stands for &amp;#8216;The Mouth&amp;#8217;.  Seriously though, must be a lot of full kit queues at Broadwater store right?&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-18T05:25:19+00:00&quot;&gt;Dec 2020&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">I’ve retired from our #aoc 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner’s kitty on the way out</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2020-12-16T16:24:41+00:00</id>
-    <updated>2020-12-16T16:24:41+00:00</updated>
-    <published>2020-12-16T16:24:41+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2020-12-16T16:24:41+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2020-12-16T16:24:41+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;I&amp;#8217;ve retired from our &lt;b&gt;#aoc&lt;/b&gt; 2020 competition, who will push me off the leaderboard?  /me drops coin in to the winner&amp;#8217;s kitty on the way out&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://jnrowe.github.io/articles/advent_of_code_2020.html&quot;&gt;                                        &lt;cite&gt;My first few days of AoC 2020&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&quot;https://adventofcode.com/2020&quot;&gt;                                        &lt;cite&gt;Advent of Code 2020&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2020-12-16T16:24:41+00:00&quot;&gt;Dec 2020&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
