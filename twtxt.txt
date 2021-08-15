@@ -255,3 +255,4 @@
 2021-08-11T14:00:38+01:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Mine is ``gA``.  I use ``gi`` a lot and ``gI`` occasionally, but often want ``gA``.
 2021-08-11T14:02:08+01:00	@<karl https://mastodon.eads_cs/karl/twtxt.txt> FWIW, I override ``s``/``S`` and rely on ``c``/``C``.  Both are only special case ``c``
 2021-08-11T14:02:08+01:00	@<karl https://mastodon.eads_cs/karl/twtxt.txt>… anyway.
+2021-08-15T23:26:46+01:00	They’ve side-graded their editor!  People /still/ won’t use syntax highlighting though.  Oh, and #MissionsS2 definitely worth it
