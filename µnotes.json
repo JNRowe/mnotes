@@ -1672,5 +1672,17 @@
         },
         "text": "@karl@eads_cs FWIW, I override ``s``/``S`` and rely on ``c``/``C``.  Both are only special case ``c`` anyway.",
         "timestamp": "2021-08-11T14:02:08+01:00"
+    },
+    {
+        "in_reply_to": {
+            "self": "2018-07-07T22:52:01+01:00"
+        },
+        "media": {
+            "comment": "Screenshot from Missions hacking session",
+            "file": "missions_scap_s2.jpg",
+            "link": "https://en.m.wikipedia.org/wiki/Missions_(TV_series)"
+        },
+        "text": "They’ve side-graded their editor!  People /still/ won\u2019t use syntax highlighting though.  Oh, and #MissionsS2 definitely worth it",
+        "timestamp": "2021-08-15T23:26:46+01:00"
     }
 ]
