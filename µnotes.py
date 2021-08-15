@@ -5,6 +5,7 @@ import html
 import json
 import re
 
+from typing import Dict, Optional
 from xml.sax.saxutils import quoteattr
 
 import jinja2
@@ -13,7 +14,8 @@ from ciso8601 import parse_rfc3339
 from jnrbase.attrdict import AttrDict
 
 
-def tag(name, attribs=None, text=r'\1'):
+def tag(name: str, attribs: Optional[Dict[str, str]] = None,
+        text: Optional[str] = r'\1') -> str:
     if attribs:
         attribs = ' ' + ' '.join('%s=%s' % (k, quoteattr(v))
                                  for k, v in attribs.items())
@@ -45,7 +47,7 @@ HTML_FILTERS = {
 }
 
 
-def munge(dct):
+def munge(dct: Dict[str, str]) -> AttrDict:
     dct = AttrDict(**dct)
     if 'text' in dct:
         dct.text = html.escape(dct.text)

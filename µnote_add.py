@@ -8,19 +8,19 @@ import subprocess
 import ciso8601
 
 
-def existing_file(string):
-    path = 'data/media/%s' % string
+def existing_file(s: str) -> str:
+    path = 'data/media/%s' % s
     if not os.path.exists(path):
         raise argparse.ArgumentTypeError('Missing file %r' % path)
-    return string
+    return s
 
 
-def valid_timestamp(string):
+def valid_timestamp(s: str) -> str:
     try:
-        ciso8601.parse_rfc3339(string)
+        ciso8601.parse_rfc3339(s)
     except ValueError as e:
         raise argparse.ArgumentTypeError(e.args[0])
-    return string
+    return s
 
 
 try:
