@@ -97,7 +97,7 @@
                         {% elif 'self' in note.in_reply_to %}
                             <p>
                                 In reply to
-                                <a href="#TS{{ note.in_reply_to.self }}"
+                                <a href="#TS{{ note.in_reply_to.self.isoformat() }}"
                                    class="u-in-reply-to">my post</a>
                                 on
                                 {{ dt_elem(note.in_reply_to.self) }}:
