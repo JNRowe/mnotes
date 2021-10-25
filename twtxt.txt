@@ -256,3 +256,6 @@
 2021-08-11T14:02:08+01:00	@<karl https://mastodon.eads_cs/karl/twtxt.txt> FWIW, I override ``s``/``S`` and rely on ``c``/``C``.  Both are only special case ``c``
 2021-08-11T14:02:08+01:00	@<karl https://mastodon.eads_cs/karl/twtxt.txt>… anyway.
 2021-08-15T23:26:46+01:00	They’ve side-graded their editor!  People /still/ won’t use syntax highlighting though.  Oh, and #MissionsS2 definitely worth it
+2021-08-26T23:43:41+01:00	The Handmaid’s Tale season 4; Once again ☆☆☆☆☆.  Whitford comes very close to stealing the show, but Moss & Dowd still tie.
+2021-10-25T11:43:12+01:00	Anyone know a way to invert vim’s case switching when dealing with non-English locales; fex ‘ß’ ``gU``s to ‘SS’, but how would I ‘SS’ to
+2021-10-25T11:43:12+01:00	… ‘ß’.  Or a tool to supplant ``gu``
