@@ -15,6 +15,13 @@
     "language": "en",
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2021-12-15T00:25:30+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2021-12-15T00:25:30+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Last thing <b>#vim</b> needs is a new package manager&#8230; please test drive JNRowe/paquiver and comment; native packages+lazy loading, <strong>nothing</strong> else.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-12-15T00:25:30+00:00\">Dec 2021</time>                                            </p>                </article>",
+            "content_text": "Last thing #vim needs is a new package manager\u2026 please test drive JNRowe/paquiver and comment; native packages+lazy loading, *nothing* else.",
+            "date_published": "2021-12-15T00:25:30+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2021-12-15T00:25:30+00:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2021-10-25T11:43:12+01:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2021-10-25T11:43:12+01:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Anyone know a way to invert vim&#8217;s case switching when dealing with non-English locales; fex &#8216;&#223;&#8217; <code>gU</code>s to &#8216;SS&#8217;, but how would I &#8216;SS&#8217; to &#8216;&#223;&#8217;.  Or a tool to supplant <code>gu</code></p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-10-25T11:43:12+01:00\">Oct 2021</time>                                            </p>                </article>",
             "content_text": "Anyone know a way to invert vim\u2019s case switching when dealing with non-English locales; fex \u2018\u00df\u2019 ``gU``s to \u2018SS\u2019, but how would I \u2018SS\u2019 to \u2018\u00df\u2019.  Or a tool to supplant ``gu``",
@@ -112,13 +119,6 @@
             "content_text": "@dan_man@eads_rpas Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, *that* site was killed by the registrar years ago.",
             "date_published": "2021-01-04T19:09:58+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2021-01-04T19:09:58+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2020-12-23T16:06:14+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2020-12-23T16:06:14+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @MissLB@eads_cs's post                                on                                <time datetime=\"2020-12-23T15:22:04+00:00\">Dec 2020</time>:                            </p>                            <blockquote><em>@sophs@eads_cs</em> I approve this message.</blockquote>                                                                                    <p class=\"e-content\"><em>@MissLB@eads_cs</em> Not the response I expected.  Confinement has mellowed you&#8230; I don&#8217;t like it.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2020-12-23T16:06:14+00:00\">Dec 2020</time>                                            </p>                </article>",
-            "content_text": "@MissLB@eads_cs Not the response I expected.  Confinement has mellowed you\u2026 I don\u2019t like it.",
-            "date_published": "2020-12-23T16:06:14+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2020-12-23T16:06:14+00:00"
         }
     ]
 }
