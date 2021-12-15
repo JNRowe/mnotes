@@ -1705,5 +1705,9 @@
     {
         "text": "Anyone know a way to invert vim’s case switching when dealing with non-English locales; fex ‘ß’ ``gU``s to ‘SS’, but how would I ‘SS’ to ‘ß’.  Or a tool to supplant ``gu``",
         "timestamp": "2021-10-25T11:43:12+01:00"
+    },
+    {
+        "text": "Last thing #vim needs is a new package manager… please test drive JNRowe/paquiver and comment; native packages+lazy loading, *nothing* else.",
+        "timestamp": "2021-12-15T00:25:30+00:00"
     }
 ]
