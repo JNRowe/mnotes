@@ -17,16 +17,20 @@ with open('data/config.json') as f:
     config = json.load(f, object_hook=AttrDict)
 
 feed = AttrDict(
-    version='https://jsonfeed.org/version/1',
+    version='https://jsonfeed.org/version/1.1',
     title='James Rowe',
     icon='https://micro.blog/JNRowe/avatar.jpg',
     home_page_url='https://jnrowe.github.com/mnotes/',
     feed_url='https://jnrowe.github.com/mnotes/feed.json',
     description=config.subtitle,
-    author={
-        'name': config.author.name,
-        'url': config.author.uri,
-    },
+    authors=[
+        {
+            'name': config.author.name,
+            'url': config.author.uri,
+            'avatar': 'https://jnrowe.github.com/mnotes/avatar.png',
+        },
+    ],
+    language='en',
     items=[]
 )
 
