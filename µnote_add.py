@@ -9,9 +9,9 @@ import ciso8601
 
 
 def existing_file(s: str) -> str:
-    path = 'data/media/%s' % s
+    path = f'data/media/{s}'
     if not os.path.exists(path):
-        raise argparse.ArgumentTypeError('Missing file %r' % path)
+        raise argparse.ArgumentTypeError(f'Missing file {path!r}')
     return s
 
 
