@@ -6,7 +6,7 @@ import sys
 from ciso8601 import parse_rfc3339
 from jnrbase.attrdict import AttrDict
 from lxml import html
-from werkzeug.contrib.atom import AtomFeed
+from feedwerk.atom import AtomFeed
 
 
 with open(sys.argv[1]) as f:
