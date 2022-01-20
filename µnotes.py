@@ -18,11 +18,11 @@ from jnrbase.attrdict import AttrDict
 def tag(name: str, attribs: Optional[Dict[str, str]] = None,
         text: Optional[str] = r'\1') -> str:
     if attribs:
-        attribs = ' ' + ' '.join('%s=%s' % (k, quoteattr(v))
-                                 for k, v in attribs.items())
+        attrib_string = ' ' + ' '.join('%s=%s' % (k, quoteattr(v))
+                                       for k, v in attribs.items())
     else:
-        attribs = ''
-    res = '\N{STX}%s%s\N{ETX}' % (name, attribs)
+        attrib_string = ''
+    res = '\N{STX}%s%s\N{ETX}' % (name, attrib_string)
     if text:
         res += '%s\N{STX}/%s\N{ETX}' % (text, name)
     return res
