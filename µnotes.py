@@ -5,6 +5,7 @@ import html
 import json
 import re
 
+from pathlib import Path
 from typing import Dict, Optional
 from xml.sax.saxutils import quoteattr
 
@@ -27,12 +28,15 @@ def tag(name: str, attribs: Optional[Dict[str, str]] = None,
     return res
 
 
-with open('data/abbrevs.dat') as f:
-    ABBREVS = [l.strip() for l in f]
-_ABBRREVISE = lambda s: ''.join([s[0] for s in s.replace('-', ' ').split()])  # NOQA
-ABBREVS = {re.compile(r'\b%s\b' % _ABBRREVISE(s)):
-           tag('abbr', {'title': html.escape(s, True)}, _ABBRREVISE(s))
-           for s in ABBREVS}
+def _abbrrevise(s: str) -> str:
+    return ''.join(s[0] for s in s.replace('-', ' ').split())
+
+
+with Path('data/abbrevs.dat').open() as f:
+    ABBREV_STRINGS = [l.strip() for l in f]
+ABBREVS = {re.compile(r'\b%s\b' % _abbrrevise(s)):
+           tag('abbr', {'title': html.escape(s, True)}, _abbrrevise(s))
+           for s in ABBREV_STRINGS}
 ENV = jinja2.Environment(loader=jinja2.FileSystemLoader('templates/'))
 HTML_FILTERS = {
     re.compile(r'(?<!&)(#[a-zA-Z_]\w+(?=[^\d\S]|\W))', re.IGNORECASE):
