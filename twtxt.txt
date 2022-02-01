@@ -261,3 +261,5 @@
 2021-10-25T11:43:12+01:00	… ‘ß’.  Or a tool to supplant ``gu``
 2021-12-15T00:25:30+00:00	Last thing #vim needs is a new package manager… please test drive JNRowe/paquiver and comment; native packages+lazy loading, *nothing*
 2021-12-15T00:25:30+00:00	… else.
+2022-02-01T02:18:15+00:00	Two in the morning, blah.  I’ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated
+2022-02-01T02:18:15+00:00	… location

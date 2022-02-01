@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2021-12-15T00:25:30+00:00</updated>
+  <updated>2022-02-01T02:18:15+00:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">Two in the morning, blah.  I’ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated location</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2022-02-01T02:18:15+00:00</id>
+    <updated>2022-02-01T02:18:15+00:00</updated>
+    <published>2022-02-01T02:18:15+00:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2022-02-01T02:18:15+00:00" />
+    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2022-02-01T02:18:15+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                            &lt;p class=&quot;e-content&quot;&gt;Two in the morning, blah.  I&amp;#8217;ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated location&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2022-02-01T02:18:15+00:00&quot;&gt;Feb 01, 02:18&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">Last thing #vim needs is a new package manager… please test drive JNRowe/paquiver and comment; native packages+lazy loading, *nothing* else.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2021-12-15T00:25:30+00:00</id>
@@ -124,14 +132,6 @@
     <published>2021-01-06T19:08:04+00:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2021-01-06T19:08:04+00:00" />
     <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2021-01-06T19:08:04+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @ikahn@eads_cs's post                                on                                &lt;time datetime=&quot;2021-01-06T17:18:19+00:00&quot;&gt;Jan 2021&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@tibbs@eads_fr&lt;/em&gt; &quot;Absolutely Amazing!&quot; - My wife.  She loved that design.  (She has no account, so comment passthru)&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@ikahn@eads_rpas&lt;/em&gt; Signup is open to &lt;strong&gt;anyone&lt;/strong&gt; who can nudge a current user; we&amp;#8217;re ~20% GWR now.  I&amp;#8217;ve texted you a signup link for Kasia.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2021-01-06T19:08:04+00:00&quot;&gt;Jan 2021&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">@dan_man@eads_rpas Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, *that* site was killed by the registrar years ago.</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2021-01-04T19:09:58+00:00</id>
-    <updated>2021-01-04T19:09:58+00:00</updated>
-    <published>2021-01-04T19:09:58+00:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2021-01-04T19:09:58+00:00" />
-    <content type="html">&lt;article class=&quot;note h-entry&quot; id=&quot;TS2021-01-04T19:09:58+00:00&quot;&gt;                                        &lt;a class=&quot;p-author h-card&quot; href=&quot;https://jnrowe.github.io/mnotes/&quot;&gt;                        &lt;img alt=&quot;JNRowe&quot; src=&quot;https://jnrowe.github.io/_images/pavatar.png&quot;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @dan_man@eads_rpas's post                                on                                &lt;time datetime=&quot;2021-01-04T12:30:26+00:00&quot;&gt;Jan 2021&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;With all these QR codes about, who isn't thinking about a huuuuuuuge stickering run?&lt;/blockquote&gt;                                                                                    &lt;p class=&quot;e-content&quot;&gt;&lt;em&gt;@dan_man@eads_rpas&lt;/em&gt; Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, &lt;strong&gt;that&lt;/strong&gt; site was killed by the registrar years ago.&lt;/p&gt;                                        &lt;p class=&quot;meta&quot;&gt;                        &lt;time class=&quot;dt-published&quot; datetime=&quot;2021-01-04T19:09:58+00:00&quot;&gt;Jan 2021&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 

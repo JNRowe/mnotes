@@ -15,6 +15,13 @@
     "language": "en",
     "items": [
         {
+            "id": "https://jnrowe.github.io/mnotes/#TS2022-02-01T02:18:15+00:00",
+            "content_html": "<article class=\"note h-entry\" id=\"TS2022-02-01T02:18:15+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Two in the morning, blah.  I&#8217;ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated location</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2022-02-01T02:18:15+00:00\">Feb 01, 02:18</time>                                            </p>                </article>",
+            "content_text": "Two in the morning, blah.  I\u2019ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated location",
+            "date_published": "2022-02-01T02:18:15+00:00",
+            "url": "https://jnrowe.github.io/mnotes/#TS2022-02-01T02:18:15+00:00"
+        },
+        {
             "id": "https://jnrowe.github.io/mnotes/#TS2021-12-15T00:25:30+00:00",
             "content_html": "<article class=\"note h-entry\" id=\"TS2021-12-15T00:25:30+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                            <p class=\"e-content\">Last thing <b>#vim</b> needs is a new package manager&#8230; please test drive JNRowe/paquiver and comment; native packages+lazy loading, <strong>nothing</strong> else.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-12-15T00:25:30+00:00\">Dec 2021</time>                                            </p>                </article>",
             "content_text": "Last thing #vim needs is a new package manager\u2026 please test drive JNRowe/paquiver and comment; native packages+lazy loading, *nothing* else.",
@@ -112,13 +119,6 @@
             "content_text": "@ikahn@eads_rpas Signup is open to *anyone* who can nudge a current user; we\u2019re ~20% GWR now.  I\u2019ve texted you a signup link for Kasia.",
             "date_published": "2021-01-06T19:08:04+00:00",
             "url": "https://jnrowe.github.io/mnotes/#TS2021-01-06T19:08:04+00:00"
-        },
-        {
-            "id": "https://jnrowe.github.io/mnotes/#TS2021-01-04T19:09:58+00:00",
-            "content_html": "<article class=\"note h-entry\" id=\"TS2021-01-04T19:09:58+00:00\">                                        <a class=\"p-author h-card\" href=\"https://jnrowe.github.io/mnotes/\">                        <img alt=\"JNRowe\" src=\"https://jnrowe.github.io/_images/pavatar.png\">                    </a>                                                                        <p>                                In reply to @dan_man@eads_rpas's post                                on                                <time datetime=\"2021-01-04T12:30:26+00:00\">Jan 2021</time>:                            </p>                            <blockquote>With all these QR codes about, who isn't thinking about a huuuuuuuge stickering run?</blockquote>                                                                                    <p class=\"e-content\"><em>@dan_man@eads_rpas</em> Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, <strong>that</strong> site was killed by the registrar years ago.</p>                                        <p class=\"meta\">                        <time class=\"dt-published\" datetime=\"2021-01-04T19:09:58+00:00\">Jan 2021</time>                                            </p>                </article>",
-            "content_text": "@dan_man@eads_rpas Surely, QR-bombing in the time of virus spread use is bio-terrorism?  Anyway, *that* site was killed by the registrar years ago.",
-            "date_published": "2021-01-04T19:09:58+00:00",
-            "url": "https://jnrowe.github.io/mnotes/#TS2021-01-04T19:09:58+00:00"
         }
     ]
 }
