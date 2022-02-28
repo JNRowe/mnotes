@@ -1713,5 +1713,34 @@
     {
         "text": "Two in the morning, blah.  I’ve just launched NoGravy, come take a look on Scribe.  If there is interest it will move to a dedicated location",
         "timestamp": "2022-02-01T02:18:15+00:00"
+    },
+    {
+        "in_reply_to": {
+            "text": "Pandemic is officially over: @JNRowe@eads_cs is back to queuing eclectic madness like Olivia Sellerio and Roni Size on a Monday morning.",
+            "toot": {
+                "timestamp": "2022-02-28T09:08:18+00:00",
+                "user": "@MissLB@eads_cs"
+            }
+        },
+        "references": [
+            {
+                "title": "Vuci mia cantannu vai",
+                "url": "https://www.youtube.com/watch?v=J2DZaQ-qqXg"
+            },
+            {
+                "title": "Roni Size - No More",
+                "url": "https://www.youtube.com/watch?v=rn0B_vHDhcY"
+            },
+            {
+                "title": "Asaf Avidan - Between these Hands",
+                "url": "https://www.youtube.com/watch?v=hG9Z4Lsbh2M"
+            },
+            {
+                "title": "Sammy Virji - Quarantine Done",
+                "url": "https://www.youtube.com/watch?v=Jp3DTRE3Lp4"
+            }
+        ],
+        "text": "@MissLB@eads_cs Jeez, imagine Sellerio on No More.  Plus, Asaf Avidan and Sammy Virji in my afternoon pick.  No apologies.",
+        "timestamp": "2022-02-28T12:34:16+00:00"
     }
 ]
