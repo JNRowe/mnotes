@@ -265,3 +265,5 @@
 2022-02-01T02:18:15+00:00	… location
 2022-02-28T12:34:16+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> Jeez, imagine Sellerio on No More.  Plus, Asaf Avidan and Sammy Virji in my afternoon
 2022-02-28T12:34:16+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… pick.  No apologies.
+2022-02-28T12:34:30+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt> And, you can’t grasp how haunting I find the final angel verse of Sellerio’s track even
+2022-02-28T12:34:30+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… though the slang is too difficult for me.
