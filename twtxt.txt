@@ -269,3 +269,7 @@
 2022-02-28T12:34:30+00:00	@<MissLB https://mastodon.eads_cs/MissLB/twtxt.txt>… though the slang is too difficult for me.
 2022-03-03T23:57:23+00:00	Hadn’t occurred to me how few people in my circle hadn’t gone back to the office, but with *zero* arguments here about the Tube strikes now
 2022-03-03T23:57:23+00:00	… I do :/
+2022-04-21T01:51:41+01:00	@<clippy https://mastodon.eads_cs/clippy/twtxt.txt> I’ve recently read the series, mostly from standard ebooks, and they’re great!
+2022-04-21T01:51:41+01:00	@<clippy https://mastodon.eads_cs/clippy/twtxt.txt>… However, there is a *lot* of problematic language.
+2022-04-21T01:52:32+01:00	@<clippy https://mastodon.eads_cs/clippy/twtxt.txt> … Can’t remember how old yours are, but wouldn’t recommend for young because of the
+2022-04-21T01:52:32+01:00	@<clippy https://mastodon.eads_cs/clippy/twtxt.txt>… endless -isms.  Amazing works though.
