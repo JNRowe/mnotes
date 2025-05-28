@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 
+import itertools
 import json
 import sys
 
@@ -34,9 +35,9 @@ feed = AttrDict(
     items=[],
 )
 
-for note, post in list(zip(reversed(notes), page.getroot().cssselect(".note")))[
-    :15
-]:
+for note, post in itertools.islice(
+    zip(reversed(notes), page.getroot().cssselect(".note")), 15
+):
     loc = "%s#TS%s" % (config.url, note.timestamp)
     content = html.tostring(post, True).decode()
     content = content.strip().replace("\n", "")

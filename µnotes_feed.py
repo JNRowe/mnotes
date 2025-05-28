@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import itertools
 import json
 import sys
 
@@ -19,9 +20,9 @@ with open("data/config.json") as f:
     config = json.load(f, object_hook=AttrDict)
 
 feed = AtomFeed(**config)
-for note, post in list(zip(reversed(notes), page.getroot().cssselect(".note")))[
-    :15
-]:
+for note, post in itertools.islice(
+    zip(reversed(notes), page.getroot().cssselect(".note")), 15
+):
     title = note.text
     content = html.tostring(post, True).decode()
     content = content.strip().replace("\n", "")
