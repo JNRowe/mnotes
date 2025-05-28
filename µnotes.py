@@ -17,8 +17,8 @@ from jnrbase.attrdict import AttrDict
 
 def tag(
     name: str,
-    attribs: Optional[Dict[str, str]] = None,
-    text: Optional[str] = r"\1",
+    attribs: dict[str, str] | None = None,
+    text: str | None = r"\1",
 ) -> str:
     if attribs:
         attrib_string = " " + " ".join(
@@ -58,7 +58,7 @@ HTML_FILTERS = {
 }
 
 
-def munge(dct: Dict[str, str]) -> AttrDict:
+def munge(dct: dict[str, str]) -> AttrDict:
     dct = AttrDict(**dct)
     if "text" in dct:
         dct.text = html.escape(dct.text)
