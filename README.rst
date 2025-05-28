@@ -34,7 +34,7 @@ what it feels like, try the following:
    $ git clone https://github.com/JNRowe/mnotes µnotes
    $ cd !$
    $ # Try out my data repo…
-   $ git clone --single-branch -b data data
+   $ git clone --single-branch -b data https://github.com/JNRowe/mnotes data
    $ ./µnotes.py > output.html
    $ xdg-open !$
 
