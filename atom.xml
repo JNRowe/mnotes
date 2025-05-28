@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">@JNRowe notes</title>
   <id>https://jnrowe.github.io/mnotes/atom.xml</id>
-  <updated>2025-05-28T12:13:37+01:00</updated>
+  <updated>2025-05-28T13:14:50+01:00</updated>
   <link href="https://jnrowe.github.io/mnotes/" />
   <link href="https://jnrowe.github.io/mnotes/atom.xml" rel="self" />
   <author>
@@ -13,6 +13,14 @@
   <subtitle type="text">Public ramblings of @JNRowe</subtitle>
   <logo>https://jnrowe.github.io/_images/pavatar.png</logo>
   <generator uri="https://github.io/JNRowe/mnotes">µnotes</generator>
+  <entry xml:base="https://jnrowe.github.io/mnotes/">
+    <title type="text">@chewy@eads_cs Thank you!  Didn’t realise Channel 4 was so far behind, lucky I didn’t post spoilers.</title>
+    <id>https://jnrowe.github.io/mnotes/#TS2025-05-28T13:14:50+01:00</id>
+    <updated>2025-05-28T13:14:50+01:00</updated>
+    <published>2025-05-28T13:14:50+01:00</published>
+    <link href="https://jnrowe.github.io/mnotes/#TS2025-05-28T13:14:50+01:00" />
+    <content type="html">&lt;article class=&#34;note h-entry&#34; id=&#34;TS2025-05-28T13:14:50+01:00&#34;&gt;                                        &lt;a class=&#34;p-author h-card&#34; href=&#34;https://jnrowe.github.io/mnotes/&#34;&gt;                        &lt;img alt=&#34;JNRowe&#34; src=&#34;https://jnrowe.github.io/_images/pavatar.png&#34;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @chewy@eads_cs&#39;s post                                on                                &lt;time datetime=&#34;2025-05-28T13:12:06+01:00&#34;&gt;May 28, 13:12&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; WB, LTNPost. C4 is only on episode four.  KEEP QUIET &amp;lt;shakes fist angrily&amp;gt;&lt;/blockquote&gt;                                                                                    &lt;p class=&#34;e-content&#34;&gt;&lt;em&gt;@chewy@eads_cs&lt;/em&gt; Thank you!  Didn&amp;#8217;t realise Channel 4 was so far behind, lucky I didn&amp;#8217;t post spoilers.&lt;/p&gt;                                        &lt;p class=&#34;meta&#34;&gt;                        &lt;time class=&#34;dt-published&#34; datetime=&#34;2025-05-28T13:14:50+01:00&#34;&gt;May 28, 13:14&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
+  </entry>
   <entry xml:base="https://jnrowe.github.io/mnotes/">
     <title type="text">The Handmaid’s Tale final season ☆☆☆☆☆.  Whitford once again comes close to stealing the show, sad Dowd didn&#39;t get a better broader sendoff.</title>
     <id>https://jnrowe.github.io/mnotes/#TS2025-05-28T12:13:37+01:00</id>
@@ -124,14 +132,6 @@
     <published>2021-08-07T18:20:15+01:00</published>
     <link href="https://jnrowe.github.io/mnotes/#TS2021-08-07T18:20:15+01:00" />
     <content type="html">&lt;article class=&#34;note h-entry&#34; id=&#34;TS2021-08-07T18:20:15+01:00&#34;&gt;                                        &lt;a class=&#34;p-author h-card&#34; href=&#34;https://jnrowe.github.io/mnotes/&#34;&gt;                        &lt;img alt=&#34;JNRowe&#34; src=&#34;https://jnrowe.github.io/_images/pavatar.png&#34;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to @cmack@eads_cs&#39;s post                                on                                &lt;time datetime=&#34;2021-08-06T09:34:50+01:00&#34;&gt;Aug 2021&lt;/time&gt;:                            &lt;/p&gt;                            &lt;blockquote&gt;&lt;em&gt;@JNRowe@eads_cs&lt;/em&gt; igneous wants my new neovim frontend, I take it you&amp;#8217;re planning to maintain it? +1000, good work!&lt;/blockquote&gt;                                                                                    &lt;p class=&#34;e-content&#34;&gt;&lt;em&gt;@cmack@eads_cs&lt;/em&gt; Hmm, dunno.  People seem to like it, but I may not be one of them.  Just doesn&amp;#8217;t &lt;em&gt;feel&lt;/em&gt; right.&lt;/p&gt;                                        &lt;p class=&#34;meta&#34;&gt;                        &lt;time class=&#34;dt-published&#34; datetime=&#34;2021-08-07T18:20:15+01:00&#34;&gt;Aug 2021&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
-  </entry>
-  <entry xml:base="https://jnrowe.github.io/mnotes/">
-    <title type="text">… and the men’s game was good too!  Excellent Tailenders explanation: “it’s like cricket, but shorter!” 📏</title>
-    <id>https://jnrowe.github.io/mnotes/#TS2021-07-22T21:59:47+01:00</id>
-    <updated>2021-07-22T21:59:47+01:00</updated>
-    <published>2021-07-22T21:59:47+01:00</published>
-    <link href="https://jnrowe.github.io/mnotes/#TS2021-07-22T21:59:47+01:00" />
-    <content type="html">&lt;article class=&#34;note h-entry&#34; id=&#34;TS2021-07-22T21:59:47+01:00&#34;&gt;                                        &lt;a class=&#34;p-author h-card&#34; href=&#34;https://jnrowe.github.io/mnotes/&#34;&gt;                        &lt;img alt=&#34;JNRowe&#34; src=&#34;https://jnrowe.github.io/_images/pavatar.png&#34;&gt;                    &lt;/a&gt;                                                                        &lt;p&gt;                                In reply to                                &lt;a href=&#34;#TS2021-07-21T21:08:59+01:00&#34; class=&#34;u-in-reply-to&#34;&gt;my post&lt;/a&gt;                                on                                &lt;time datetime=&#34;2021-07-21T21:08:59+01:00&#34;&gt;Jul 2021&lt;/time&gt;:                            &lt;/p&gt;                                                                                    &lt;p class=&#34;e-content&#34;&gt;&amp;#8230; and the men&amp;#8217;s game was good too!  Excellent Tailenders explanation: &amp;#8220;it&amp;#8217;s like cricket, but shorter!&amp;#8221; &amp;#128207;&lt;/p&gt;                                            &lt;ul&gt;                                                            &lt;li&gt;                                    &lt;a href=&#34;https://www.thehundred.com/&#34;&gt;                                        &lt;cite&gt;The Hundred&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                            &lt;li&gt;                                    &lt;a href=&#34;https://www.bbc.co.uk/programmes/p02pcb4w&#34;&gt;                                        &lt;cite&gt;Tailenders&lt;/cite&gt;                                    &lt;/a&gt;                                &lt;/li&gt;                                                    &lt;/ul&gt;                                        &lt;p class=&#34;meta&#34;&gt;                        &lt;time class=&#34;dt-published&#34; datetime=&#34;2021-07-22T21:59:47+01:00&#34;&gt;Jul 2021&lt;/time&gt;                                            &lt;/p&gt;                &lt;/article&gt;</content>
   </entry>
 </feed>
 
