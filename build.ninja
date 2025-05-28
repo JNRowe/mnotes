@@ -1,0 +1,13 @@
+rule main_page
+  command = ./µnotes.py > $out
+rule atom_feed
+  command = ./µnotes_feed.py $in > $out
+rule json_feed
+  command = ./µnotes_jsonfeed.py $in >$out
+rule twtxt_feed
+  command = ./µnotes_twtxt.py >$out
+
+build output/index.html: main_page | ./µnotes.py data/µnotes.json data/config.json
+build output/atom.xml: atom_feed output/index.html | µnotes_feed.py
+build output/feed.json: json_feed output/index.html | µnotes_jsonfeed.py
+build output/twtxt.txt: twtxt_feed | µnotes_twtxt.py data/µnotes.json
