@@ -1799,5 +1799,22 @@
         },
         "text": "@clippy@eads_cs … Can’t remember how old yours are, but wouldn’t recommend for young because of the endless -isms.  Amazing works though.",
         "timestamp": "2022-04-21T01:52:32+01:00"
+    },
+    {
+        "in_reply_to": {
+            "self": "2021-08-26T23:43:41+01:00"
+        },
+        "references": [
+            {
+                "title": "The Handmaid's Tale",
+                "url": "https://www.hulu.com/the-handmaids-tale"
+            },
+            {
+                "title": "Channel 4 description and run",
+                "url": "https://www.channel4.com/programmes/the-handmaids-tale"
+            }
+        ],
+        "text": "The Handmaid’s Tale final season \u2606\u2606\u2606\u2606\u2606.  Whitford once again comes close to stealing the show, sad Dowd didn't get a better broader sendoff.",
+        "timestamp": "2025-05-28T12:13:37+01:00"
     }
 ]
